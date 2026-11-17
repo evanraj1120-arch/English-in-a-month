@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Honors English 10 Semester One Study Platform
 
 A source-aware study aid for the Honors English 10 semester examination. It includes novel guides, exam-method reviews, terminology and poetry study, objective quizzes, passage annotation, optional timers, and browser-local progress.
@@ -78,6 +77,3 @@ See [CONTENT_STANDARDS.md](CONTENT_STANDARDS.md), [SOURCE_INVENTORY.md](SOURCE_I
 - No public deployment address is available until a repository is configured and the Pages workflow succeeds.
 
 For the audit, scope, corrections, and release recommendation, see [PHASE6_AUDIT_REPORT.md](PHASE6_AUDIT_REPORT.md). For implemented practice behavior, see [PHASE5_COMPLETION_REPORT.md](PHASE5_COMPLETION_REPORT.md).
-=======
-
->>>>>>> 2d2982f4578d65efb1262a44e034514f87bf96dd
