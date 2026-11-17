@@ -1,0 +1,1053 @@
+[
+  {
+    "id": "guide-1984",
+    "novel": "1984",
+    "status": "ready_for_review",
+    "overview": [
+      {
+        "id": "1984-overview-story",
+        "text": "In Oceania, Winston Smith works at the Ministry of Truth, where the past is continually rewritten. His private diary, relationship with Julia, and search for a life beyond Party control bring him into conflict with the surveillance state; his arrest and torture culminate in psychological surrender.",
+        "origin": "textual_evidence",
+        "sourceRecordIds": ["teacher-1984-book-chat-notes"],
+        "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [9, 271], "note": "The narrative spans this reference copy; PDF pagination is not an assigned-edition citation." }]
+      },
+      {
+        "id": "1984-overview-class-frame",
+        "text": "The class notes frame the central conflict as individual consciousness versus collective consciousness, and describe the novel as anti-utopian: a warning about a possible social future.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["teacher-1984-book-chat-notes"]
+      }
+    ],
+    "plotChronology": [
+      {
+        "order": 1,
+        "event": {
+          "id": "1984-plot-diary",
+          "text": "Winston begins a private diary in a society where even an unwritten law can make independent thought dangerous. His work at the Ministry of Truth involves altering historical records.",
+          "origin": "textual_evidence",
+          "sourceRecordIds": ["teacher-1984-book-chat-notes"],
+          "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [9, 45], "note": "Part One; reference-copy PDF pages." }]
+        },
+        "significance": {
+          "id": "1984-plot-diary-significance",
+          "text": "The diary is both a concrete act of resistance and an attempt to preserve an independent account of reality. Winston's job makes the conflict especially direct: he helps manufacture the false past he privately doubts.",
+          "origin": "ai_analysis",
+          "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-1984-symbols"],
+          "evidenceIds": ["ev-1984-party-slogans"]
+        }
+      },
+      {
+        "order": 2,
+        "event": {
+          "id": "1984-plot-julia",
+          "text": "Julia approaches Winston and they begin a secret relationship, first meeting outside the city and later using a rented room above Mr. Charrington's shop.",
+          "origin": "textual_evidence",
+          "sourceRecordIds": ["student-1984-settings-atmosphere", "student-1984-character-notes"],
+          "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [110, 126], "note": "Part Two; reference-copy PDF pages." }]
+        },
+        "significance": {
+          "id": "1984-plot-julia-significance",
+          "text": "The relationship gives Winston an experience of private attachment outside Party ritual, but the rented room only appears to be a refuge. Its later exposure turns intimacy and trust into vulnerabilities the state can exploit.",
+          "origin": "ai_analysis",
+          "sourceRecordIds": ["student-1984-settings-atmosphere", "student-1984-charrington-interpretation"],
+          "evidenceIds": ["ev-1984-charrington-friendly", "ev-1984-charrington-reveal"]
+        }
+      },
+      {
+        "order": 3,
+        "event": {
+          "id": "1984-plot-brotherhood",
+          "text": "Winston and Julia approach O'Brien believing he may connect them to the Brotherhood. O'Brien later gives Winston a book attributed to Goldstein, which Winston reads as an account of the Party's social structure and methods.",
+          "origin": "textual_evidence",
+          "sourceRecordIds": ["teacher-1984-book-chat-notes"],
+          "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [147, 164], "note": "Part Two; reference-copy PDF pages." }]
+        },
+        "significance": {
+          "id": "1984-plot-brotherhood-significance",
+          "text": "Winston's search for organized resistance also exposes his desire for an explanation of how power works. His trust in O'Brien proves tragically misplaced; the apparent route to resistance is part of the trap.",
+          "origin": "ai_analysis",
+          "sourceRecordIds": ["student-1984-character-notes", "student-1984-charrington-interpretation"]
+        }
+      },
+      {
+        "order": 4,
+        "event": {
+          "id": "1984-plot-arrest",
+          "text": "The Thought Police arrest Winston and Julia in the room above the shop after revealing the telescreen hidden behind the picture. The shopkeeper, Charrington, is revealed as a Thought Police operative.",
+          "origin": "textual_evidence",
+          "sourceRecordIds": ["student-1984-charrington-interpretation"],
+          "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [92, 207], "note": "The shop and its later revelation; reference-copy PDF pages." }]
+        },
+        "significance": {
+          "id": "1984-plot-arrest-significance",
+          "text": "The discovery reverses the room's meaning from sanctuary to instrument of surveillance. The reversal also reveals the limits of Winston's perspective: he mistakes a staged appearance of safety for genuine privacy.",
+          "origin": "ai_analysis",
+          "sourceRecordIds": ["student-1984-charrington-interpretation", "student-1984-settings-atmosphere"],
+          "evidenceIds": ["ev-1984-charrington-recognition", "ev-1984-charrington-reveal"]
+        }
+      },
+      {
+        "order": 5,
+        "event": {
+          "id": "1984-plot-interrogation",
+          "text": "At the Ministry of Love, O'Brien directs Winston's interrogation and physical torture. The Party does not settle for outward obedience: it seeks to make Winston accept the Party's account of reality.",
+          "origin": "textual_evidence",
+          "sourceRecordIds": ["student-1984-character-notes", "student-glass-castle-tyrant-comparison"],
+          "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [212, 250], "note": "Part Three; reference-copy PDF pages." }]
+        },
+        "significance": {
+          "id": "1984-plot-interrogation-significance",
+          "text": "Torture turns the novel's abstract conflict over truth into bodily coercion. O'Brien's power is institutional and ideological, not merely personal; the objective is to remake Winston's inner allegiance.",
+          "origin": "ai_analysis",
+          "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-1984-character-notes"],
+          "evidenceIds": ["ev-1984-truncheon"]
+        }
+      },
+      {
+        "order": 6,
+        "event": {
+          "id": "1984-plot-room-101",
+          "text": "In Room 101, Winston faces the fear most specific to him and begs for Julia to suffer in his place. He betrays the relationship he had treated as a private alternative to the Party.",
+          "origin": "textual_evidence",
+          "sourceRecordIds": ["student-1984-character-notes", "student-1984-symbols"],
+          "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [258, 261], "note": "Part Three; reference-copy PDF pages." }]
+        },
+        "significance": {
+          "id": "1984-plot-room-101-significance",
+          "text": "The climax tests whether private loyalty can survive the Party's personalized use of fear. Winston's betrayal is not a simple voluntary change of opinion; it is the result the Party has engineered through coercion.",
+          "origin": "ai_analysis",
+          "sourceRecordIds": ["student-1984-character-notes", "student-1984-symbols"]
+        }
+      },
+      {
+        "order": 7,
+        "event": {
+          "id": "1984-plot-ending",
+          "text": "After release, Winston spends time at the Chestnut Tree Cafe and encounters Julia again. The novel ends with Winston's internal surrender to Big Brother.",
+          "origin": "textual_evidence",
+          "sourceRecordIds": ["student-1984-detail-assignment", "student-1984-symbols"],
+          "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [265, 271], "note": "Part Three; reference-copy PDF pages." }]
+        },
+        "significance": {
+          "id": "1984-plot-ending-significance",
+          "text": "The ending denies a conventional recovery of the protagonist's former self. The student describes the final declaration of love for Big Brother as a terrifying warning; the class framework supports reading the ending as the Party's attempted destruction of individual consciousness.",
+          "origin": "ai_analysis",
+          "sourceRecordIds": ["student-1984-detail-assignment", "teacher-1984-book-chat-notes"],
+          "uncertainty": "The student's interpretation is preserved as a student claim, not a teacher-approved answer."
+        }
+      }
+    ],
+    "settings": [
+      {
+        "id": "1984-setting-oceania",
+        "text": "Oceania is a totalitarian state organized around Party surveillance and propaganda. London is shown through Winston's daily experience of shabby housing, controlled information, public rituals, and restricted movement.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-1984-settings-atmosphere"]
+      },
+      {
+        "id": "1984-setting-ministries",
+        "text": "The four ministries invert their names: Truth handles propaganda, Peace handles war, Love houses internal policing, and Plenty manages the economy, according to the class notes. Their settings make contradiction part of ordinary political language.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["teacher-1984-book-chat-notes"]
+      },
+      {
+        "id": "1984-setting-room",
+        "text": "Winston and Julia's rented room above Charrington's shop is initially read by Winston as a private sanctuary. The concealed telescreen and Charrington's reveal transform the setting into a surveillance trap.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-1984-settings-atmosphere", "student-1984-charrington-interpretation"],
+        "evidenceIds": ["ev-1984-charrington-reveal"]
+      },
+      {
+        "id": "1984-setting-golden-country",
+        "text": "The Golden Country appears in Winston's dream and becomes a real place where he and Julia meet. Its pastoral openness contrasts with monitored urban life; treat it as Winston's imagined refuge, not a guarantee of lasting freedom.",
+        "origin": "textual_evidence",
+        "sourceRecordIds": ["student-1984-settings-atmosphere", "student-1984-symbols"],
+        "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [113], "note": "Reference-copy PDF page." }]
+      },
+      {
+        "id": "1984-setting-room101",
+        "text": "Room 101 is the final coercive setting in Winston's interrogation. The class student notes associate it with fear and the destruction of individuality; the plot shows the Party exploiting Winston's individual terror.",
+        "origin": "student_work",
+        "sourceRecordIds": ["student-1984-settings-atmosphere", "student-1984-symbols"]
+      }
+    ],
+    "characters": [
+      {
+        "name": "Winston Smith",
+        "profile": {
+          "id": "1984-winston-profile",
+          "text": "An Outer Party member whose work revises records for the Ministry of Truth. He begins by privately questioning Party reality and ends under the Party's control; the student character worksheet and its blank stages chart should be distinguished from the plot-based study here.",
+          "origin": "textual_evidence",
+          "sourceRecordIds": ["student-1984-character-notes", "1984-plot-coverage-gap"],
+          "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [9, 271], "note": "Reference-copy PDF pages." }]
+        },
+        "traits": [
+          { "id": "1984-winston-trait-introspective", "text": "His diary, attention to inconsistencies, and effort to remember the past show a reflective impulse that the Party treats as dangerous.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-1984-symbols"] },
+          { "id": "1984-winston-trait-vulnerable", "text": "Winston's courage is real but limited: he seeks resistance and intimacy, yet his dependence on imagined safe spaces and his fear make him vulnerable to the Party's trap.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-character-notes", "student-1984-settings-atmosphere"] }
+        ],
+        "motivations": [
+          { "id": "1984-winston-motivation-truth", "text": "He wants to preserve a private account of experience and establish whether the Party's version of the past is false.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-1984-symbols"] },
+          { "id": "1984-winston-motivation-connection", "text": "His relationship with Julia offers personal attachment and bodily freedom outside Party control.", "origin": "textual_evidence", "sourceRecordIds": ["student-1984-character-notes"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [110, 126], "note": "Reference-copy PDF pages." }] }
+        ],
+        "conflicts": [
+          { "id": "1984-winston-conflict-state", "text": "The central conflict is between individual consciousness and collective consciousness, as the teacher's Book Chat notes explicitly frame it.", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes"] },
+          { "id": "1984-winston-conflict-self", "text": "He must choose between survival under coercion and loyalty to his private beliefs and relationships; Room 101 breaks that loyalty.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-character-notes", "student-1984-symbols"] }
+        ],
+        "relationships": [
+          { "id": "1984-winston-relationship-julia", "text": "Winston and Julia share a secret relationship that both experience as rebellion, but they understand and respond to political danger differently.", "origin": "textual_evidence", "sourceRecordIds": ["student-1984-character-notes"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [110, 126, 261], "note": "Reference-copy PDF pages." }] },
+          { "id": "1984-winston-relationship-obrien", "text": "Winston trusts O'Brien as a possible ally; O'Brien's true role makes that trust a mechanism of entrapment.", "origin": "textual_evidence", "sourceRecordIds": ["student-1984-character-notes"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [147, 212], "note": "Reference-copy PDF pages." }] }
+        ],
+        "development": [
+          { "id": "1984-winston-development", "text": "His outward trajectory is from private dissent and hope for resistance to torture, betrayal, and internal surrender. This is a collapse under coercion, not a redemptive growth arc.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-character-notes", "student-1984-detail-assignment"] }
+        ],
+        "themeConnections": [
+          { "id": "1984-winston-theme", "text": "Winston's experience dramatizes the Party's effort to control truth, memory, intimacy, and the boundaries of the self.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-1984-theme-framework", "teacher-1984-book-chat-notes"] }
+        ],
+        "evidenceIds": ["ev-1984-party-slogans", "ev-1984-truncheon"],
+        "studentInterpretationRecordIds": ["student-1984-character-notes", "student-1984-detail-assignment"]
+      },
+      {
+        "name": "Julia",
+        "profile": {
+          "id": "1984-julia-profile",
+          "text": "A Party member who enters a secret relationship with Winston. The student's notes say she first gives Winston hope and later represents human frailty after torture; preserve those labels as the student's interpretation rather than a settled character verdict.",
+          "origin": "student_work",
+          "sourceRecordIds": ["student-1984-character-notes"]
+        },
+        "traits": [
+          { "id": "1984-julia-trait-practical", "text": "Her rebellion is expressed through concrete private choices, especially secrecy, sex, and seeking moments of freedom rather than building Winston's theoretical program.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-character-notes"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [110, 126], "note": "Reference-copy PDF pages." }] }
+        ],
+        "motivations": [
+          { "id": "1984-julia-motivation", "text": "She seeks personal independence and pleasure within a system that regulates private life.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-character-notes"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [110, 126], "note": "Reference-copy PDF pages." }] }
+        ],
+        "conflicts": [
+          { "id": "1984-julia-conflict", "text": "Her desire for a private life conflicts with Party surveillance and the danger of being discovered.", "origin": "textual_evidence", "sourceRecordIds": ["student-1984-character-notes"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [126, 207], "note": "Reference-copy PDF pages." }] }
+        ],
+        "relationships": [
+          { "id": "1984-julia-relationship-winston", "text": "Her relationship with Winston is a shared act of dissent, but Room 101 forces each to betray the other.", "origin": "textual_evidence", "sourceRecordIds": ["student-1984-character-notes"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [110, 261], "note": "Reference-copy PDF pages." }] }
+        ],
+        "development": [
+          { "id": "1984-julia-development", "text": "The available class character chart contains limited evidence for a full development analysis. The novel's final reunion with Winston shows both have been changed by torture, but does not support treating her as merely a symbol of his recovery.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-character-notes", "1984-plot-coverage-gap"] }
+        ],
+        "themeConnections": [
+          { "id": "1984-julia-theme", "text": "Her secret relationship helps develop the conflict between bodily/private freedom and the Party's attempt to control personal life.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-1984-character-notes"] }
+        ],
+        "evidenceIds": [],
+        "studentInterpretationRecordIds": ["student-1984-character-notes"]
+      },
+      {
+        "name": "O'Brien",
+        "profile": {
+          "id": "1984-obrien-profile",
+          "text": "An Inner Party member who presents himself to Winston as a possible Brotherhood contact, then directs Winston's torture. The student calls him a flat, two-dimensional Party member; that characterization is preserved but is not adopted as the guide's final analysis.",
+          "origin": "student_work",
+          "sourceRecordIds": ["student-1984-character-notes"]
+        },
+        "traits": [
+          { "id": "1984-obrien-trait-manipulative", "text": "He uses apparent recognition and access to Winston's hopes to gain trust before exposing his role as an interrogator.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-character-notes"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [147, 212], "note": "Reference-copy PDF pages." }] },
+          { "id": "1984-obrien-trait-doctrinal", "text": "He explains the Party's pursuit of power as an end in itself and attempts to compel Winston to accept the Party's version of reality.", "origin": "textual_evidence", "sourceRecordIds": ["teacher-1984-book-chat-notes"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [238, 250], "note": "Reference-copy PDF pages." }] }
+        ],
+        "motivations": [
+          { "id": "1984-obrien-motivation", "text": "His stated purpose in interrogating Winston is not simply to extract information but to produce submission and ideological conformity.", "origin": "textual_evidence", "sourceRecordIds": ["teacher-1984-book-chat-notes"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [238, 250], "note": "Reference-copy PDF pages." }] }
+        ],
+        "conflicts": [
+          { "id": "1984-obrien-conflict", "text": "O'Brien acts as the personified agent of the conflict between Party power and individual consciousness.", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes", "teacher-1984-theme-framework"] }
+        ],
+        "relationships": [
+          { "id": "1984-obrien-relationship-winston", "text": "He turns Winston's belief that they share a political understanding into a channel for coercion.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-character-notes"] }
+        ],
+        "development": [
+          { "id": "1984-obrien-development", "text": "O'Brien is less a changing character than a revelation: the apparent ally is disclosed as an agent of the system Winston opposes.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-character-notes"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [147, 212], "note": "Reference-copy PDF pages." }] }
+        ],
+        "themeConnections": [
+          { "id": "1984-obrien-theme", "text": "Through O'Brien, political power becomes interpersonal, physical, and psychological rather than remaining an abstract institution.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-glass-castle-tyrant-comparison"] }
+        ],
+        "evidenceIds": ["ev-1984-truncheon"],
+        "studentInterpretationRecordIds": ["student-1984-character-notes"]
+      },
+      {
+        "name": "Mr. Charrington",
+        "profile": {
+          "id": "1984-charrington-profile",
+          "text": "An antique-shop owner who appears to help Winston obtain a diary, paperweight, and rented room, but is later revealed as a Thought Police operative. The student describes him as static and two-dimensional; the more useful exam focus is the role his reveal plays in the plot and Winston's perspective.",
+          "origin": "student_work",
+          "sourceRecordIds": ["student-1984-character-notes", "student-1984-charrington-interpretation"]
+        },
+        "traits": [
+          { "id": "1984-charrington-trait-performance", "text": "His apparent harmlessness is a performance that encourages Winston to trust him.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-charrington-interpretation"], "evidenceIds": ["ev-1984-charrington-friendly", "ev-1984-charrington-reveal"] }
+        ],
+        "motivations": [
+          { "id": "1984-charrington-motivation", "text": "As an operative, he facilitates the surveillance operation that captures Winston and Julia; the story does not provide a separate personal motive for him.", "origin": "textual_evidence", "sourceRecordIds": ["student-1984-charrington-interpretation"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [92, 207], "note": "Reference-copy PDF pages." }] }
+        ],
+        "conflicts": [
+          { "id": "1984-charrington-conflict", "text": "The key conflict is between Winston's need for a private refuge and a state that can make even apparent trust part of surveillance.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-charrington-interpretation", "teacher-1984-book-chat-notes"] }
+        ],
+        "relationships": [
+          { "id": "1984-charrington-relationship-winston", "text": "He exploits Winston's interest in the past and his longing for privacy to build trust.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-charrington-interpretation"], "evidenceIds": ["ev-1984-charrington-friendly"] }
+        ],
+        "development": [
+          { "id": "1984-charrington-development", "text": "The reveal changes Winston's and the reader's understanding of Charrington without requiring the character himself to change.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-charrington-interpretation"], "evidenceIds": ["ev-1984-charrington-recognition"] }
+        ],
+        "themeConnections": [
+          { "id": "1984-charrington-theme", "text": "His role develops surveillance, the destruction of private space, and the danger of trusting appearances under a totalitarian system.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-1984-charrington-interpretation"] }
+        ],
+        "evidenceIds": ["ev-1984-charrington-friendly", "ev-1984-charrington-reveal", "ev-1984-charrington-recognition"],
+        "studentInterpretationRecordIds": ["student-1984-charrington-interpretation", "student-1984-character-notes"]
+      }
+    ],
+    "themes": [
+      {
+        "name": "Power, truth, and reality",
+        "centralIdea": { "id": "1984-theme-truth-idea", "text": "The Party's power depends on controlling not only behavior but the standards by which people decide what is true.", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes", "teacher-1984-theme-framework"] },
+        "development": [
+          { "id": "1984-theme-truth-development-1", "text": "Winston's job rewriting records demonstrates the institutional production of a usable past.", "origin": "textual_evidence", "sourceRecordIds": ["teacher-1984-book-chat-notes"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [45], "note": "Reference-copy PDF page." }] },
+          { "id": "1984-theme-truth-development-2", "text": "The slogans pair contradictions as official truths; Winston's interrogation later shows the Party demanding that he submit his own judgment to its authority.", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes"], "evidenceIds": ["ev-1984-party-slogans"] },
+          { "id": "1984-theme-truth-development-3", "text": "The ending shows that the Party's goal extends beyond forcing public statements: Winston's internal allegiance has been transformed.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-detail-assignment"], "evidenceIds": ["ev-1984-party-slogans"] }
+        ],
+        "evidenceIds": ["ev-1984-party-slogans"],
+        "nuance": [
+          { "id": "1984-theme-truth-nuance", "text": "Distinguish temporary falsification of a record from the more radical goal of making people unable to trust memory or independent judgment. Also distinguish what the narrator shows from what the Party claims.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-1984-book-chat-notes"] }
+        ]
+      },
+      {
+        "name": "Surveillance and private identity",
+        "centralIdea": { "id": "1984-theme-surveillance-idea", "text": "The Party treats private thought, desire, and loyalty as political threats, so even intimate spaces can become extensions of public control.", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes", "teacher-1984-theme-framework"] },
+        "development": [
+          { "id": "1984-theme-surveillance-development-1", "text": "The telescreen and public rituals make surveillance part of ordinary daily life.", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes"] },
+          { "id": "1984-theme-surveillance-development-2", "text": "The rented room's apparent privacy and subsequent exposure reveal the limits of Winston's attempts to create a separate life.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-settings-atmosphere", "student-1984-charrington-interpretation"], "evidenceIds": ["ev-1984-charrington-reveal"] },
+          { "id": "1984-theme-surveillance-development-3", "text": "Room 101 uses Winston's individual fear to destroy his remaining personal loyalty.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-character-notes", "student-1984-symbols"] }
+        ],
+        "evidenceIds": ["ev-1984-charrington-reveal"],
+        "nuance": [
+          { "id": "1984-theme-surveillance-nuance", "text": "The student notes that isolation can sometimes protect identity; test that idea against this novel, where Winston's attempted privacy offers temporary resistance but does not protect him from the Party.", "origin": "student_work", "sourceRecordIds": ["student-1984-theme-messages", "student-1984-settings-atmosphere"], "uncertainty": "This retains a student-generated cross-theme idea and adds a text-specific qualification; it is not a teacher conclusion." }
+        ]
+      },
+      {
+        "name": "Language and control of thought",
+        "centralIdea": { "id": "1984-theme-language-idea", "text": "Newspeak and political slogans make language a means of narrowing thought and naturalizing contradictions.", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes"] },
+        "development": [
+          { "id": "1984-theme-language-development-1", "text": "Syme's work on Newspeak connects vocabulary reduction to the Party's future aim of making certain thoughts difficult or impossible to express.", "origin": "textual_evidence", "sourceRecordIds": ["student-1984-character-notes"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [53], "note": "Reference-copy PDF page." }] },
+          { "id": "1984-theme-language-development-2", "text": "The slogans turn contradiction into a repeated public formula; explain how the paired words clash before explaining their political function.", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes"], "evidenceIds": ["ev-1984-party-slogans"] }
+        ],
+        "evidenceIds": ["ev-1984-party-slogans"],
+        "nuance": [
+          { "id": "1984-theme-language-nuance", "text": "Newspeak is a planned linguistic system; doublethink is the mental practice of holding or accepting incompatible claims. They are related mechanisms, not synonyms.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-1984-book-chat-notes"] }
+        ]
+      },
+      {
+        "name": "Individual and collective power",
+        "centralIdea": { "id": "1984-theme-individual-idea", "text": "The novel tests whether an individual's memory, love, and dissent can resist a state that seeks to dominate the whole inner life.", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes", "teacher-1984-theme-framework"] },
+        "development": [
+          { "id": "1984-theme-individual-development-1", "text": "Winston's diary and relationship with Julia are private acts set against the Party's collective rituals.", "origin": "textual_evidence", "sourceRecordIds": ["student-1984-symbols"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [9, 110], "note": "Reference-copy PDF pages." }] },
+          { "id": "1984-theme-individual-development-2", "text": "The Party's treatment of Winston and the ending make his individual defeat explicit; the novel does not verify that the Proles will overthrow the Party.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-1984-detail-assignment"] }
+        ],
+        "evidenceIds": ["ev-1984-truncheon"],
+        "nuance": [
+          { "id": "1984-theme-individual-nuance", "text": "Winston's hope in the Proles is a character belief, not proof of their organized resistance. Separate a possibility he imagines from an outcome the narrative confirms.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-1984-symbols"] }
+        ]
+      }
+    ],
+    "symbolsAndMotifs": [
+      {
+        "objectOrMotif": "The diary",
+        "literalPresence": { "id": "1984-symbol-diary-literal", "text": "Winston writes in a private diary despite knowing that the act can expose him to punishment.", "origin": "textual_evidence", "sourceRecordIds": ["student-1984-symbols"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [9], "note": "Reference-copy PDF page." }] },
+        "developingMeanings": [{ "id": "1984-symbol-diary-meaning", "text": "The diary represents an attempt to preserve individual memory and create a private record outside Party control.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-symbols"] }],
+        "characterAndThemeLinks": [{ "id": "1984-symbol-diary-link", "text": "Its physical privacy is fragile, mirroring Winston's fragile attempt to maintain an inner self.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-symbols", "teacher-1984-theme-framework"] }],
+        "evidenceIds": []
+      },
+      {
+        "objectOrMotif": "The telescreen",
+        "literalPresence": { "id": "1984-symbol-telescreen-literal", "text": "Telescreens broadcast Party messages and enable surveillance in spaces Winston occupies.", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes"] },
+        "developingMeanings": [{ "id": "1984-symbol-telescreen-meaning", "text": "It joins propaganda and observation in one object, making political communication inseparable from the threat of being watched.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-1984-symbols"] }],
+        "characterAndThemeLinks": [{ "id": "1984-symbol-telescreen-link", "text": "Its presence shapes Winston's movements and makes privacy a contested, uncertain condition.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-1984-settings-atmosphere"] }],
+        "evidenceIds": []
+      },
+      {
+        "objectOrMotif": "The paperweight",
+        "literalPresence": { "id": "1984-symbol-paperweight-literal", "text": "Winston buys an old glass paperweight from Charrington's shop and keeps it in the rented room.", "origin": "textual_evidence", "sourceRecordIds": ["student-1984-character-notes", "student-1984-symbols"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [92], "note": "Reference-copy PDF page." }] },
+        "developingMeanings": [{ "id": "1984-symbol-paperweight-meaning", "text": "The student associates the paperweight with history, memory, and a fragile refuge. Its breakage accompanies the exposure of the room and the collapse of that imagined refuge.", "origin": "student_work", "sourceRecordIds": ["student-1984-symbols", "student-1984-settings-atmosphere"], "uncertainty": "The symbolic meanings are student interpretations; the packet's motif labels are not teacher-verified." }],
+        "characterAndThemeLinks": [{ "id": "1984-symbol-paperweight-link", "text": "It links Winston's attraction to the past with his wish to make a bounded private world.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-symbols", "student-1984-character-notes"] }],
+        "evidenceIds": []
+      },
+      {
+        "objectOrMotif": "Room 101",
+        "literalPresence": { "id": "1984-symbol-room101-literal", "text": "Room 101 is where the Party confronts Winston with his greatest fear during interrogation.", "origin": "textual_evidence", "sourceRecordIds": ["student-1984-symbols"], "sourceDocuments": [{ "documentId": "reference-1984-pg-australia", "pdfPages": [258], "note": "Reference-copy PDF page." }] },
+        "developingMeanings": [{ "id": "1984-symbol-room101-meaning", "text": "The student reads Room 101 as the destruction of individuality through fear. More specifically, its individualized threat turns the Party's abstract control into an intimate coercive force.", "origin": "student_work", "sourceRecordIds": ["student-1984-allegory", "student-1984-symbols"] }],
+        "characterAndThemeLinks": [{ "id": "1984-symbol-room101-link", "text": "Winston's betrayal of Julia shows the cost of coercion and the Party's attack on private loyalty.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-character-notes"] }],
+        "evidenceIds": []
+      },
+      {
+        "objectOrMotif": "The Party slogans",
+        "literalPresence": { "id": "1984-symbol-slogans-literal", "text": "The class notes reproduce the Party's three paired slogans: 'War is Peace / Freedom is Slavery / Ignorance is Strength.'", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes"] },
+        "developingMeanings": [{ "id": "1984-symbol-slogans-meaning", "text": "Their paradoxical pairings make contradiction sound like doctrine and help introduce doublethink.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-1984-book-chat-notes"], "evidenceIds": ["ev-1984-party-slogans"] }],
+        "characterAndThemeLinks": [{ "id": "1984-symbol-slogans-link", "text": "The slogans express the Party's effort to make public language override independent judgment.", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes"] }],
+        "evidenceIds": ["ev-1984-party-slogans"]
+      }
+    ],
+    "literaryElements": [
+      { "element": "Anti-utopian / dystopian form", "function": { "id": "1984-element-dystopia", "text": "The controlled state extrapolates political systems into a warning: surveillance, propaganda, and power over records become mutually reinforcing institutions. The class specifically calls the novel anti-utopian.", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes"] }, "evidenceIds": ["ev-1984-party-slogans"] },
+      { "element": "Dramatic irony and reversal", "function": { "id": "1984-element-reversal", "text": "The reader and Winston understand Charrington's room as a refuge until the telescreen and arrest reverse that meaning; the reveal makes surveillance structurally present even in the apparent safe place.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-charrington-interpretation"], "evidenceIds": ["ev-1984-charrington-reveal"] }, "evidenceIds": ["ev-1984-charrington-reveal"] },
+      { "element": "Paradox / doublethink", "function": { "id": "1984-element-paradox", "text": "The slogans' contradictory terms are not merely wordplay: they model the Party's demand that citizens accept official claims over ordinary logic and memory.", "origin": "teacher_material", "sourceRecordIds": ["teacher-1984-book-chat-notes"], "evidenceIds": ["ev-1984-party-slogans"] }, "evidenceIds": ["ev-1984-party-slogans"] },
+      { "element": "Focalization through Winston", "function": { "id": "1984-element-focalization", "text": "The narration stays close to Winston's perceptions, so the reader experiences both his suspicions and his misreadings. Charrington's reveal demonstrates why a character's interpretation must not be mistaken for objective confirmation.", "origin": "ai_analysis", "sourceRecordIds": ["student-1984-charrington-interpretation"], "evidenceIds": ["ev-1984-charrington-friendly", "ev-1984-charrington-recognition"] }, "evidenceIds": ["ev-1984-charrington-friendly", "ev-1984-charrington-recognition"] }
+    ],
+    "studentInterpretationRecordIds": ["student-1984-character-notes", "student-1984-charrington-interpretation", "student-1984-theme-messages", "student-1984-symbols", "student-1984-detail-assignment", "student-1984-allegory", "student-1984-settings-atmosphere"],
+    "coverage": { "plot": "supported", "characters": "partial", "settings": "supported", "themes": "supported", "symbolsAndMotifs": "supported", "literaryElements": "partial", "evidence": "partial" },
+    "coverageNotes": [
+      "Plot and factual sequence are supplemented by the locally available Project Gutenberg of Australia reference copy; its PDF pages are not class-edition page citations.",
+      "The packet has no complete plot summary, and the Winston-stages response is blank. Student character worksheets have incomplete evidence slots; use the reference text for factual recall but do not convert the student's labels into teacher-approved interpretation.",
+      "The class theme framework and Book Chat notes are distinguished from student-generated themes, symbols, and character labels. Student page citations may be inaccurate and must be checked against the assigned edition before quotation.",
+      "Literary-element coverage is selective rather than an exhaustive formal analysis of the whole novel."
+    ]
+  },
+  {
+    "id": "guide-catcher",
+    "novel": "catcher-in-the-rye",
+    "status": "source_limited",
+    "overview": [
+      {
+        "id": "catcher-overview-source-limit",
+        "text": "The available class packet contains filled-in notes naming characters, settings, symbols, themes, and narrative techniques, plus a student group assignment on forms of comedy. A local full-text PDF is available but its edition is unverified and is deliberately not being used to complete this guide; per the project owner's instruction, Catcher remains incomplete until the later class-material update.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["catcher-class-notes", "catcher-incomplete-coverage", "catcher-plot-and-evidence-coverage-gap", "reference-catcher-local-pdf-status"]
+      },
+      {
+        "id": "catcher-overview-narration",
+        "text": "The student-completed class notes identify Holden as the first-person narrator and describe a confessional voice, associative thought, remembered conversations, flashbacks, and colloquial language. Treat these as student-completed notes rather than teacher-approved definitions.",
+        "origin": "student_work",
+        "sourceRecordIds": ["catcher-class-notes"]
+      }
+    ],
+    "plotChronology": [],
+    "settings": [
+      { "id": "catcher-setting-list", "text": "The filled-in notes list the Wicker Bar, the Natural History Museum, Pencey Prep, the Carrousel in Central Park, Elkton Hills, and an elementary school. The notes do not explain each setting's plot role or provide supporting novel passages.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"], "uncertainty": "The list is incomplete study material, not a verified setting analysis." },
+      { "id": "catcher-setting-gap", "text": "Do not infer atmosphere, chronology, or symbolic function from the place-name list alone; add those explanations when the later class materials or verified text are available.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-incomplete-coverage", "catcher-plot-and-evidence-coverage-gap"] }
+    ],
+    "characters": [
+      {
+        "name": "Holden Caulfield",
+        "profile": { "id": "catcher-holden-profile", "text": "The class notes identify Holden as the first-person narrator and list members of his family, teachers, and acquaintances. They do not provide a complete supported profile or development arc in the available database.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] },
+        "traits": [{ "id": "catcher-holden-trait-source-note", "text": "The notes describe the narration as confessional and colloquial and say Holden's thoughts move by association; those are notes about narrative presentation, not a complete list of his personality traits.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] }],
+        "motivations": [{ "id": "catcher-holden-motivation-gap", "text": "The available records do not supply a sourced motivation analysis; do not fill it from an unverified external guide.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-incomplete-coverage"] }],
+        "conflicts": [{ "id": "catcher-holden-conflict-gap", "text": "The class notes list themes including isolation, companionship, maturation, death, depression, and phoniness but do not map them to a complete sequence of Holden's conflicts.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] }],
+        "relationships": [{ "id": "catcher-holden-relationships-gap", "text": "The packet lists Allie, D.B., Phoebe, several teachers, and acquaintances but does not provide a systematic relationship chart or verified explanations.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] }],
+        "development": [{ "id": "catcher-holden-development-gap", "text": "A full dynamic-character or growth claim is not supported by the available source records; the packet says additional Catcher materials are expected.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-incomplete-coverage", "catcher-plot-and-evidence-coverage-gap"] }],
+        "themeConnections": [{ "id": "catcher-holden-theme-list", "text": "The student notes associate the novel with loss of innocence, isolation, companionship, maturation, dealing with death, depression, and phoniness; they do not supply detailed theme development.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] }],
+        "evidenceIds": [],
+        "studentInterpretationRecordIds": ["catcher-class-notes"]
+      }
+    ],
+    "themes": [
+      {
+        "name": "Isolation and alienation",
+        "centralIdea": { "id": "catcher-theme-isolation", "text": "Listed as a central idea in the student-completed notes; no supported central-idea sentence or full development sequence is preserved in the available records.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] },
+        "development": [{ "id": "catcher-theme-isolation-limit", "text": "Add the specific episodes, narrative details, and counterexamples from the class novel materials before presenting an analytical claim.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-plot-and-evidence-coverage-gap"] }],
+        "evidenceIds": [],
+        "nuance": [{ "id": "catcher-theme-isolation-nuance", "text": "The packet separately lists a need for companionship, so avoid treating isolation as the only or uniform interpretation.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] }]
+      },
+      {
+        "name": "Maturation and loss of innocence",
+        "centralIdea": { "id": "catcher-theme-maturation", "text": "Both ideas appear in the student's theme list, which describes maturation as inevitable; the available record does not provide supporting episodes or an approved interpretation.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] },
+        "development": [{ "id": "catcher-theme-maturation-limit", "text": "A claim about how Holden changes needs a verified plot sequence and evidence from the assigned edition.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-plot-and-evidence-coverage-gap"] }],
+        "evidenceIds": [],
+        "nuance": [{ "id": "catcher-theme-maturation-nuance", "text": "Do not assume that a first-person narrator's retrospective telling proves a completed or uncomplicated maturation arc.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-class-notes", "catcher-plot-and-evidence-coverage-gap"] }]
+      },
+      {
+        "name": "Death and grief",
+        "centralIdea": { "id": "catcher-theme-death", "text": "The notes list dealing with death as a central idea but do not preserve the relevant passages or the student's supporting argument.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] },
+        "development": [{ "id": "catcher-theme-death-limit", "text": "Use the class text and later materials to establish which relationships and events develop this idea; no quotation is supplied here.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-plot-and-evidence-coverage-gap"] }],
+        "evidenceIds": [],
+        "nuance": []
+      },
+      {
+        "name": "Phoniness",
+        "centralIdea": { "id": "catcher-theme-phoniness", "text": "Phoniness appears in the student notes as a central idea, but the database does not preserve a complete definition, passage set, or account of how Holden applies the label.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] },
+        "development": [{ "id": "catcher-theme-phoniness-limit", "text": "When later developing this topic, distinguish the narrator's judgments from the novel's larger stance and test the label against specific scenes.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-class-notes", "catcher-plot-and-evidence-coverage-gap"] }],
+        "evidenceIds": [],
+        "nuance": [{ "id": "catcher-theme-phoniness-nuance", "text": "A narrator's accusation is evidence of his perspective; it is not, by itself, proof that the person described is objectively false.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-class-notes"] }]
+      }
+    ],
+    "symbolsAndMotifs": [
+      {
+        "objectOrMotif": "Red hunting hat",
+        "literalPresence": { "id": "catcher-symbol-hat-literal", "text": "The red hunting hat is listed as a symbol in the student's class notes; no passage or citation is transcribed there.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] },
+        "developingMeanings": [{ "id": "catcher-symbol-hat-gap", "text": "The available source record does not state a supported symbolic meaning; preserve the item as a retrieval cue, not an answer key.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-class-notes", "catcher-plot-and-evidence-coverage-gap"] }],
+        "characterAndThemeLinks": [],
+        "evidenceIds": []
+      },
+      {
+        "objectOrMotif": "Ducks in the park",
+        "literalPresence": { "id": "catcher-symbol-ducks-literal", "text": "Ducks in the park are listed as a symbol in the student notes without an accompanying quotation or page reference.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] },
+        "developingMeanings": [{ "id": "catcher-symbol-ducks-gap", "text": "Do not add a symbolic meaning until checked against the class text and any future teacher materials.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-incomplete-coverage"] }],
+        "characterAndThemeLinks": [],
+        "evidenceIds": []
+      },
+      {
+        "objectOrMotif": "Allie's baseball glove",
+        "literalPresence": { "id": "catcher-symbol-glove-literal", "text": "Allie's baseball glove is listed in the student-completed symbol notes; no passage, citation, or interpretation is transcribed in the database.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] },
+        "developingMeanings": [{ "id": "catcher-symbol-glove-gap", "text": "The symbolic meaning and its development remain unfilled pending the assigned novel material.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-plot-and-evidence-coverage-gap"] }],
+        "characterAndThemeLinks": [],
+        "evidenceIds": []
+      },
+      {
+        "objectOrMotif": "Natural History Museum",
+        "literalPresence": { "id": "catcher-symbol-museum-literal", "text": "The Natural History Museum appears in the student's setting list; the database does not establish whether the notes also intended it as a symbol.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] },
+        "developingMeanings": [{ "id": "catcher-symbol-museum-gap", "text": "Do not convert this listed setting into a symbol without evidence of its recurrence and function.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-class-notes"] }],
+        "characterAndThemeLinks": [],
+        "evidenceIds": []
+      }
+    ],
+    "literaryElements": [
+      { "element": "First-person narration", "function": { "id": "catcher-element-first-person", "text": "The student notes identify Holden as telling his own story. This gives direct access to his language and judgments but means other people and events reach the reader through his account.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] }, "evidenceIds": [] },
+      { "element": "Confessional voice and colloquial language", "function": { "id": "catcher-element-confessional", "text": "The student notes describe a confidential tone and period slang that draw the reader into Holden's voice. Verify any claim about a particular effect against a passage rather than treating the class note's label as a full analysis.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] }, "evidenceIds": [] },
+      { "element": "Associative narration, dialogue, and flashback", "function": { "id": "catcher-element-association", "text": "The student notes describe Holden's thoughts as moving by association and mention remembered conversations and flashbacks. These techniques can interrupt chronology and foreground memory, but the available records do not preserve a worked passage analysis.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] }, "evidenceIds": [] },
+      { "element": "Picaresque, quest, and psychological subgenres", "function": { "id": "catcher-element-subgenres", "text": "These labels appear in the student notes. The notes define them briefly but do not establish which is the best organizing description or supply teacher-confirmed examples; apply them only with scene-level evidence.", "origin": "student_work", "sourceRecordIds": ["catcher-class-notes"] }, "evidenceIds": [] }
+    ],
+    "studentInterpretationRecordIds": ["catcher-class-notes", "catcher-comedy-assignment", "catcher-example-citation-metadata"],
+    "coverage": { "plot": "missing", "characters": "partial", "settings": "partial", "themes": "partial", "symbolsAndMotifs": "partial", "literaryElements": "partial", "evidence": "missing" },
+    "coverageNotes": [
+      "The packet explicitly says additional Catcher materials are expected. Until supplied, this guide intentionally does not import plot, character analysis, quotations, or page numbers from an unverified external study guide.",
+      "The available filled-in notes are student work, not teacher-approved interpretations. The listed symbols and themes are retrieval prompts; several have no supplied meaning or textual evidence.",
+      "The student comedy assignment supplies classifications and page metadata but not exact Catcher quotations in the database. Those locations are edition-dependent and unverified.",
+      "This guide is a source inventory and partial study scaffold, not complete exam preparation."
+    ]
+  },
+  {
+    "id": "guide-metamorphosis",
+    "novel": "metamorphosis",
+    "status": "ready_for_review",
+    "overview": [
+      {
+        "id": "metamorphosis-overview",
+        "text": "Gregor Samsa wakes transformed into an insect-like creature. Across three parts, the story follows his failed return to work, confinement and changing family care, lasting injury, the family's dependence on wages and lodgers, Grete's rejection, and Gregor's death alongside the family's renewed plans. A complete-text chronology supplements the selected student work; the class edition is not confirmed.",
+        "origin": "textual_evidence",
+        "sourceRecordIds": ["student-metamorphosis-stages", "student-metamorphosis-character-roles", "metamorphosis-plot-coverage-status", "reference-metamorphosis-ian-johnston"],
+        "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [3, 27, 53, 77], "note": "The three-part full text is in this reference translation; page numbers are PDF pages, not class citations." }]
+      },
+      {
+        "id": "metamorphosis-overview-tone",
+        "text": "The impossible transformation is narrated beside ordinary concerns about time, work, family money, and meals. That mismatch creates an absurd, unsettling effect without explaining the transformation's cause.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["reference-metamorphosis-ian-johnston"],
+        "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [3, 4, 15], "note": "PDF pages in the Ian Johnston reference translation." }]
+      },
+      {
+        "id": "metamorphosis-overview-teacher-focus",
+        "text": "Teacher directions ask students to connect themes to characters and symbols and explain how those elements develop the theme; annotation notes ask students to explain how literary devices contribute to meaning.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["teacher-metamorphosis-theme-presentation-directions", "teacher-annotation-notes"]
+      }
+    ],
+    "plotChronology": [
+      {
+        "order": 1,
+        "event": { "id": "metamorphosis-plot-transformation", "text": "Gregor wakes transformed into an insect-like creature. He worries about the late train, his demanding traveling-salesman job, his employer, and the debt he is helping his parents repay.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-stages"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [3, 4, 5], "note": "PDF pages; translation not confirmed as the class edition." }] },
+        "significance": { "id": "metamorphosis-plot-transformation-significance", "text": "The contrast between an impossible bodily change and practical work anxiety establishes how strongly Gregor's identity has been organized around economic usefulness. The student likewise characterizes him as duty-bound; preserve that as the student's reading.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-stages", "teacher-metamorphosis-theme-presentation-directions"], "evidenceIds": ["ev-metamorphosis-reference-transformation"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [3, 4], "note": "PDF pages; reference translation." }] }
+      },
+      {
+        "order": 2,
+        "event": { "id": "metamorphosis-plot-clerk", "text": "When Gregor misses work, the chief clerk comes to the apartment. Gregor struggles to unlock the door and explain himself; the clerk interprets his altered voice and appearance as grounds to distrust him and flee.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles", "student-metamorphosis-annotation"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [10, 12, 15, 18], "note": "PDF pages; reference translation." }] },
+        "significance": { "id": "metamorphosis-plot-clerk-significance", "text": "The workplace enters the family home: the clerk questions Gregor's productivity before trying to understand the crisis. Gregor can understand others, but his speech is no longer intelligible to them.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-existentialism-chart"], "evidenceIds": ["ev-metamorphosis-reference-productivity"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [15, 18], "note": "PDF pages; reference translation." }] }
+      },
+      {
+        "order": 3,
+        "event": { "id": "metamorphosis-plot-father-first-forces", "text": "Gregor leaves his room to try to stop the clerk from leaving. His father drives him back with a cane and newspaper, forcing him through the doorway and shutting him inside.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [21, 24, 25, 26], "note": "PDF pages; reference translation." }] },
+        "significance": { "id": "metamorphosis-plot-father-first-forces-significance", "text": "The first confinement is enforced physically, not negotiated. The doorway becomes a boundary controlled by the family, establishing a pattern that later care and exclusion both use.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-door"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [24, 26], "note": "PDF pages; reference translation." }] }
+      },
+      {
+        "order": 4,
+        "event": { "id": "metamorphosis-plot-family-care", "text": "Grete begins bringing food and cleaning Gregor's room. She discovers that he prefers old scraps to fresh food and adjusts what she leaves for him; he hides so she will not have to see him.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [27, 28, 31, 32], "note": "PDF pages; reference translation." }] },
+        "significance": { "id": "metamorphosis-plot-family-care-significance", "text": "Grete's sustained early care contrasts with her later rejection, but the care also depends on concealment and limited communication. Compare these stages rather than treating her response as unchanged.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles", "student-metamorphosis-themes"], "evidenceIds": ["ev-metamorphosis-grete-care", "ev-metamorphosis-grete-rejection"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [27, 31], "note": "PDF pages; reference translation." }] }
+      },
+      {
+        "order": 5,
+        "event": { "id": "metamorphosis-plot-family-finances", "text": "Gregor overhears that his father has retained some savings, though the family's situation remains constrained. His parents and Grete begin earning money, while Gregor privately remembers his plan to send Grete to a conservatory.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles", "student-existentialism-chart"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [34, 36, 37], "note": "PDF pages; reference translation." }] },
+        "significance": { "id": "metamorphosis-plot-family-finances-significance", "text": "The change in income does not simply make the family helpless: Gregor learns of savings and other possible resources, while each family member's work changes household roles. His continued concern for Grete's future keeps affection and economic duty in view together.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles", "student-existentialism-chart"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [34, 36, 37], "note": "PDF pages; reference translation." }] }
+      },
+      {
+        "order": 6,
+        "event": { "id": "metamorphosis-plot-furniture", "text": "Grete and their mother start removing furniture to give Gregor more room to crawl. Gregor clings to the framed picture on the wall; his mother sees him, faints, and Grete returns with medicine.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-symbols"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [42, 44, 46, 47, 48], "note": "PDF pages; reference translation." }] },
+        "significance": { "id": "metamorphosis-plot-furniture-significance", "text": "The practical attempt to accommodate Gregor conflicts with his attachment to the room's familiar objects. The scene supports competing readings: clearing space may aid his movement, while the removal also threatens the material traces of his human life.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-reference-furniture"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [44, 46, 47], "note": "PDF pages; reference translation." }] }
+      },
+      {
+        "order": 7,
+        "event": { "id": "metamorphosis-plot-apple", "text": "After Gregor comes out again, his father drives him back and throws apples. One apple lodges in Gregor's back; it remains there and weakens him over the following weeks.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-symbols", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [50, 51, 52, 53], "note": "PDF pages; reference translation." }] },
+        "significance": { "id": "metamorphosis-plot-apple-significance", "text": "The assault makes family conflict physically lasting: the wound persists and contributes to Gregor's decline. The student's rejection reading is supported by this consequence, but the apple should not be reduced to one universal symbolic meaning.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-apple", "ev-metamorphosis-reference-apple"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [52, 53], "note": "PDF pages; reference translation." }] }
+      },
+      {
+        "order": 8,
+        "event": { "id": "metamorphosis-plot-family-labor", "text": "Over time, Gregor's parents and Grete work, and the family rents rooms to three lodgers. Gregor becomes more isolated; his room accumulates dirt and stored items, and his care becomes increasingly perfunctory.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles", "student-metamorphosis-symbols"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [53, 55, 57, 60, 61], "note": "PDF pages; reference translation." }] },
+        "significance": { "id": "metamorphosis-plot-family-labor-significance", "text": "The family's increased capacity to earn money complicates the idea that Gregor's usefulness alone holds the household together. The worsening room and reduced care show a gradual change in his status, not a single sudden decision.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-themes", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [55, 58, 61], "note": "PDF pages; reference translation." }] }
+      },
+      {
+        "order": 9,
+        "event": { "id": "metamorphosis-plot-lodgers", "text": "During an evening meal for the lodgers, Grete plays violin. Gregor is drawn out of his room by the music; the lodgers see him, object to the household's conditions, and threaten to leave without paying.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-symbols", "student-metamorphosis-annotation", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [62, 64, 66, 67, 68], "note": "PDF pages; reference translation." }] },
+        "significance": { "id": "metamorphosis-plot-lodgers-significance", "text": "The scene juxtaposes Gregor's capacity to respond to music with the household's economic and visual judgment of him. The violation is not only that he is seen; his appearance threatens the family's new source of income.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-symbols", "student-metamorphosis-annotation"], "evidenceIds": ["ev-metamorphosis-music", "ev-metamorphosis-lodgers", "ev-metamorphosis-rhetorical-question", "ev-metamorphosis-reference-violin"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [64, 67, 68], "note": "PDF pages; reference translation." }] }
+      },
+      {
+        "order": 10,
+        "event": { "id": "metamorphosis-plot-grete-rejection", "text": "Grete argues that the family must get rid of the creature, no longer treating it as her brother. Gregor returns to his room, where he reflects on the family's situation and dies before morning.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles", "student-metamorphosis-themes"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [68, 69, 70, 71, 72], "note": "PDF pages; reference translation." }] },
+        "significance": { "id": "metamorphosis-plot-grete-rejection-significance", "text": "Grete's pronoun and demand mark relational exclusion as well as a practical decision. The student identifies this as a decisive change; set it beside her earlier care, and do not present the student's claim that Gregor is happy or free after death as an established fact.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-themes", "student-metamorphosis-stages"], "evidenceIds": ["ev-metamorphosis-grete-rejection", "ev-metamorphosis-reference-rejection"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [68, 71], "note": "PDF pages; reference translation." }], "uncertainty": "The student's death-as-freedom reading is preserved as a review question, not endorsed." }
+      },
+      {
+        "order": 11,
+        "event": { "id": "metamorphosis-plot-death", "text": "The charwoman discovers Gregor's body and bluntly announces his death. The Samsas send the lodgers away, take the day off, leave the apartment together, and discuss their future; the ending turns attention to Grete's growth and prospects.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-symbols", "student-metamorphosis-stages"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [72, 73, 74, 75, 76, 77], "note": "PDF pages; reference translation." }] },
+        "significance": { "id": "metamorphosis-plot-death-significance", "text": "The ending places the family's relief and renewed plans beside Gregor's death. Its forward-looking attention to Grete does not establish that Gregor experiences his death as happy or liberating; that remains the student's interpretation and a question for review.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-stages", "student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-charwoman", "ev-metamorphosis-marriage", "ev-metamorphosis-reference-death"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [72, 74, 77], "note": "PDF pages; reference translation." }], "uncertainty": "The student's death-as-freedom reading is preserved as a review question, not endorsed." }
+      }
+    ],
+    "settings": [
+      { "id": "metamorphosis-setting-apartment", "text": "The Samsas' apartment contains Gregor's room, the parents' bedroom, and shared rooms used for family meals and, later, the lodgers. Doors and sight lines regulate contact; after the lodgers arrive, the home also becomes an income-producing space.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [3, 10, 27, 62, 70], "note": "PDF pages; reference translation." }] },
+      { "id": "metamorphosis-setting-room", "text": "Gregor's room changes from a familiar bedroom into a place of confinement, care, partial movement, storage, and eventual death. The student's door and stripped-furniture interpretations are supported by the complete sequence, but remain interpretations rather than fixed symbols.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-symbols"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [3, 27, 44, 58, 70, 72], "note": "PDF pages; reference translation." }] },
+      { "id": "metamorphosis-setting-workplace", "text": "The office is not a sustained setting; work pressure enters the apartment through Gregor's thoughts and the chief clerk's visit. The contrast brings commercial discipline into the private home.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [4, 10, 15], "note": "PDF pages; reference translation." }] },
+      { "id": "metamorphosis-setting-city", "text": "The text presents streets, trains, and travel for work but does not identify a definite city. Avoid attaching the Samsas to a named real-world location without another source.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [4, 10, 77], "note": "PDF pages; reference translation." }] }
+    ],
+    "characters": [
+      {
+        "name": "Gregor Samsa",
+        "profile": { "id": "metamorphosis-gregor-profile", "text": "A traveling salesman and family provider who wakes transformed into an insect-like creature. The student's staged chart traces him from responsible worker and anxious family member through confinement and rejection to death.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-stages", "student-existentialism-chart"] },
+        "traits": [
+          { "id": "metamorphosis-gregor-trait-duty", "text": "The student describes Gregor as duty-bound and anxious; his immediate focus on work and family obligations supports that reading.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-stages", "student-existentialism-chart"] },
+          { "id": "metamorphosis-gregor-trait-sensibility", "text": "His response to Grete's violin shows that aesthetic feeling and desire for connection persist despite his altered appearance.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-annotation", "student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-music", "ev-metamorphosis-rhetorical-question"] }
+        ],
+        "motivations": [
+          { "id": "metamorphosis-gregor-motivation-family", "text": "The student says Gregor works to support his family and hopes to pay for Grete's conservatory education.", "origin": "student_work", "sourceRecordIds": ["student-existentialism-chart", "student-metamorphosis-character-roles"], "evidenceIds": ["ev-metamorphosis-grete-care"] }
+        ],
+        "conflicts": [
+          { "id": "metamorphosis-gregor-conflict-body", "text": "Gregor's understanding and emotional responses remain humanly recognizable while his body and voice make communication with others difficult.", "origin": "student_work", "sourceRecordIds": ["student-existentialism-chart", "student-metamorphosis-annotation"] },
+          { "id": "metamorphosis-gregor-conflict-usefulness", "text": "His loss of earning capacity shifts the family's dependence and helps expose how economic pressure affects care.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-themes", "student-metamorphosis-character-roles"] }
+        ],
+        "relationships": [
+          { "id": "metamorphosis-gregor-relationship-grete", "text": "Gregor initially cares about Grete's musical future; Grete first assists him and later becomes the first family member to demand his removal.", "origin": "textual_evidence", "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-grete-care", "ev-metamorphosis-grete-rejection"] },
+          { "id": "metamorphosis-gregor-relationship-father", "text": "The student's character notes describe Mr. Samsa as initially dependent on Gregor and later as working and driving him away; the apple incident gives that conflict a lasting bodily consequence.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-apple"] }
+        ],
+        "development": [
+          { "id": "metamorphosis-gregor-development", "text": "The student charts changes in Gregor's movement, food, relationships, and isolation. The student's claims that he accepts life for himself and is happy or free after death are inconsistent and require review against the complete story.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-stages"], "uncertainty": "Preserve and review the student's wording; do not imply that Gregor's death is a voluntary or joyful liberation." }
+        ],
+        "themeConnections": [
+          { "id": "metamorphosis-gregor-theme", "text": "Gregor's transformation puts pressure on the relationship between identity and social recognition: others increasingly respond to his body and usefulness rather than his remembered personhood.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-themes", "student-metamorphosis-character-roles", "student-metamorphosis-annotation"] }
+        ],
+        "evidenceIds": ["ev-metamorphosis-grete-care", "ev-metamorphosis-music", "ev-metamorphosis-apple"],
+        "studentInterpretationRecordIds": ["student-metamorphosis-stages", "student-existentialism-chart", "student-metamorphosis-annotation"]
+      },
+      {
+        "name": "Grete Samsa",
+        "profile": { "id": "metamorphosis-grete-profile", "text": "Gregor's sister first manages his care, then works and helps the family take in lodgers. She plays violin for them, but after Gregor appears she argues that he must be removed. The student reads these stages as a change in her role; avoid reducing that change to simple maturity or cruelty.", "origin": "student_work", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [27, 31, 55, 62, 64, 68], "note": "PDF pages; reference translation." }] },
+        "traits": [
+          { "id": "metamorphosis-grete-trait-care", "text": "Her early caregiving is practical and sustained for a time, though the available records do not show every nuance of her response.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-character-roles"], "evidenceIds": ["ev-metamorphosis-grete-care"] },
+          { "id": "metamorphosis-grete-trait-limits", "text": "Her eventual rejection marks a limit to her care under the pressures of the household; it should not erase the earlier care or reduce the character to one decision.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-themes"], "evidenceIds": ["ev-metamorphosis-grete-rejection"] }
+        ],
+        "motivations": [{ "id": "metamorphosis-grete-motivation", "text": "The class record connects her changing role to the family's finances and responsibilities; her motives should be explained through the sequence rather than assumed from the outcome.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-themes"] }],
+        "conflicts": [{ "id": "metamorphosis-grete-conflict", "text": "Grete faces the tension between sibling attachment and the burdens of caring for Gregor in a household under financial strain.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-themes"] }],
+        "relationships": [{ "id": "metamorphosis-grete-relationship-gregor", "text": "The relationship shifts from Gregor's support for her musical future and her initial care for him toward rejection and separation.", "origin": "textual_evidence", "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-grete-care", "ev-metamorphosis-grete-rejection"] }],
+        "development": [{ "id": "metamorphosis-grete-development", "text": "The earlier and later stages support a dynamic-character reading, but the student and text-based evidence should be considered before labeling the change as simple maturity or simple cruelty.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-character-roles"] }],
+        "themeConnections": [{ "id": "metamorphosis-grete-theme", "text": "Grete's changing treatment of Gregor develops the question of whether family care can survive when dependency becomes difficult and economically costly.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-themes", "student-metamorphosis-character-roles"] }],
+        "evidenceIds": ["ev-metamorphosis-grete-care", "ev-metamorphosis-grete-rejection"],
+        "studentInterpretationRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-themes"]
+      },
+      {
+        "name": "Mr. Samsa",
+        "profile": { "id": "metamorphosis-father-profile", "text": "Gregor's father initially appears financially dependent and inactive, then returns to work in a uniform and asserts authority over the household. He first drives Gregor into his room and later throws apples, one of which remains embedded in Gregor's back.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles", "student-metamorphosis-symbols"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [24, 34, 53, 54, 52], "note": "PDF pages; reference translation." }] },
+        "traits": [{ "id": "metamorphosis-father-trait-force", "text": "The apple incident makes his violence consequential and long-lasting rather than merely an expression of anger in one moment.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-apple"] }],
+        "motivations": [{ "id": "metamorphosis-father-motivation", "text": "The available class notes connect his changing household role to Gregor's loss of income; they do not provide a complete account of his motives.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-character-roles"] }],
+        "conflicts": [{ "id": "metamorphosis-father-conflict", "text": "His relationship with Gregor shifts from reliance on Gregor's earnings to asserting authority and rejecting Gregor's presence.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-character-roles"] }],
+        "relationships": [{ "id": "metamorphosis-father-relationship", "text": "The father-son conflict is embodied in the apple wound, which connects violence to lasting physical decline.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-apple"] }],
+        "development": [{ "id": "metamorphosis-father-development", "text": "The student notes a practical change in his employment and a more forceful role, but the available sources do not support a full psychological development claim.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-character-roles"] }],
+        "themeConnections": [{ "id": "metamorphosis-father-theme", "text": "His changed role helps develop economic dependence, authority, and family rejection.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-themes"] }],
+        "evidenceIds": ["ev-metamorphosis-apple"],
+        "studentInterpretationRecordIds": ["student-metamorphosis-character-roles"]
+      },
+      {
+        "name": "Mrs. Samsa",
+        "profile": { "id": "metamorphosis-mother-profile", "text": "Gregor's mother initially pleads for him and later enters his room with Grete to move furniture; she faints when she sees him. She takes on sewing work as the family's finances change. The student characterizes her response as pity mixed with fear.", "origin": "student_work", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [7, 42, 47, 55], "note": "PDF pages; reference translation." }] },
+        "traits": [{ "id": "metamorphosis-mother-trait-ambivalence", "text": "The student's description emphasizes a mixed response of pity and fear, which is more precise than calling her simply caring or simply rejecting.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-character-roles"] }],
+        "motivations": [{ "id": "metamorphosis-mother-motivation", "text": "The packet records her dependence and fear but does not establish a detailed motivation account.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-character-roles"] }],
+        "conflicts": [{ "id": "metamorphosis-mother-conflict", "text": "Her response is caught between attachment to her son and fear of his altered body.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-character-roles"] }],
+        "relationships": [{ "id": "metamorphosis-mother-relationship", "text": "Her relationship with Gregor is shaped by family dependence and his increasingly frightening appearance, as described in the student notes.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-character-roles"] }],
+        "development": [{ "id": "metamorphosis-mother-development", "text": "The available records do not provide enough staged evidence for a full character-development claim.", "origin": "ai_analysis", "sourceRecordIds": ["metamorphosis-plot-coverage-status"] }],
+        "themeConnections": [{ "id": "metamorphosis-mother-theme", "text": "Her mixed response helps distinguish emotional pity from the ability to maintain care in practice.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-character-roles"] }],
+        "evidenceIds": [],
+        "studentInterpretationRecordIds": ["student-metamorphosis-character-roles"]
+      },
+      {
+        "name": "Chief clerk",
+        "profile": { "id": "metamorphosis-clerk-profile", "text": "Gregor's office sends the chief clerk to investigate his absence. He questions Gregor's work record, distrusts the explanation he cannot understand, and flees after seeing him.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [10, 15, 18], "note": "PDF pages; reference translation." }] },
+        "traits": [{ "id": "metamorphosis-clerk-trait-managerial", "text": "His brief appearance is defined by monitoring productivity and protecting the firm's authority, not by a developed personal history.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "evidenceIds": ["ev-metamorphosis-reference-productivity"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [15], "note": "PDF page; reference translation." }] }],
+        "motivations": [{ "id": "metamorphosis-clerk-motivation", "text": "The text supports concern about Gregor's unexplained absence and productivity; it does not supply enough interior access to establish the clerk's private motives.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [12, 15], "note": "PDF pages; reference translation." }] }],
+        "conflicts": [{ "id": "metamorphosis-clerk-conflict", "text": "The clerk's demand for an explanation meets Gregor's inability to communicate in an intelligible voice, turning an employment inquiry into a failed encounter.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-existentialism-chart"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [12, 15, 18], "note": "PDF pages; reference translation." }] }],
+        "relationships": [{ "id": "metamorphosis-clerk-relationship-gregor", "text": "The employer-employee relationship is mediated by the firm's representative, who judges Gregor through his work and absence rather than a personal bond.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "evidenceIds": ["ev-metamorphosis-reference-productivity"] }],
+        "development": [{ "id": "metamorphosis-clerk-development", "text": "The chief clerk is a minor, static figure in a single episode; the narrative gives no character arc.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"] }],
+        "themeConnections": [{ "id": "metamorphosis-clerk-theme", "text": "His visit makes economic usefulness and bureaucratic surveillance active in the opening crisis.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "evidenceIds": ["ev-metamorphosis-reference-productivity"] }],
+        "evidenceIds": ["ev-metamorphosis-reference-productivity"],
+        "studentInterpretationRecordIds": ["student-metamorphosis-character-roles"]
+      },
+      {
+        "name": "The charwoman",
+        "profile": { "id": "metamorphosis-charwoman-profile", "text": "The cleaning woman enters late in the story, speaks bluntly to Gregor, and is the person who discovers and announces his death.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-symbols"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [60, 72, 73], "note": "PDF pages; the translation calls her the cleaning woman." }] },
+        "traits": [{ "id": "metamorphosis-charwoman-trait-blunt", "text": "Her unsentimental idiom differs from the family's anxious responses; her bluntness is a narrative contrast, not proof that she understands Gregor better.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "evidenceIds": ["ev-metamorphosis-reference-death"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [72], "note": "PDF page; reference translation." }] }],
+        "motivations": [{ "id": "metamorphosis-charwoman-motivation", "text": "The story gives little access to her motives beyond her work and her practical response to Gregor.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [60, 72, 73], "note": "PDF pages; reference translation." }] }],
+        "conflicts": [{ "id": "metamorphosis-charwoman-conflict", "text": "She is not central to the family's emotional conflict; her actions expose how Gregor is treated as an object to be cleared away after death.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [72, 73], "note": "PDF pages; reference translation." }] }],
+        "relationships": [{ "id": "metamorphosis-charwoman-relationship", "text": "Her contact with Gregor is that of a household worker to the family's hidden and eventually dead dependent; no intimate relationship develops.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"] }],
+        "development": [{ "id": "metamorphosis-charwoman-development", "text": "She is a minor, static figure rather than a character with a documented development arc.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"] }],
+        "themeConnections": [{ "id": "metamorphosis-charwoman-theme", "text": "Her discovery scene shifts the family's crisis into a practical announcement and helps create the story's jarring tonal transition to the family's future plans.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "evidenceIds": ["ev-metamorphosis-reference-death"] }],
+        "evidenceIds": ["ev-metamorphosis-reference-death", "ev-metamorphosis-charwoman"],
+        "studentInterpretationRecordIds": ["student-metamorphosis-symbols"]
+      },
+      {
+        "name": "The three lodgers",
+        "profile": { "id": "metamorphosis-lodgers-profile", "text": "Three male lodgers rent rooms from the Samsas. They expect orderly service, encounter Gregor during Grete's violin performance, and threaten to leave without paying after seeing him.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [61, 62, 64, 67, 68], "note": "PDF pages; reference translation." }] },
+        "traits": [{ "id": "metamorphosis-lodgers-trait", "text": "Their group behavior is formal and economically consequential; the text does not develop them as individually distinct characters.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [61, 62, 67], "note": "PDF pages; reference translation." }] }],
+        "motivations": [{ "id": "metamorphosis-lodgers-motivation", "text": "They seek rented accommodation and object when the household fails to meet their expectations; the novella gives no interior account of their motives.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [61, 67, 68], "note": "PDF pages; reference translation." }] }],
+        "conflicts": [{ "id": "metamorphosis-lodgers-conflict", "text": "Their demand for rent and orderly meals conflicts with the family's concealed crisis and Gregor's continued presence in the apartment.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "evidenceIds": ["ev-metamorphosis-lodgers", "ev-metamorphosis-reference-violin"] }],
+        "relationships": [{ "id": "metamorphosis-lodgers-relationship", "text": "They are tenants, not family members; their economic leverage helps expose how Gregor's appearance threatens the household's new income.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-themes"], "evidenceIds": ["ev-metamorphosis-lodgers"] }],
+        "development": [{ "id": "metamorphosis-lodgers-development", "text": "The lodgers are a collective, static group and leave after the confrontation; individual arcs are not provided.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"] }],
+        "themeConnections": [{ "id": "metamorphosis-lodgers-theme", "text": "They connect family survival to money and make Gregor's body visible as an economic liability, while Grete's violin scene shows he still responds inwardly to art.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-lodgers", "ev-metamorphosis-reference-violin"] }],
+        "evidenceIds": ["ev-metamorphosis-lodgers", "ev-metamorphosis-reference-violin"],
+        "studentInterpretationRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-symbols"]
+      }
+    ],
+    "themes": [
+      {
+        "name": "Economic utility and conditional care",
+        "centralIdea": { "id": "metamorphosis-theme-utility", "text": "The story links household roles to money: Gregor's wages support his family before the transformation, then the family members work and take in lodgers as his earning capacity disappears. Their changing care reveals strain, but does not reduce every relationship to a simple exchange of money for affection.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-themes", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [4, 34, 36, 55, 62], "note": "PDF pages; reference translation." }] },
+        "development": [
+          { "id": "metamorphosis-theme-utility-1", "text": "Gregor begins as the family provider and worries about work even after his transformation.", "origin": "student_work", "sourceRecordIds": ["student-existentialism-chart", "student-metamorphosis-stages"] },
+          { "id": "metamorphosis-theme-utility-2", "text": "The family's roles change as other members begin working and Gregor becomes dependent on their care.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-character-roles"] },
+          { "id": "metamorphosis-theme-utility-3", "text": "The lodgers' reaction and Grete's demand that Gregor be removed show economic and social pressures converging on his exclusion.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-symbols", "student-metamorphosis-character-roles"], "evidenceIds": ["ev-metamorphosis-lodgers", "ev-metamorphosis-grete-rejection"] }
+        ],
+        "evidenceIds": ["ev-metamorphosis-productivity", "ev-metamorphosis-lodgers"],
+        "nuance": [{ "id": "metamorphosis-theme-utility-nuance", "text": "The student's claim that loss of economic usefulness causes alienation is one defensible theme reading; retain it as student work, and avoid turning it into the universal claim that all care is conditional. Distinguish each family member's response.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-themes", "student-metamorphosis-character-roles"], "uncertainty": "The broader student universalization requires evidence beyond the specific family events." }]
+      },
+      {
+        "name": "Identity, appearance, and recognition",
+        "centralIdea": { "id": "metamorphosis-theme-identity", "text": "The narration keeps Gregor's thoughts and memories accessible while his changed body and voice make him appear foreign to others. The violin episode tests the gap between his inner response and the family's ability to recognize it.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-existentialism-chart", "student-metamorphosis-annotation"], "evidenceIds": ["ev-metamorphosis-reference-violin"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [3, 18, 64], "note": "PDF pages; reference translation." }] },
+        "development": [
+          { "id": "metamorphosis-theme-identity-1", "text": "Gregor retains human memories, obligations, and aesthetic response even as his family and employer react to his visible body.", "origin": "ai_analysis", "sourceRecordIds": ["student-existentialism-chart", "student-metamorphosis-annotation"] },
+          { "id": "metamorphosis-theme-identity-2", "text": "The violin scene prompts the student's rhetorical question about whether music can move an animal, exposing the gap between appearance and inner experience.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-annotation"], "evidenceIds": ["ev-metamorphosis-rhetorical-question", "ev-metamorphosis-music"] }
+        ],
+        "evidenceIds": ["ev-metamorphosis-music", "ev-metamorphosis-rhetorical-question"],
+        "nuance": [{ "id": "metamorphosis-theme-identity-nuance", "text": "The student argues that others' perception changes Gregor's self-perception. Keep that student claim distinct from the separate textual fact that he retains inner thought while others misunderstand his voice.", "origin": "ai_analysis", "sourceRecordIds": ["student-existentialism-chart", "student-metamorphosis-annotation", "reference-metamorphosis-ian-johnston"] }]
+      },
+      {
+        "name": "Isolation and failed communication",
+        "centralIdea": { "id": "metamorphosis-theme-isolation", "text": "Gregor's isolation is spatial and communicative: doors separate him from the household, and although he understands speech, his altered voice prevents ordinary exchange. Family members sometimes enter or help him, so the separation changes rather than remaining absolute.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-existentialism-chart", "student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-door"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [12, 18, 26, 27, 70], "note": "PDF pages; reference translation." }] },
+        "development": [
+          { "id": "metamorphosis-theme-isolation-1", "text": "The room door regulates contact and the family gradually strips the room of its furniture.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-symbols"] },
+          { "id": "metamorphosis-theme-isolation-2", "text": "Gregor understands speech but cannot make his own speech intelligible to the family, according to the student's existentialism chart.", "origin": "student_work", "sourceRecordIds": ["student-existentialism-chart"] },
+          { "id": "metamorphosis-theme-isolation-3", "text": "The lodgers and family treat his appearance as a social and economic problem, intensifying separation.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-symbols", "student-metamorphosis-character-roles"], "evidenceIds": ["ev-metamorphosis-lodgers"] }
+        ],
+        "evidenceIds": ["ev-metamorphosis-door", "ev-metamorphosis-lodgers"],
+        "nuance": [{ "id": "metamorphosis-theme-isolation-nuance", "text": "The student connects isolation to family duty and loss of economic function. That is a useful broader reading, but distinguish physical confinement, failed speech, and social rejection rather than using 'alienation' as a catch-all.", "origin": "ai_analysis", "sourceRecordIds": ["student-existentialism-chart", "student-metamorphosis-themes", "student-metamorphosis-symbols"] }]
+      }
+    ],
+    "symbolsAndMotifs": [
+      {
+        "objectOrMotif": "The apple embedded in Gregor's back",
+        "literalPresence": { "id": "metamorphosis-symbol-apple-literal", "text": "Gregor's father throws apples; one becomes lodged in Gregor's back and remains a lasting injury.", "origin": "textual_evidence", "sourceRecordIds": ["student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-apple"] },
+        "developingMeanings": [{ "id": "metamorphosis-symbol-apple-meaning", "text": "The student interprets the apple as rejection and lasting harm; the physical persistence of the wound gives the interpretation a concrete basis.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-apple"] }],
+        "characterAndThemeLinks": [{ "id": "metamorphosis-symbol-apple-link", "text": "It connects Mr. Samsa's renewed authority to Gregor's decline and the family's rejection.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-symbols"] }],
+        "evidenceIds": ["ev-metamorphosis-apple"]
+      },
+      {
+        "objectOrMotif": "Grete's violin music",
+        "literalPresence": { "id": "metamorphosis-symbol-violin-literal", "text": "Gregor hears Grete play violin for the lodgers and is moved by the music.", "origin": "textual_evidence", "sourceRecordIds": ["student-metamorphosis-symbols", "student-metamorphosis-annotation"], "evidenceIds": ["ev-metamorphosis-music"] },
+        "developingMeanings": [{ "id": "metamorphosis-symbol-violin-meaning", "text": "The student reads music as a sign of Gregor's remaining humanity and desire for connection; the scene tests that reading against the family's reaction to his appearance.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-symbols", "student-metamorphosis-annotation"], "evidenceIds": ["ev-metamorphosis-music", "ev-metamorphosis-rhetorical-question"] }],
+        "characterAndThemeLinks": [{ "id": "metamorphosis-symbol-violin-link", "text": "The music recalls Gregor's care for Grete's musical future and contrasts with the family's growing rejection.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-symbols"] }],
+        "evidenceIds": ["ev-metamorphosis-music"]
+      },
+      {
+        "objectOrMotif": "Gregor's room door",
+        "literalPresence": { "id": "metamorphosis-symbol-door-literal", "text": "The door separates Gregor from the family and is repeatedly used to regulate contact.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-door"] },
+        "developingMeanings": [{ "id": "metamorphosis-symbol-door-meaning", "text": "The student reads the door as a barrier and image of isolation; the room's changing access makes the barrier both physical and relational.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-door"] }],
+        "characterAndThemeLinks": [{ "id": "metamorphosis-symbol-door-link", "text": "The door connects Gregor's confinement to the family's decisions about whether and how to see him.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-symbols", "student-metamorphosis-character-roles"] }],
+        "evidenceIds": ["ev-metamorphosis-door"]
+      },
+      {
+        "objectOrMotif": "The lodgers",
+        "literalPresence": { "id": "metamorphosis-symbol-lodgers-literal", "text": "The family rents rooms to lodgers for income; the lodgers encounter Gregor during the violin scene and threaten not to pay.", "origin": "textual_evidence", "sourceRecordIds": ["student-metamorphosis-symbols", "student-metamorphosis-character-roles"], "evidenceIds": ["ev-metamorphosis-lodgers"] },
+        "developingMeanings": [{ "id": "metamorphosis-symbol-lodgers-meaning", "text": "The student links the lodgers to the household's economic pressure and to the public exposure of Gregor's appearance.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-lodgers"] }],
+        "characterAndThemeLinks": [{ "id": "metamorphosis-symbol-lodgers-link", "text": "Their reaction contrasts the family's economic dependence on outsiders with its treatment of Gregor as an unacceptable burden.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-symbols", "student-metamorphosis-themes"] }],
+        "evidenceIds": ["ev-metamorphosis-lodgers"]
+      },
+      {
+        "objectOrMotif": "Furniture and the framed picture",
+        "literalPresence": { "id": "metamorphosis-symbol-furniture-reference-literal", "text": "Grete and Mrs. Samsa move furniture out of Gregor's room; Gregor clings to a framed picture on the wall as his mother sees him and faints.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-symbols"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [42, 44, 46, 47], "note": "PDF pages; reference translation." }] },
+        "developingMeanings": [
+          { "id": "metamorphosis-symbol-furniture-reference-meaning", "text": "The student's reading of furniture removal as loss of humanity has textual support, but the episode also gives a practical reason: more room for Gregor's movement. Explain this tension rather than treating the symbol as settled.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-symbols"], "evidenceIds": ["ev-metamorphosis-reference-furniture"] },
+          { "id": "metamorphosis-symbol-picture-meaning", "text": "Gregor protects the picture as one of the remaining objects he claims as his own. It can suggest attachment to a human past, though the text does not assign it a single explicit symbolic meaning.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [46, 47], "note": "PDF pages; reference translation." }] }
+        ],
+        "characterAndThemeLinks": [{ "id": "metamorphosis-symbol-furniture-reference-link", "text": "The scene stages conflict between Grete's practical care, Gregor's attachment to familiar human objects, and the family's fear of seeing him.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [42, 44, 46, 48], "note": "PDF pages; reference translation." }] }],
+        "evidenceIds": ["ev-metamorphosis-reference-furniture"]
+      },
+      {
+        "objectOrMotif": "Food and feeding",
+        "literalPresence": { "id": "metamorphosis-symbol-food-literal", "text": "Gregor's preferences change after the transformation; Grete experiments with what he will eat, and later the cleaning woman and family leave food in a less attentive, more perfunctory way.", "origin": "textual_evidence", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [27, 31, 57, 61], "note": "PDF pages; reference translation." }] },
+        "developingMeanings": [{ "id": "metamorphosis-symbol-food-meaning", "text": "Feeding first gives Grete a practical way to care for Gregor despite failed conversation; as attention declines, the food also makes visible the household's changing capacity and willingness to sustain that care.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-character-roles"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [27, 31, 57, 61], "note": "PDF pages; reference translation." }] }],
+        "characterAndThemeLinks": [{ "id": "metamorphosis-symbol-food-link", "text": "The changing meals connect Gregor's altered body, Grete's early caregiving, and the family's later neglect without making food a one-meaning symbol.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-themes"], "evidenceIds": ["ev-metamorphosis-grete-care"] }],
+        "evidenceIds": ["ev-metamorphosis-grete-care"]
+      }
+    ],
+    "literaryElements": [
+      { "element": "Third-person narration and point of view", "function": { "id": "metamorphosis-element-pov", "text": "The narration stays close to Gregor's perceptions through most of the story, giving access to his thoughts while the family misunderstands his speech. After his death, attention shifts to the family's plans. This focus makes the reader compare Gregor's inner life with the body's appearance others see.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-metamorphosis-annotation"], "evidenceIds": ["ev-metamorphosis-rhetorical-question", "ev-metamorphosis-reference-violin"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [3, 18, 64, 77], "note": "PDF pages; reference translation." }] }, "evidenceIds": ["ev-metamorphosis-rhetorical-question", "ev-metamorphosis-reference-violin"] },
+      { "element": "Syntax", "function": { "id": "metamorphosis-element-syntax", "text": "The student describes the violin passage's long, clause-heavy syntax as making Gregor's imaginative response vivid. In an exam answer, point to a sentence structure and explain how it shapes pace or access to thought.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-annotation"] }, "evidenceIds": ["ev-metamorphosis-rhetorical-question"] },
+      { "element": "Rhetorical question", "function": { "id": "metamorphosis-element-rhetorical-question", "text": "The question 'Was he an animal, since music so moved him?' does more than ask for information: it makes the reader test whether outward form can determine inner humanity.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-annotation"], "evidenceIds": ["ev-metamorphosis-rhetorical-question"] }, "evidenceIds": ["ev-metamorphosis-rhetorical-question"] },
+      { "element": "Simile and characterization", "function": { "id": "metamorphosis-element-simile", "text": "The student's 'like a dragon' example reads Gregor as protective toward Grete but frightening to intruders, showing how one image can reveal affection and the threatening appearance others see.", "origin": "student_work", "sourceRecordIds": ["student-metamorphosis-annotation"], "evidenceIds": ["ev-metamorphosis-dragon-simile"] }, "evidenceIds": ["ev-metamorphosis-dragon-simile"] },
+      { "element": "Absurdism and deadpan incongruity", "function": { "id": "metamorphosis-element-absurd", "text": "The story presents an unexplained bodily transformation in a matter-of-fact narrative beside routine concerns about trains, work, and family finances. That mismatch produces an absurd, unsettling effect; it does not supply a single authorized philosophical explanation for the transformation.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston", "student-absurdism-chart", "student-existentialism-chart"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [3, 4, 15, 34], "note": "PDF pages; reference translation." }], "uncertainty": "The class's absurdism and existentialism assignments preserve student interpretations; do not present an optional study app's generated readings as teacher statements." }, "evidenceIds": ["ev-metamorphosis-reference-transformation", "ev-metamorphosis-reference-productivity"] },
+      { "element": "Diction and tonal contrast", "function": { "id": "metamorphosis-element-diction", "text": "The chief clerk's language of productivity reduces the crisis to work performance, while the charwoman's blunt idiom describes Gregor's death without ceremony. These voices sharpen the gap between Gregor's inner experience and the practical judgments made around him.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "evidenceIds": ["ev-metamorphosis-reference-productivity", "ev-metamorphosis-reference-death"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [15, 72], "note": "PDF pages; reference translation." }] } },
+      { "element": "Three-part structure and pacing", "function": { "id": "metamorphosis-element-structure", "text": "The first part concentrates on the morning crisis and Gregor's failed return to work; the second follows changing care and the lasting injury; the third tracks economic adaptation, rejection, death, and the family's outward turn. The expanding time span slows the transition from shock to neglect.", "origin": "ai_analysis", "sourceRecordIds": ["reference-metamorphosis-ian-johnston"], "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [3, 27, 53, 72, 77], "note": "PDF pages; reference translation." }] } }
+    ],
+    "studentInterpretationRecordIds": ["student-metamorphosis-stages", "student-metamorphosis-symbols", "student-metamorphosis-character-roles", "student-metamorphosis-annotation", "student-metamorphosis-themes", "student-existentialism-chart", "student-absurdism-chart", "student-graphic-novel-venn-analysis"],
+    "coverage": { "plot": "supported", "characters": "supported", "settings": "supported", "themes": "supported", "symbolsAndMotifs": "supported", "literaryElements": "supported", "evidence": "supported" },
+    "coverageNotes": [
+      "The full plot and added text examples use the Ian Johnston translation in the local 77-page reference PDF. The PDF states a 1999 public-domain release; the class translation/edition is not confirmed, and PDF page numbers are not class book citations.",
+      "Teacher directions and student work remain separate: the packet supports selected character, symbol, theme, existentialism, absurdism, and passage-analysis work; new whole-text chronology and analytical connections are identified as reference-based or AI analysis.",
+      "The claims that Gregor's death makes him happy/free and that escape is the only path to freedom are student-generated, inconsistent or broad, and flagged for review rather than endorsed.",
+      "The optional Metamorphosis handout/app remains supplementary and its teacher attribution is unconfirmed. Its generated analyses are not presented as class answers.",
+      "The evidence repository includes selected short quotations from the reference translation. Verify wording in the assigned class copy before using any quotation in a timed exam; preserve packet-supplied quotations and citations unchanged."
+    ]
+  },
+  {
+    "id": "guide-glass-castle",
+    "novel": "glass-castle",
+    "status": "ready_for_review",
+    "overview": [
+      {
+        "id": "glass-overview-memoir",
+        "text": "Jeannette Walls's memoir opens with an adult encounter in New York before recalling her childhood in a mobile family shaped by Rex's charisma and alcoholism, Rose Mary's resistance to conventional responsibility, repeated moves, and the children's increasing self-reliance. Jeannette and her siblings eventually build lives apart from their parents, while affection and unresolved family tensions remain.",
+        "origin": "textual_evidence",
+        "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-themes", "student-glass-castle-settings"],
+        "sourceDocuments": [{ "documentId": "reference-glass-castle-scribner-2009", "pdfPages": [13, 293], "note": "Reference-copy PDF pages anchor the opening frame and late memoir; this edition is not confirmed as the class edition." }]
+      },
+      {
+        "id": "glass-overview-student-source",
+        "text": "Student work reads the Glass Castle as a hoped-for future that becomes false hope, Jeannette's movement to New York as a journey toward self-definition, and the Joshua tree as resilience. These are the student's interpretations, not teacher-approved conclusions.",
+        "origin": "student_work",
+        "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-allegory", "student-glass-castle-symbols"]
+      }
+    ],
+    "plotChronology": [
+      {
+        "order": 1,
+        "event": { "id": "glass-plot-frame", "text": "The memoir opens with adult Jeannette seeing her mother searching through a dumpster in New York while Jeannette rides in a taxi from her home on Park Avenue. She later approaches the encounter through memory and returns to childhood.", "origin": "textual_evidence", "sourceRecordIds": ["student-glass-castle-settings"], "sourceDocuments": [{ "documentId": "reference-glass-castle-scribner-2009", "pdfPages": [13, 14], "note": "Opening frame; reference-copy PDF pages." }] },
+        "significance": { "id": "glass-plot-frame-significance", "text": "The opening juxtaposes Jeannette's adult security with her parents' poverty and establishes a tension between distance, shame, guilt, and continuing family attachment. The packet preserves those feelings as the student's responses to the passage.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-settings"] }
+      },
+      {
+        "order": 2,
+        "event": { "id": "glass-plot-fire", "text": "The childhood narrative begins with three-year-old Jeannette severely burned while cooking hot dogs; the family takes her to a hospital and Rex later removes her before treatment is complete. Jeannette recalls becoming fascinated with fire.", "origin": "textual_evidence", "sourceRecordIds": ["student-glass-castle-allegory"], "sourceDocuments": [{ "documentId": "reference-glass-castle-scribner-2009", "pdfPages": [19, 25], "note": "Early memoir; reference-copy PDF pages." }] },
+        "significance": { "id": "glass-plot-fire-significance", "text": "This episode establishes both physical danger and the family's unconventional response to institutions. The student's reading of fire as destruction and fascination should remain distinct from the literal event.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-allegory"] }
+      },
+      {
+        "order": 3,
+        "event": { "id": "glass-plot-moves-and-castle", "text": "The Walls family moves repeatedly through the Southwest; Rex tells the children about his plans and promises to build a Glass Castle. The student quotes a passage that locates the promise in the family's pattern of stories about future accomplishments.", "origin": "textual_evidence", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-symbols"], "sourceDocuments": [{ "documentId": "reference-glass-castle-scribner-2009", "pdfPages": [36, 45, 165], "note": "Reference-copy PDF pages include family movement, Joshua tree material, and the castle foundation episode." }] },
+        "significance": { "id": "glass-plot-moves-and-castle-significance", "text": "The castle promise gives the children an imaginative future, but the student notes that trash is later dumped into the intended foundation. Read the symbol through both its emotional appeal and the repeated gap between promise and material reality.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-allegory", "student-glass-castle-symbols"], "evidenceIds": ["ev-glass-castle-glass-castle-promise", "ev-glass-castle-foundation"] }
+      },
+      {
+        "order": 4,
+        "event": { "id": "glass-plot-welch", "text": "The family moves to Welch, West Virginia, where the children encounter poverty, deteriorating housing, and the town's coal-mining environment. The student's passage describes stores, signs, sidewalks, and cars covered in black coal dust.", "origin": "textual_evidence", "sourceRecordIds": ["student-glass-castle-settings"], "sourceDocuments": [{ "documentId": "reference-glass-castle-scribner-2009", "pdfPages": [137, 144], "note": "Welch section and setting description; reference-copy PDF pages." }] },
+        "significance": { "id": "glass-plot-welch-significance", "text": "Welch makes class and material hardship visible through the physical setting. The student's mood labels are interpretations; an analytical answer should connect them to details such as the coal dust rather than simply asserting that the town is depressing.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-settings"], "evidenceIds": ["ev-glass-castle-welch-setting"] }
+      },
+      {
+        "order": 5,
+        "event": { "id": "glass-plot-escape-plan", "text": "Lori leaves for New York, and Jeannette decides to join her after the school year. The student quotes Jeannette's stated plan to follow Lori as soon as she can.", "origin": "textual_evidence", "sourceRecordIds": ["student-glass-castle-archetypes"], "sourceDocuments": [{ "documentId": "reference-glass-castle-scribner-2009", "pdfPages": [247], "note": "Jeannette's New York plan; reference-copy PDF page. The class quote citation is Walls 223." }] },
+        "significance": { "id": "glass-plot-escape-plan-significance", "text": "The plan signals a shift from enduring the family's instability to deliberately seeking a different future. The student's hero's-journey reading is a useful interpretation, but should be supported through the full sequence rather than assumed from one decision.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-archetypes"] }
+      },
+      {
+        "order": 6,
+        "event": { "id": "glass-plot-adult-parents", "text": "In adulthood, Jeannette and her siblings have established lives while Rex and Rose Mary remain materially insecure and choose not to live conventionally. The opening dumpster encounter makes this contrast visible; later sections return to the family's continuing relationships.", "origin": "textual_evidence", "sourceRecordIds": ["student-glass-castle-settings", "student-glass-castle-themes"], "sourceDocuments": [{ "documentId": "reference-glass-castle-scribner-2009", "pdfPages": [13, 293], "note": "Opening and late memoir reference-copy PDF pages." }] },
+        "significance": { "id": "glass-plot-adult-parents-significance", "text": "The memoir resists a simple resolution in which leaving erases family attachment or in which love excuses parental harm. The student's themes of self-definition, memory, hope, and family control help frame the tension.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-themes", "student-glass-castle-archetypes"] }
+      }
+    ],
+    "settings": [
+      { "id": "glass-setting-southwest", "text": "The early Desert section moves through multiple Southwestern places; instability and mobility shape the children's daily life. Do not supply a complete route from the packet, which lacks a full plot map.", "origin": "textual_evidence", "sourceRecordIds": ["student-glass-castle-allegory", "glass-castle-plot-and-character-coverage-gap"], "sourceDocuments": [{ "documentId": "reference-glass-castle-scribner-2009", "pdfPages": [19, 136], "note": "Desert section span in reference copy; not an assigned-edition citation." }] },
+      { "id": "glass-setting-phoenix", "text": "The student describes the Phoenix adobe house as unusually large and secure compared with other family housing. The quotation supports the physical contrast, but does not by itself establish durable stability.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-settings"], "evidenceIds": ["ev-glass-castle-phoenix-setting"] },
+      { "id": "glass-setting-welch", "text": "The student describes Welch through coal dust and a nearly monochromatic appearance. Those concrete details support an atmosphere analysis; they should not be replaced by a mood adjective alone.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-settings"], "evidenceIds": ["ev-glass-castle-welch-setting"] },
+      { "id": "glass-setting-new-york", "text": "New York becomes the setting for Jeannette's independent life and for the opening encounter with her mother. The student also records an orange-lit sky at a women's hostel and links it to air pollution; do not recast that literal cause as symbolism without a separate argument.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-settings"], "evidenceIds": ["ev-glass-castle-new-york-setting"] }
+    ],
+    "characters": [
+      {
+        "name": "Jeannette Walls",
+        "profile": { "id": "glass-jeannette-profile", "text": "The memoir's first-person narrator recounts a childhood marked by danger, mobility, parental neglect, and affection, then describes her effort to build an independent adult life. The student reads her as a hero on a journey toward self-definition.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-themes"] },
+        "traits": [
+          { "id": "glass-jeannette-trait-resourceful", "text": "Her decision to join Lori in New York shows planning and agency in response to the family's instability.", "origin": "textual_evidence", "sourceRecordIds": ["student-glass-castle-archetypes"], "evidenceIds": ["ev-glass-castle-escape-plan"] },
+          { "id": "glass-jeannette-trait-ambivalent", "text": "The opening frame and the student's response show that adult distance from her parents coexists with guilt, shame, and attachment; the memoir is not simply a story of rejecting them.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-settings", "student-glass-castle-themes"] }
+        ],
+        "motivations": [
+          { "id": "glass-jeannette-motivation-independence", "text": "The student argues that Jeannette seeks a life and identity not defined entirely by family influence; the New York plan is one concrete turning point.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-themes", "student-glass-castle-archetypes"], "evidenceIds": ["ev-glass-castle-escape-plan"] }
+        ],
+        "conflicts": [
+          { "id": "glass-jeannette-conflict-family", "text": "She must reconcile affection for her parents with the consequences of their failures to provide safety and stability.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-rose-mary-shadow", "student-glass-castle-themes"] },
+          { "id": "glass-jeannette-conflict-memory", "text": "As a retrospective narrator, she recounts childhood experience from adulthood; distinguish the remembered event from the adult interpretation of it.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-themes"] }
+        ],
+        "relationships": [
+          { "id": "glass-jeannette-relationship-rex", "text": "Jeannette remembers Rex's affection and charisma alongside physical punishment, instability, and broken promises. The student's words 'evil person with a good heart' are retained as a nuanced but debatable archetype judgment.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison"], "evidenceIds": ["ev-glass-castle-rex-love", "ev-glass-castle-rex-discipline"], "uncertainty": "Preserve the student's description; consider whether 'evil' is supported or whether the more precise argument is about loving attachment coexisting with harm." },
+          { "id": "glass-jeannette-relationship-lori", "text": "Lori's departure gives Jeannette a model and a practical route to leave Welch; the student uses Jeannette's plan to follow her as evidence of purposeful movement.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-archetypes"], "evidenceIds": ["ev-glass-castle-escape-plan"] }
+        ],
+        "development": [
+          { "id": "glass-jeannette-development", "text": "The selected class material supports a movement from childhood dependence and adaptation toward an intentional plan for independence, but it does not supply a complete stage-by-stage account of her development.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes", "glass-castle-plot-and-character-coverage-gap"] }
+        ],
+        "themeConnections": [
+          { "id": "glass-jeannette-theme", "text": "Jeannette's effort to define herself develops alongside the unresolved question of how to remember and love parents who caused harm.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-themes", "student-glass-castle-archetypes"] }
+        ],
+        "evidenceIds": ["ev-glass-castle-escape-plan", "ev-glass-castle-rex-love"],
+        "studentInterpretationRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-themes", "student-glass-castle-settings"]
+      },
+      {
+        "name": "Rex Walls",
+        "profile": { "id": "glass-rex-profile", "text": "Jeannette's father is charismatic, imaginative, affectionate, and at times violent and unreliable. He tells the children about the Glass Castle he plans to build; the student's characterization preserves both his love and his harm.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison", "student-glass-castle-symbols"] },
+        "traits": [
+          { "id": "glass-rex-trait-inventive", "text": "His storytelling and plans give the children a vivid imagined future, but the repeated unfulfilled promise must be weighed against what actually happens.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-symbols"], "evidenceIds": ["ev-glass-castle-glass-castle-promise", "ev-glass-castle-foundation"] },
+          { "id": "glass-rex-trait-violent", "text": "The student records Rex using a belt as punishment and applies the tyrant archetype to his control; this is a student argument, not a teacher label.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-tyrant-comparison"], "evidenceIds": ["ev-glass-castle-rex-discipline"] }
+        ],
+        "motivations": [
+          { "id": "glass-rex-motivation", "text": "Rex's stated plans emphasize a future of independence and adventure, but the selected records do not establish a single motive that explains his repeated failures to provide stability.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes", "glass-castle-plot-and-character-coverage-gap"] }
+        ],
+        "conflicts": [
+          { "id": "glass-rex-conflict", "text": "He conflicts with the children's need for safety and stability while also remaining a source of affection and imaginative excitement.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison", "student-glass-castle-themes"] }
+        ],
+        "relationships": [
+          { "id": "glass-rex-relationship-jeannette", "text": "Jeannette remembers Rex's love in powerful terms, but that attachment does not erase the documented punishment or instability.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison"], "evidenceIds": ["ev-glass-castle-rex-love", "ev-glass-castle-rex-discipline"] }
+        ],
+        "development": [
+          { "id": "glass-rex-development", "text": "The available class records do not provide a complete Rex development arc. Discuss repeated promises, harm, and late-family relationships as distinct evidence rather than claiming he changes without support.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes", "glass-castle-plot-and-character-coverage-gap"] }
+        ],
+        "themeConnections": [
+          { "id": "glass-rex-theme", "text": "Rex develops the tension between hope and evidence: his plans inspire the children, while repeated failures make hope an unreliable substitute for material care.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-themes", "student-glass-castle-symbols"], "evidenceIds": ["ev-glass-castle-glass-castle-promise", "ev-glass-castle-foundation"] }
+        ],
+        "evidenceIds": ["ev-glass-castle-glass-castle-promise", "ev-glass-castle-rex-discipline", "ev-glass-castle-rex-love"],
+        "studentInterpretationRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison"]
+      },
+      {
+        "name": "Rose Mary Walls",
+        "profile": { "id": "glass-rose-mary-profile", "text": "Jeannette's mother is an artist who resists conventional domestic responsibilities. Student work criticizes her failures to protect Jeannette and provide financially, while the memoir's broader relationship also requires attention to her independence and attachment.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-rose-mary-shadow", "student-glass-castle-themes"] },
+        "traits": [
+          { "id": "glass-rose-mary-trait-artist", "text": "The student notes her art and tendency to prioritize her own activities; further claims about her motives should be supported with episodes.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-rose-mary-shadow", "student-glass-castle-symbols"] },
+          { "id": "glass-rose-mary-trait-failure-protection", "text": "The student's evidence about her response to Jeannette reporting Uncle Stanley supports a specific criticism of failed protection, not by itself a complete judgment of her character.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-rose-mary-shadow"], "evidenceIds": ["ev-glass-castle-rose-mary-dismissal"] }
+        ],
+        "motivations": [
+          { "id": "glass-rose-mary-motivation", "text": "The class records do not establish a single motive that explains her resistance to paid work or conventional parenting; preserve the student argument and seek broader evidence before generalizing.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-rose-mary-shadow", "glass-castle-plot-and-character-coverage-gap"] }
+        ],
+        "conflicts": [
+          { "id": "glass-rose-mary-conflict", "text": "The student's reading exposes a conflict between artistic autonomy and the children's need for protection and material support.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-rose-mary-shadow", "student-glass-castle-symbols"] }
+        ],
+        "relationships": [
+          { "id": "glass-rose-mary-relationship-jeannette", "text": "Her response to Jeannette's report about Uncle Stanley is cited by the student as evidence of dismissed harm; it is a specific episode and should not be generalized without further evidence.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-rose-mary-shadow"], "evidenceIds": ["ev-glass-castle-rose-mary-dismissal"] }
+        ],
+        "development": [
+          { "id": "glass-rose-mary-development", "text": "The available packet provides selected student judgments, not a complete analysis of Rose Mary's development; do not assign a static or dynamic label without broader evidence.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-rose-mary-shadow", "glass-castle-plot-and-character-coverage-gap"] }
+        ],
+        "themeConnections": [
+          { "id": "glass-rose-mary-theme", "text": "Rose Mary complicates themes of independence and parental responsibility: autonomy can coexist with choices that leave children exposed to harm.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-rose-mary-shadow", "student-glass-castle-themes"] }
+        ],
+        "evidenceIds": ["ev-glass-castle-rose-mary-dismissal", "ev-glass-castle-rose-mary-work"],
+        "studentInterpretationRecordIds": ["student-glass-castle-rose-mary-shadow"]
+      },
+      {
+        "name": "Lori Walls",
+        "profile": { "id": "glass-lori-profile", "text": "Jeannette's older sister, who leaves for New York before Jeannette and becomes the person Jeannette plans to follow.", "origin": "textual_evidence", "sourceRecordIds": ["student-glass-castle-archetypes"], "evidenceIds": ["ev-glass-castle-escape-plan"] },
+        "traits": [{ "id": "glass-lori-trait-independent", "text": "Her departure gives Jeannette a concrete model for independence; the available class material supports that role but not a full characterization.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes"] }],
+        "motivations": [{ "id": "glass-lori-motivation-gap", "text": "The packet does not provide a detailed account of Lori's motives for leaving.", "origin": "ai_analysis", "sourceRecordIds": ["glass-castle-plot-and-character-coverage-gap"] }],
+        "conflicts": [{ "id": "glass-lori-conflict-gap", "text": "The current class records do not map Lori's conflicts beyond the family's unstable circumstances.", "origin": "ai_analysis", "sourceRecordIds": ["glass-castle-plot-and-character-coverage-gap"] }],
+        "relationships": [{ "id": "glass-lori-relationship-jeannette", "text": "Lori's departure is connected to Jeannette's plan to join her, making sibling support an important step in Jeannette's movement toward independence.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-archetypes"], "evidenceIds": ["ev-glass-castle-escape-plan"] }],
+        "development": [{ "id": "glass-lori-development-gap", "text": "The available class material does not support a complete development analysis for Lori.", "origin": "ai_analysis", "sourceRecordIds": ["glass-castle-plot-and-character-coverage-gap"] }],
+        "themeConnections": [{ "id": "glass-lori-theme", "text": "Her role in Jeannette's escape plan connects sibling relationships with agency and the possibility of a different future.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-themes"] }],
+        "evidenceIds": ["ev-glass-castle-escape-plan"],
+        "studentInterpretationRecordIds": ["student-glass-castle-archetypes"]
+      }
+    ],
+    "themes": [
+      {
+        "name": "Hope, promises, and material reality",
+        "centralIdea": { "id": "glass-theme-hope", "text": "The Glass Castle promise offers the children a compelling image of future security, yet the memoir repeatedly places that promise beside present deprivation and parental failure. The student frames hope as something that should not replace attention to evidence.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-themes", "student-glass-castle-allegory"] },
+        "development": [
+          { "id": "glass-theme-hope-1", "text": "Rex tells the children about what he will build, making the castle an emotional promise as well as a proposed structure.", "origin": "textual_evidence", "sourceRecordIds": ["student-glass-castle-archetypes"], "evidenceIds": ["ev-glass-castle-glass-castle-promise"] },
+          { "id": "glass-theme-hope-2", "text": "The student describes garbage being dumped into the planned foundation, a concrete image that undercuts the promise without erasing its earlier appeal.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-allegory"], "evidenceIds": ["ev-glass-castle-foundation"] }
+        ],
+        "evidenceIds": ["ev-glass-castle-glass-castle-promise", "ev-glass-castle-foundation"],
+        "nuance": [{ "id": "glass-theme-hope-nuance", "text": "The student's 'false hope' reading is one defensible angle, but the promise also functions as a source of imagination and affection. Explain both effects rather than reducing it to a lie.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-themes"] }]
+      },
+      {
+        "name": "Family love, harm, and responsibility",
+        "centralIdea": { "id": "glass-theme-family", "text": "The memoir preserves love and attachment alongside neglect, danger, and failures of parental responsibility; neither side cancels the other.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison", "student-glass-castle-rose-mary-shadow"] },
+        "development": [
+          { "id": "glass-theme-family-1", "text": "The student quotes Jeannette remembering Rex's love while separately recording his physical punishment of the children.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison"], "evidenceIds": ["ev-glass-castle-rex-love", "ev-glass-castle-rex-discipline"] },
+          { "id": "glass-theme-family-2", "text": "The student's account of Rose Mary dismissing Jeannette's report about Uncle Stanley gives a specific instance for analyzing failed protection.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-rose-mary-shadow"], "evidenceIds": ["ev-glass-castle-rose-mary-dismissal"] }
+        ],
+        "evidenceIds": ["ev-glass-castle-rex-love", "ev-glass-castle-rex-discipline", "ev-glass-castle-rose-mary-dismissal"],
+        "nuance": [{ "id": "glass-theme-family-nuance", "text": "Avoid flattening Rex into only a tyrant or Rose Mary into only a shadow archetype. Those are student labels; preserve the student's reasoning but test each claim against the memoir's broader evidence.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison", "student-glass-castle-rose-mary-shadow"], "uncertainty": "The student's description 'evil person with a good heart' and archetype assignments are open to review." }]
+      },
+      {
+        "name": "Self-definition and independence",
+        "centralIdea": { "id": "glass-theme-independence", "text": "The student argues that individuals should build a self beyond family influence; Jeannette's plan to follow Lori provides a specific turning point toward a different life.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-themes", "student-glass-castle-archetypes"], "evidenceIds": ["ev-glass-castle-escape-plan"] },
+        "development": [
+          { "id": "glass-theme-independence-1", "text": "Jeannette's decision to leave Welch changes her position from adapting within the family's movement to actively planning her own future.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes"], "evidenceIds": ["ev-glass-castle-escape-plan"] },
+          { "id": "glass-theme-independence-2", "text": "The adult frame shows that physical and financial independence does not end the narrator's emotional entanglement with her parents.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-settings", "student-glass-castle-themes"] }
+        ],
+        "evidenceIds": ["ev-glass-castle-escape-plan", "ev-glass-castle-new-york-setting"],
+        "nuance": [{ "id": "glass-theme-independence-nuance", "text": "Independence is not the same as emotional erasure; the memoir's frame preserves continuing attachment and discomfort.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-settings", "student-glass-castle-themes"] }]
+      },
+      {
+        "name": "Resilience and hardship",
+        "centralIdea": { "id": "glass-theme-resilience", "text": "Student work links the Joshua tree's difficult growth and Jeannette's adaptation to resilience. The analogy should not imply that harm is necessary or automatically beneficial.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-allegory", "student-glass-castle-symbols"] },
+        "development": [
+          { "id": "glass-theme-resilience-1", "text": "The student's Joshua tree interpretation connects the plant's shape and survival in a harsh environment to adaptation.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-allegory", "student-glass-castle-symbols"], "evidenceIds": ["ev-glass-castle-joshua-tree"] },
+          { "id": "glass-theme-resilience-2", "text": "The student also describes Jeannette's movement toward a life of her own; treat personal agency as more than simply enduring hardship.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-themes", "student-glass-castle-archetypes"] }
+        ],
+        "evidenceIds": ["ev-glass-castle-joshua-tree"],
+        "nuance": [{ "id": "glass-theme-resilience-nuance", "text": "Resilience describes a response to difficulty; it does not excuse the conditions that made survival necessary.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-allegory", "student-glass-castle-tyrant-comparison"] }]
+      }
+    ],
+    "symbolsAndMotifs": [
+      {
+        "objectOrMotif": "The Glass Castle",
+        "literalPresence": { "id": "glass-symbol-castle-literal", "text": "Rex repeatedly describes plans to build a glass home for the family; the student quotes him promising to build it.", "origin": "textual_evidence", "sourceRecordIds": ["student-glass-castle-archetypes"], "evidenceIds": ["ev-glass-castle-glass-castle-promise"] },
+        "developingMeanings": [
+          { "id": "glass-symbol-castle-meaning-1", "text": "The student reads the castle as comfort and false hope, while the repeated promise also gives the children an imagined future.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-symbols", "student-glass-castle-archetypes"] },
+          { "id": "glass-symbol-castle-meaning-2", "text": "The trash placed in the intended foundation turns the dream into a concrete image of the distance between aspiration and material care.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-allegory"], "evidenceIds": ["ev-glass-castle-foundation"] }
+        ],
+        "characterAndThemeLinks": [{ "id": "glass-symbol-castle-link", "text": "The symbol links Rex's storytelling, the children's hope, and the memoir's critique of promises that do not provide safety or shelter.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-themes"] }],
+        "evidenceIds": ["ev-glass-castle-glass-castle-promise", "ev-glass-castle-foundation"]
+      },
+      {
+        "objectOrMotif": "Fire",
+        "literalPresence": { "id": "glass-symbol-fire-literal", "text": "Jeannette is burned in a cooking accident as a young child and later recalls fascination with fire.", "origin": "textual_evidence", "sourceRecordIds": ["student-glass-castle-allegory"], "sourceDocuments": [{ "documentId": "reference-glass-castle-scribner-2009", "pdfPages": [19, 25], "note": "Reference-copy PDF pages; class edition not confirmed." }] },
+        "developingMeanings": [{ "id": "glass-symbol-fire-meaning", "text": "The student reads fire as destruction and fascination and notes that repeated exposure changes Jeannette's response from fear to interest.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-allegory"], "evidenceIds": ["ev-glass-castle-fire"] }],
+        "characterAndThemeLinks": [{ "id": "glass-symbol-fire-link", "text": "The episode introduces a pattern in which danger becomes part of the children's ordinary experience; do not claim that the danger makes them stronger without addressing its harm.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-allegory", "student-glass-castle-themes"] }],
+        "evidenceIds": ["ev-glass-castle-fire"]
+      },
+      {
+        "objectOrMotif": "The Joshua tree",
+        "literalPresence": { "id": "glass-symbol-joshua-literal", "text": "The Joshua tree grows in a harsh, windy desert environment and is described in the memoir; the student selects it for a symbol and allegory analysis.", "origin": "textual_evidence", "sourceRecordIds": ["student-glass-castle-allegory", "student-glass-castle-symbols"], "sourceDocuments": [{ "documentId": "reference-glass-castle-scribner-2009", "pdfPages": [45, 47], "note": "Reference-copy PDF pages; class edition not confirmed." }] },
+        "developingMeanings": [{ "id": "glass-symbol-joshua-meaning", "text": "The student interprets the tree as resistance through hardship and adaptation. This is a student analogy, not a teacher-approved universal meaning.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-allegory", "student-glass-castle-symbols"], "evidenceIds": ["ev-glass-castle-joshua-tree"] }],
+        "characterAndThemeLinks": [{ "id": "glass-symbol-joshua-link", "text": "The tree can support a comparison with Jeannette's adaptation, but the analogy should distinguish endurance from the memoir's criticism of avoidable parental harm.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-themes", "student-glass-castle-allegory"] }],
+        "evidenceIds": ["ev-glass-castle-joshua-tree"]
+      },
+      {
+        "objectOrMotif": "The rocks Jeannette collects",
+        "literalPresence": { "id": "glass-symbol-rocks-literal", "text": "The student's symbol table lists Jeannette's rocks as a recurring detail.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-symbols"] },
+        "developingMeanings": [{ "id": "glass-symbol-rocks-meaning", "text": "The student associates the rocks with beauty and parental control; no passage or page location is supplied for this interpretation in the database.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-symbols"], "uncertainty": "The interpretation needs passage-level verification." }],
+        "characterAndThemeLinks": [{ "id": "glass-symbol-rocks-link", "text": "If using the student's reading, explain how the object's literal use and the parents' response create the claimed connection to control.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-symbols"] }],
+        "evidenceIds": []
+      },
+      {
+        "objectOrMotif": "The yellow paint",
+        "literalPresence": { "id": "glass-symbol-paint-literal", "text": "The student's symbol notes list yellow paint as an object in the memoir.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-symbols"] },
+        "developingMeanings": [{ "id": "glass-symbol-paint-meaning", "text": "The student associates it with hope for change; the packet does not supply a passage or citation for this item.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-symbols"], "uncertainty": "Verify literal context and page in the assigned edition before relying on this interpretation." }],
+        "characterAndThemeLinks": [{ "id": "glass-symbol-paint-link", "text": "The proposed meaning could connect to hope, but further evidence is needed to show how it develops.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-symbols"] }],
+        "evidenceIds": []
+      }
+    ],
+    "literaryElements": [
+      { "element": "Retrospective first-person memoir", "function": { "id": "glass-element-memoir", "text": "The adult narrator selects and interprets childhood episodes. This frame lets the memoir juxtapose remembered vulnerability with later perspective, while reminding readers that the account is filtered through one person's memory.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-settings", "student-glass-castle-themes"], "sourceDocuments": [{ "documentId": "reference-glass-castle-scribner-2009", "pdfPages": [13, 19], "note": "Opening frame and start of childhood narrative; reference-copy PDF pages." }] }, "evidenceIds": ["ev-glass-castle-new-york-setting"] },
+      { "element": "Frame structure and contrast", "function": { "id": "glass-element-frame", "text": "The opening Park Avenue/dumpster scene sets adult Jeannette beside her mother's poverty before the memoir returns to childhood. The juxtaposition creates the central tension of distance and attachment; the student's guilt and shame readings should be identified as the student's response.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-settings"], "sourceDocuments": [{ "documentId": "reference-glass-castle-scribner-2009", "pdfPages": [13, 14], "note": "Opening frame; reference-copy PDF pages." }] }, "evidenceIds": ["ev-glass-castle-new-york-setting"] },
+      { "element": "Concrete setting imagery", "function": { "id": "glass-element-setting-imagery", "text": "The student's Welch passage uses coal dust and a monochromatic comparison to make the town's industrial environment visible. To analyze function, link the image to Jeannette's perception and the atmosphere rather than substituting a generic mood label.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-settings"], "evidenceIds": ["ev-glass-castle-welch-setting"] }, "evidenceIds": ["ev-glass-castle-welch-setting"] },
+      { "element": "Symbolic motif", "function": { "id": "glass-element-symbolism", "text": "The Glass Castle and Joshua tree acquire meaning through recurrence and contrast between literal detail and later interpretation. The student's allegory note appropriately warns that a memoir detail can invite symbolic reading without proving deliberate allegorical design.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-symbols", "student-glass-castle-allegory"], "evidenceIds": ["ev-glass-castle-glass-castle-promise", "ev-glass-castle-joshua-tree"] }, "evidenceIds": ["ev-glass-castle-glass-castle-promise", "ev-glass-castle-joshua-tree"] },
+      { "element": "Tone and mood", "function": { "id": "glass-element-tone-mood", "text": "The packet preserves the student's descriptions of the Welch passage as sorrowful and the Park Avenue scene as conflicted. In analysis, distinguish the narrator's tone from the reader's mood and cite the diction or image that creates the effect.", "origin": "student_work", "sourceRecordIds": ["student-glass-castle-settings"], "evidenceIds": ["ev-glass-castle-welch-setting", "ev-glass-castle-new-york-setting"] }, "evidenceIds": ["ev-glass-castle-welch-setting", "ev-glass-castle-new-york-setting"] }
+    ],
+    "studentInterpretationRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-rose-mary-shadow", "student-glass-castle-tyrant-comparison", "student-glass-castle-settings", "student-glass-castle-allegory", "student-glass-castle-themes", "student-glass-castle-symbols"],
+    "coverage": { "plot": "partial", "characters": "partial", "settings": "supported", "themes": "supported", "symbolsAndMotifs": "partial", "literaryElements": "partial", "evidence": "partial" },
+    "coverageNotes": [
+      "A Scribner 2009 reference copy supplies independently checked events and reference-copy PDF pages, but this edition is not confirmed as the assigned class edition. Its PDF pages must not be substituted for Walls page numbers.",
+      "The packet's student assignments offer useful specific analyses and quotations but do not provide a complete plot or full character-relationship inventory.",
+      "Preserve the student's Rex, Rose Mary, archetype, symbol, and allegory arguments as student work. Review overgeneralizations and the unclear wording in the Rex/O'Brien comparison rather than silently rewriting them.",
+      "Some student quotations lack supplied page citations or have not been independently checked against the assigned edition; use them as sourced class evidence only with those limitations visible."
+    ]
+  }
+]

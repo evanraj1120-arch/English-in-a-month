@@ -1,0 +1,47 @@
+[
+  {
+    "id": "student-modern-antihero-walter-white",
+    "classification": "student_interpretation_or_analytical_argument",
+    "itemType": "modern-antihero-analysis",
+    "topic": "Student's application of the antihero traits to Walter White",
+    "novels": [],
+    "source": {
+      "documentId": "honors-english-10-midterm-packet",
+      "pdfPages": [26, 27],
+      "assignmentName": "Assignment 3: 1984 Winston: The Anti-Hero"
+    },
+    "content": "The student selects Walter White from Breaking Bad and gives examples of a fault (killing Mike in anger), a mistake/serious wrongdoing (not intervening when Jane is choking after an overdose), a difficult decision (continuing drug dealing to provide money versus stopping), and a claimed final right action (arranging for his children to receive money). Preserve the student's examples and judgment as student work; this is not a class-approved interpretation or answer key.",
+    "verificationStatus": "checked_pdf_text",
+    "uncertainty": "The handout asks for a contemporary antihero, but the student's characterization of the ending as doing the 'right thing' is interpretive."
+  },
+  {
+    "id": "student-archetype-example-chart",
+    "classification": "student_assignment_or_completed_response",
+    "itemType": "archetype-example-chart",
+    "topic": "Student-generated examples and meanings for nine archetype prompts",
+    "novels": ["1984", "glass-castle"],
+    "source": {
+      "documentId": "honors-english-10-midterm-packet",
+      "pdfPages": [28, 29, 30, 31],
+      "assignmentName": "Assignment 4: Archetype"
+    },
+    "content": "The completed chart gives these examples: warrior (Black Panther, Mulan, Odysseus); lover (Romeo, Jack Dawson, Achilles); vengeance (John Wick, Hamlet, Captain Ahab); promised land/good city (Exodus, The Lord of the Rings, The Glass Castle); battle between good and evil (Genesis, Star Wars, Harry Potter); devil figure (the Eden serpent, Voldemort, Hades); scapegoat (Jesus, Goldstein, Tom Robinson); red (the phrase 'seeing red', Anger from Inside Out, a face red with rage); and the number three (the Trinity, 'Aristotle's Rule of 3', mind/body/spirit). The attached explanations describe meanings and emotions for each. All examples and explanations are student entries, not verified literary facts or teacher answer keys.",
+    "verificationStatus": "checked_pdf_text",
+    "uncertainty": "Some examples or labels may be imprecise (including the student's wording 'Aristotle's Rule of 3'); preserve and flag rather than silently correcting."
+  },
+  {
+    "id": "student-setting-media-exercises",
+    "classification": "student_assignment_or_completed_response",
+    "itemType": "setting-and-atmosphere-response",
+    "topic": "Student responses to the Scooby-Doo opening and a landscape illustration",
+    "novels": [],
+    "source": {
+      "documentId": "honors-english-10-midterm-packet",
+      "pdfPages": [39, 40],
+      "assignmentName": "Assignment 5: Setting, description, atmosphere, tone, and mood"
+    },
+    "content": "For the Scooby-Doo theme, the student describes a dark, foggy haunted-house setting with monsters, a trapdoor, and bats, while noting that upbeat music contrasts with the haunted visuals; the stated atmosphere is suspenseful, somewhat eerie, and nostalgic. For the landscape illustration on p. 40, the student describes a warm, vibrant, sunny daytime setting with flowers and a river and calls its atmosphere warm, peaceful, and 'serenating'. These are student responses, not teacher-approved labels.",
+    "verificationStatus": "checked_page_image",
+    "uncertainty": "The p. 40 illustration was visually checked; preserve the student's spelling/wording rather than silently normalizing it."
+  }
+]

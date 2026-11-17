@@ -1,0 +1,210 @@
+[
+  {
+    "id": "comparison-authority-1984-glass-castle",
+    "novels": ["1984", "glass-castle"],
+    "claim": {
+      "id": "comparison-authority-claim",
+      "text": "Both novels show power limiting another person's agency, but 1984 presents an institutional state that seeks ideological submission, while The Glass Castle presents intimate parental authority entangled with affection, neglect, and instability.",
+      "origin": "ai_analysis",
+      "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-glass-castle-tyrant-comparison", "student-glass-castle-archetypes"],
+      "evidenceIds": ["ev-1984-truncheon", "ev-glass-castle-rex-discipline", "ev-glass-castle-rex-love"]
+    },
+    "explanation": [
+      {
+        "id": "comparison-authority-explanation-1984",
+        "text": "The student's 1984 passage about the truncheon makes O'Brien's physical coercion visible; the class notes frame the novel's larger conflict as individual consciousness versus totalitarian power. Use the passage as evidence of state force, not as the whole argument about the Party.",
+        "origin": "student_work",
+        "sourceRecordIds": ["student-glass-castle-tyrant-comparison", "teacher-1984-book-chat-notes"],
+        "evidenceIds": ["ev-1984-truncheon"],
+        "uncertainty": "The student's 1984 page citation is unverified and the packet warns that some citations may be inaccurate."
+      },
+      {
+        "id": "comparison-authority-explanation-glass",
+        "text": "The student's Rex passage records physical punishment, while a separate supplied passage remembers his love for Jeannette. Placing these together preserves the student's important ambivalence and prevents a simple equivalence between Rex and O'Brien.",
+        "origin": "student_work",
+        "sourceRecordIds": ["student-glass-castle-tyrant-comparison", "student-glass-castle-archetypes"],
+        "evidenceIds": ["ev-glass-castle-rex-discipline", "ev-glass-castle-rex-love"]
+      },
+      {
+        "id": "comparison-authority-explanation",
+        "text": "The comparison works through a shared effect—reduced freedom—but the scale, purpose, and relationship differ. O'Brien enforces the Party's ideological system; Rex's authority operates within a family and coexists with remembered affection and unmet parental responsibilities.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-glass-castle-tyrant-comparison", "student-glass-castle-archetypes"],
+        "evidenceIds": ["ev-1984-truncheon", "ev-glass-castle-rex-discipline", "ev-glass-castle-rex-love"]
+      }
+    ],
+    "evidenceIds": ["ev-1984-truncheon", "ev-glass-castle-rex-discipline", "ev-glass-castle-rex-love"],
+    "counterargument": {
+      "id": "comparison-authority-counterargument",
+      "text": "A reader could argue that the comparison risks equating a totalitarian regime with a parent's behavior. Limit the claim to the specific shared issue of coercion and explicitly distinguish the political system from family authority.",
+      "origin": "ai_analysis",
+      "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-glass-castle-tyrant-comparison"],
+      "evidenceIds": ["ev-1984-truncheon", "ev-glass-castle-rex-discipline"]
+    },
+    "limitation": "The two works differ in genre, scale, and context. Rex's violence and O'Brien's institutional torture are not interchangeable; the student also flags an unclear phrase in the tyrant comparison that remains unedited.",
+    "adaptableThesis": {
+      "id": "comparison-authority-thesis",
+      "text": "Although both works depict authority restricting personal freedom, Orwell presents coercion as a state's deliberate attempt to destroy independent consciousness, whereas Walls's memoir presents parental power as a more intimate contradiction in which affection coexists with abuse and instability.",
+      "origin": "ai_analysis",
+      "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-glass-castle-tyrant-comparison", "student-glass-castle-archetypes"],
+      "evidenceIds": ["ev-1984-truncheon", "ev-glass-castle-rex-discipline", "ev-glass-castle-rex-love"]
+    }
+  },
+  {
+    "id": "comparison-utility-metamorphosis-1984",
+    "novels": ["metamorphosis", "1984"],
+    "claim": {
+      "id": "comparison-utility-claim",
+      "text": "Both works connect human vulnerability to systems that value people instrumentally: Gregor is judged through work and household usefulness, while Winston is targeted because his independent thought threatens the Party.",
+      "origin": "ai_analysis",
+      "sourceRecordIds": ["student-metamorphosis-themes", "student-metamorphosis-character-roles", "teacher-1984-book-chat-notes", "teacher-1984-theme-framework"],
+      "evidenceIds": ["ev-metamorphosis-productivity", "ev-metamorphosis-lodgers", "ev-1984-truncheon"]
+    },
+    "explanation": [
+      {
+        "id": "comparison-utility-metamorphosis",
+        "text": "The student notes that the chief clerk initially treats Gregor's absence as a work problem, and that the lodgers' reaction becomes an economic pressure on the household. The student's broader claim that lost usefulness causes alienation should remain attributed and qualified.",
+        "origin": "student_work",
+        "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-symbols", "student-metamorphosis-themes"],
+        "evidenceIds": ["ev-metamorphosis-productivity", "ev-metamorphosis-lodgers"]
+      },
+      {
+        "id": "comparison-utility-1984",
+        "text": "The Party's treatment of Winston goes beyond measuring productivity: O'Brien's torture seeks to break his independent judgment and produce inward submission. The student's truncheon excerpt supports bodily coercion, while the class framework supplies the political conflict.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["teacher-1984-book-chat-notes", "teacher-1984-theme-framework", "student-glass-castle-tyrant-comparison"],
+        "evidenceIds": ["ev-1984-truncheon"]
+      },
+      {
+        "id": "comparison-utility-analysis",
+        "text": "This comparison is strongest when it distinguishes the scale and mechanism of pressure: work and family economics structure Gregor's isolation, whereas the Party uses organized surveillance and torture to eliminate dissent. Both works ask what happens when social value displaces recognition of a person.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-metamorphosis-themes", "teacher-1984-book-chat-notes"],
+        "evidenceIds": ["ev-metamorphosis-productivity", "ev-1984-truncheon"]
+      }
+    ],
+    "evidenceIds": ["ev-metamorphosis-productivity", "ev-metamorphosis-lodgers", "ev-1984-truncheon"],
+    "counterargument": {
+      "id": "comparison-utility-counterargument",
+      "text": "Gregor's family and employer are not equivalent to the Party, and his transformation is an absurd bodily event rather than a political act of dissent. Avoid claiming that the novels make the same argument about power.",
+      "origin": "ai_analysis",
+      "sourceRecordIds": ["student-metamorphosis-themes", "teacher-1984-book-chat-notes"],
+      "evidenceIds": ["ev-metamorphosis-productivity", "ev-1984-truncheon"]
+    },
+    "limitation": "The Catcher materials and the selected records do not currently provide comparable verified evidence for this argument; do not extend it to all four novels without new sources.",
+    "adaptableThesis": {
+      "id": "comparison-utility-thesis",
+      "text": "Kafka and Orwell both expose the vulnerability created when a person is treated as a function rather than a full human being, but Kafka locates the pressure in bodily difference, work, and family dependence, while Orwell locates it in a state seeking control of thought.",
+      "origin": "ai_analysis",
+      "sourceRecordIds": ["student-metamorphosis-themes", "teacher-1984-book-chat-notes"],
+      "evidenceIds": ["ev-metamorphosis-productivity", "ev-metamorphosis-lodgers", "ev-1984-truncheon"]
+    }
+  },
+  {
+    "id": "comparison-family-care-metamorphosis-glass-castle",
+    "novels": ["metamorphosis", "glass-castle"],
+    "claim": {
+      "id": "comparison-family-care-claim",
+      "text": "Both works complicate family love by placing it beside responsibility, dependence, and harm; Kafka focuses on a family's changing response to Gregor's dependence, while Walls's memoir recounts children's attachment to parents whose choices repeatedly leave them unsafe.",
+      "origin": "ai_analysis",
+      "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-themes", "student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison"],
+      "evidenceIds": ["ev-metamorphosis-grete-care", "ev-metamorphosis-grete-rejection", "ev-glass-castle-rex-love", "ev-glass-castle-rex-discipline"]
+    },
+    "explanation": [
+      {
+        "id": "comparison-family-care-metamorphosis",
+        "text": "Grete's early care and later demand that Gregor be removed create a change in family treatment. The student's theme argument links that change to economic strain and Gregor's loss of usefulness; it should be presented as a student interpretation supported by the sequence.",
+        "origin": "student_work",
+        "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-themes"],
+        "evidenceIds": ["ev-metamorphosis-grete-care", "ev-metamorphosis-grete-rejection"]
+      },
+      {
+        "id": "comparison-family-care-glass",
+        "text": "The student juxtaposes Jeannette's memory of Rex's love with evidence of his physical punishment. The contradiction helps preserve the student's nuanced view that affection and harm coexist rather than cancel each other.",
+        "origin": "student_work",
+        "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison"],
+        "evidenceIds": ["ev-glass-castle-rex-love", "ev-glass-castle-rex-discipline"]
+      },
+      {
+        "id": "comparison-family-care-analysis",
+        "text": "The works differ in narrative form and circumstance: Kafka's fictional family responds to a sudden transformation and financial crisis, while Walls retrospectively recounts a childhood relationship over time. Compare how care is represented, not whether the families are identical.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-metamorphosis-themes", "student-glass-castle-themes"],
+        "evidenceIds": ["ev-metamorphosis-grete-care", "ev-glass-castle-rex-love"]
+      }
+    ],
+    "evidenceIds": ["ev-metamorphosis-grete-care", "ev-metamorphosis-grete-rejection", "ev-glass-castle-rex-love", "ev-glass-castle-rex-discipline"],
+    "counterargument": {
+      "id": "comparison-family-care-counterargument",
+      "text": "A possible objection is that Grete's change under immediate caregiving pressure is not the same as Rex's repeated parental conduct. The comparison should focus on the tension between attachment and harm while preserving the different timelines and responsibilities.",
+      "origin": "ai_analysis",
+      "sourceRecordIds": ["student-metamorphosis-character-roles", "student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison"],
+      "evidenceIds": ["ev-metamorphosis-grete-care", "ev-metamorphosis-grete-rejection", "ev-glass-castle-rex-discipline"]
+    },
+    "limitation": "The supplied Glass Castle examples focus on Rex and Jeannette, while the Metamorphosis evidence focuses on Grete and Gregor. Do not generalize to every family member.",
+    "adaptableThesis": {
+      "id": "comparison-family-care-thesis",
+      "text": "Kafka and Walls both show that family attachment does not guarantee consistent care: Gregor's story traces a sister's shift from help to rejection under changing household conditions, while Walls preserves a daughter's love for a father whose affection coexists with physical harm.",
+      "origin": "ai_analysis",
+      "sourceRecordIds": ["student-metamorphosis-character-roles", "student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison"],
+      "evidenceIds": ["ev-metamorphosis-grete-care", "ev-metamorphosis-grete-rejection", "ev-glass-castle-rex-love", "ev-glass-castle-rex-discipline"]
+    }
+  },
+  {
+    "id": "comparison-refuge-and-exposure",
+    "novels": ["1984", "glass-castle", "metamorphosis"],
+    "claim": {
+      "id": "comparison-refuge-claim",
+      "text": "Each work tests whether a private or imagined refuge can protect a person from a larger pressure: Winston's rented room is exposed as surveillance, the Glass Castle remains an unrealized promise beside material need, and Gregor's room becomes a barrier that isolates him from his family.",
+      "origin": "ai_analysis",
+      "sourceRecordIds": ["student-1984-charrington-interpretation", "student-glass-castle-allegory", "student-metamorphosis-symbols"],
+      "evidenceIds": ["ev-1984-charrington-reveal", "ev-glass-castle-foundation", "ev-metamorphosis-door"]
+    },
+    "explanation": [
+      {
+        "id": "comparison-refuge-1984",
+        "text": "Winston reads the rented room as safe until the hidden telescreen and Charrington's reveal expose it as a trap.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-1984-charrington-interpretation", "student-1984-settings-atmosphere"],
+        "evidenceIds": ["ev-1984-charrington-reveal"]
+      },
+      {
+        "id": "comparison-refuge-glass",
+        "text": "The Glass Castle is an imagined future rather than a room Winston can enter; the student's foundation passage places the dream beside actual garbage and material hardship.",
+        "origin": "student_work",
+        "sourceRecordIds": ["student-glass-castle-allegory", "student-glass-castle-archetypes"],
+        "evidenceIds": ["ev-glass-castle-foundation"]
+      },
+      {
+        "id": "comparison-refuge-metamorphosis",
+        "text": "Gregor's room is literal and initially gives him some separation, but the student's notes identify its door as a symbol of isolation and a means of controlling family contact.",
+        "origin": "student_work",
+        "sourceRecordIds": ["student-metamorphosis-symbols", "student-metamorphosis-character-roles"],
+        "evidenceIds": ["ev-metamorphosis-door"]
+      },
+      {
+        "id": "comparison-refuge-analysis",
+        "text": "The comparison depends on keeping the objects distinct: political surveillance, a parental promise, and physical confinement are not the same experience. Their useful shared question is whether a hoped-for or bounded space can actually provide safety.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-1984-charrington-interpretation", "student-glass-castle-allegory", "student-metamorphosis-symbols"],
+        "evidenceIds": ["ev-1984-charrington-reveal", "ev-glass-castle-foundation", "ev-metamorphosis-door"]
+      }
+    ],
+    "evidenceIds": ["ev-1984-charrington-reveal", "ev-glass-castle-foundation", "ev-metamorphosis-door"],
+    "counterargument": {
+      "id": "comparison-refuge-counterargument",
+      "text": "These spaces differ sharply: Winston's room is a deliberate surveillance trap, Gregor's room is both confinement and a setting for changing family care, and the Castle is a future promise rather than a literal refuge. A comparison that calls all three 'false hope' would flatten their different functions.",
+      "origin": "ai_analysis",
+      "sourceRecordIds": ["student-1984-charrington-interpretation", "student-glass-castle-allegory", "student-metamorphosis-symbols"],
+      "evidenceIds": ["ev-1984-charrington-reveal", "ev-glass-castle-foundation", "ev-metamorphosis-door"]
+    },
+    "limitation": "No Catcher evidence entry is currently available for a comparable place or refuge. The comparison deliberately covers three works only.",
+    "adaptableThesis": {
+      "id": "comparison-refuge-thesis",
+      "text": "Although Orwell, Walls, and Kafka give their characters different kinds of bounded or imagined spaces, each tests the promise of safety against exposure: surveillance defeats Winston's refuge, material neglect undercuts the Castle, and family separation turns Gregor's room into a site of isolation.",
+      "origin": "ai_analysis",
+      "sourceRecordIds": ["student-1984-charrington-interpretation", "student-glass-castle-allegory", "student-metamorphosis-symbols"],
+      "evidenceIds": ["ev-1984-charrington-reveal", "ev-glass-castle-foundation", "ev-metamorphosis-door"]
+    }
+  }
+]

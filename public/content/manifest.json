@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "sourceDocuments": [
+    {
+      "id": "honors-english-10-midterm-packet",
+      "title": "H-Eng 10: MIDTERM",
+      "pageCount": 133,
+      "role": "Primary class source; selected classified records are extracted into the source database. Keep this PDF unchanged."
+    },
+    {
+      "id": "reference-1984-pg-australia",
+      "title": "Nineteen Eighty-Four — Project Gutenberg of Australia eBook No. 0100021",
+      "pageCount": 284,
+      "role": "Supplementary complete-text reference copy used for plot and factual verification only. PDF pages are not class book-page citations."
+    },
+    {
+      "id": "reference-glass-castle-scribner-2009",
+      "title": "The Glass Castle — Scribner hardcover edition, October 2009",
+      "pageCount": 299,
+      "role": "Supplementary reference copy; not confirmed as the assigned class edition. PDF pages are not class book-page citations."
+    },
+    {
+      "id": "reference-metamorphosis-ian-johnston-1999",
+      "title": "The Metamorphosis — translated by Ian Johnston, 1999",
+      "pageCount": 77,
+      "role": "Supplementary full-text reference. The PDF states this translation is a public-domain student text; not confirmed as the assigned class translation. Page numbers refer to PDF pages, not class book-page citations."
+    },
+    {
+      "id": "reference-catcher-unconfirmed",
+      "title": "The Catcher in the Rye — local PDF, publication details unverified",
+      "pageCount": 115,
+      "role": "Locally downloaded full-text reference, not confirmed as the assigned class edition or printing. Do not use its PDF page numbers as class citations; retain Catcher study coverage as intentionally incomplete until the user-provided final class-material update."
+    }
+  ],
+  "recordFiles": [
+    "database/exam_requirements.json",
+    "database/literary_terms.json",
+    "database/novel_1984.json",
+    "database/novel_catcher.json",
+    "database/novel_glass_castle.json",
+    "database/novel_metamorphosis.json",
+    "database/teacher_practice.json",
+    "database/class_assignments.json",
+    "database/term_definitions_and_references.json"
+  ],
+  "sourceMapFile": "source-map.json",
+  "phase4Files": {
+    "novelGuides": "phase4/novel-guides.json",
+    "comparisons": "phase4/comparisons.json",
+    "examPreparation": "phase4/exam-preparation.json",
+    "literaryTerms": "phase4/literary-terms.json",
+    "evidenceRepository": "phase4/evidence-repository.json"
+  },
+  "phase45Files": {
+    "questionBank": "phase45/question-bank.json"
+  },
+  "examMap": {
+    "componentRecordIds": [
+      "req-novel-comparison-essay",
+      "req-argument-paragraph",
+      "req-poem-analysis",
+      "req-passage-annotation",
+      "req-literary-terms-multiple-choice",
+      "req-poetry-multiple-choice"
+    ],
+    "separateNoticeRecordId": "req-close-reading-portion"
+  },
+  "sections": [
+    {
+      "id": "exam-map",
+      "label": "Exam Map",
+      "description": "Requirements and skills by exam component.",
+      "state": "foundation"
+    },
+    {
+      "id": "novels",
+      "label": "Novels",
+      "description": "Source-linked guides for all four required novels, with coverage gaps stated.",
+      "state": "foundation"
+    },
+    {
+      "id": "compare",
+      "label": "Compare",
+      "description": "Evidence-based comparisons with counterarguments and limitations.",
+      "state": "foundation"
+    },
+    {
+      "id": "practice",
+      "label": "Practice",
+      "description": "Interactive objective quizzes, source-derived recall, model-answer self-checks, passage annotation, and optional timed sessions.",
+      "state": "foundation"
+    },
+    {
+      "id": "literary-terms",
+      "label": "Literary Terms",
+      "description": "All printed terms with source-labeled definitions, examples, and distinctions.",
+      "state": "foundation"
+    },
+    {
+      "id": "poetry",
+      "label": "Poetry",
+      "description": "The class analysis procedure, poem practice, and poetry multiple-choice methods.",
+      "state": "foundation"
+    },
+    {
+      "id": "progress",
+      "label": "Progress",
+      "description": "Browser-local practice history, review queue, repeated-error topics, and optional confidence tracking.",
+      "state": "foundation"
+    }
+  ],
+  "records": []
+}

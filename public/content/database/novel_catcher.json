@@ -1,0 +1,79 @@
+[
+  {
+    "id":"teacher-catcher-comedy-assignment",
+    "classification":"teacher_instruction_or_exam_requirement",
+    "itemType":"assignment-directions-and-rubric",
+    "topic":"Catcher in the Rye forms of comedy group presentation",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[94,98],"assignmentName":"Assignment 13: Catcher in the Rye—Forms of Comedy"},
+    "content":"Students work in groups to define an assigned comedy term, identify and cite a novel example with a page number, and find a modern example with an explanation. The rubric awards points for a correct definition, two textual examples, and two specific modern/current examples with explanations; group participation and presentation professionalism also affect points. Assignment is labeled ungraded in the packet.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"This is a class assignment, not an explicit exam requirement. The packet does not include all group slides."
+  },
+  {
+    "id":"catcher-comedy-assignment",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"group-literary-device-examples",
+    "topic":"Student examples of comedy and irony in The Catcher in the Rye",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[94,97],"assignmentName":"Assignment 13: Forms of Comedy"},
+    "content":"Student/group entries cover parody, burlesque, stereotype, sarcasm, verbal irony, situational irony, tall tales, and slapstick, with student-supplied definitions, novel example locations, and modern examples. The student interpretations of which passages instantiate each form are not teacher-approved. Exact novel passage wording is not transcribed in this database; the source packet remains the location for those examples.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"Student-provided textual examples and classifications should be checked against the novel and the later class materials before becoming practice keys."
+  },
+  {
+    "id":"catcher-example-citation-metadata",
+    "classification":"unverified_or_ambiguous_information",
+    "itemType":"citation-metadata",
+    "topic":"Catcher comedy assignment example locations supplied by student group",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[95,97],"assignmentName":"Assignment 13: Forms of Comedy"},
+    "content":"The student work supplies novel page citations for examples at Salinger pages 8, 53, 27, 2, 23, 12, 29, 75, 49, and 30. Those locations are preserved as packet metadata only; the associated passages are not reproduced here and the citations have not been checked against an edition.",
+    "verificationStatus":"needs_review",
+    "uncertainty":"No Catcher edition is identified. Additional Catcher source materials are expected later."
+  },
+  {
+    "id":"catcher-class-notes",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"novel-reference-notes",
+    "topic":"Catcher character list, settings, symbols, themes, and narrative techniques",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[130,132],"assignmentName":"Notes 8: The author J.D. Salinger / Plot"},
+    "content":"The filled-in notes list members of the Caulfield family; teachers; friends and acquaintances; settings including the Wicker Bar, Natural History Museum, Pencey Prep, the Carrousel, Elkton Hills, and elementary school; symbols including the red hunting hat, deaf mute, Egyptian tomb, two nuns, girls from Seattle, ducks in the park, unmade phone calls, Allie's baseball glove, Emily Dickinson, gold ring, ice skates, and phonies; and central ideas including loss of innocence, isolation/alienation, companionship, maturation, death, depression, and phoniness. Notes describe first-person narration, frame story, confessional tone, stream of consciousness, dialogue, flashbacks, colloquial language/slang, and quest, picaresque, and psychological subgenres. Treat filled-in statements and factual biography as student-completed class notes, not independently verified teacher expectations.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"The packet says more Catcher material will arrive later; these notes do not establish complete plot, character, evidence, or exam coverage. Several biographical entries contain apparent spelling/transcription errors and must not be silently corrected."
+  },
+  {
+    "id":"catcher-incomplete-coverage",
+    "classification":"unverified_or_ambiguous_information",
+    "itemType":"coverage-status",
+    "topic":"Expected future Catcher materials",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[1,94,130,132],"section":"Project context and current Catcher notes"},
+    "content":"The project-context text says additional Catcher in the Rye material will be uploaded later. Current packet content includes comedy-form group work and filled-in novel notes, but no complete exam-oriented plot-and-evidence inventory.",
+    "verificationStatus":"needs_review",
+    "uncertainty":"Keep the Catcher section marked incomplete until the promised material is supplied and processed."
+  },
+  {
+    "id":"catcher-plot-and-evidence-coverage-gap",
+    "classification":"unverified_or_ambiguous_information",
+    "itemType":"coverage-status",
+    "topic":"Incomplete Catcher plot, relationship, and evidence inventory",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[1,94,95,96,97,130,131,132],"section":"Exam review, comedy assignment, and Notes 8"},
+    "content":"The review requires basic plot, characters, conflicts, setting, themes, symbols/motifs, and literary elements for Catcher. The packet supplies a filled-in list of characters, settings, symbols, central ideas, narrative techniques, and selected comedy examples, but no complete plot outline or systematic relationship/evidence inventory. Additional Catcher material is expected; the existing notes are not complete exam coverage.",
+    "verificationStatus":"needs_review",
+    "uncertainty":"Do not fill gaps from outside sources. Add future teacher/class material as new provenance-linked records."
+  },
+  {
+    "id":"reference-catcher-local-pdf-status",
+    "classification":"reference_information",
+    "itemType":"supplementary-source-inventory",
+    "topic":"User-provided local Catcher in the Rye PDF",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"reference-catcher-unconfirmed","pdfPages":[1,115],"section":"PDF metadata and full-text availability"},
+    "content":"A local 115-page PDF is available and its title page identifies The Catcher in the Rye by J. D. Salinger. PDF metadata names Jeff Marsden as author/creator; publication and edition details are not established. Although the file appears to contain the novel text, it is not confirmed as the assigned class copy. Per the project owner's instruction, it is not used to complete the Catcher guide; that guide remains intentionally source-limited pending the later class-material update.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"Do not use this PDF to supply class-page citations or treat it as the forthcoming teacher/class materials. The incomplete guide is intentional while the Catcher unit is in progress."
+  }
+]

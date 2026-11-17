@@ -1,0 +1,1692 @@
+{
+  "schemaVersion": 1,
+  "shortAnswerScoring": "none",
+  "sections": [
+    { "id": "novel-comparison", "label": "Novel comparison essay", "teacherRequirementRecordId": "req-novel-comparison-essay", "pointValue": 20, "questionCount": 4, "scopeNote": "Current source-supported comparisons use 1984, The Metamorphosis, and The Glass Castle. Catcher plot/comparison practice is intentionally deferred until the promised class-material update." },
+    { "id": "argumentative-writing", "label": "Argumentative paragraph", "teacherRequirementRecordId": "req-argument-paragraph", "pointValue": 10, "questionCount": 4, "scopeNote": "The packet requires a three-part thesis but does not define its parts; examples here are study strategies, not a confirmed teacher formula." },
+    { "id": "poem-analysis", "label": "Four-part poem analysis", "teacherRequirementRecordId": "req-poem-analysis", "pointValue": 15, "questionCount": 2 },
+    { "id": "passage-annotation", "label": "Passage annotation", "teacherRequirementRecordId": "req-passage-annotation", "pointValue": 20, "questionCount": 2 },
+    { "id": "literary-terms", "label": "Literary terms multiple choice", "teacherRequirementRecordId": "req-literary-terms-multiple-choice", "pointValue": 20, "questionCount": 43, "scopeNote": "Practice covers all 43 printed entries, retaining both point-of-view listings. This does not predict which 20 definitions/examples will appear on the exam. Supplemental and student definitions are not represented as teacher-approved." },
+    { "id": "poetry-multiple-choice", "label": "Poetry multiple choice", "teacherRequirementRecordId": "req-poetry-multiple-choice", "pointValue": 10, "questionCount": 13, "scopeNote": "Every poem below is original AI-generated practice material, not a class poem or teacher-authored question." }
+  ],
+  "questions": [
+    {
+      "id": "compare-authority-agency",
+      "section": "novel-comparison",
+      "novels": ["1984", "glass-castle"],
+      "topics": ["authority", "agency", "comparison", "counterargument"],
+      "difficulty": "advanced",
+      "format": "comparative_analysis",
+      "prompt": "Develop a comparative claim about how authority limits agency in 1984 and The Glass Castle. Use one specific example from each work, explain the difference in scale and relationship, and qualify the comparison so it does not equate state power with parental authority.",
+      "answerKey": {
+        "explanation": "A defensible response identifies the limited shared effect (reduced agency), then distinguishes the Party's institutional effort to enforce ideological submission from Rex's intimate parental authority, which the student's work presents as entangled with affection and harm.",
+        "basis": "mixed",
+        "sourceNote": "Teacher notes frame the 1984 political conflict; the Rex examples and original interpretation are student work. The comparative synthesis is Phase 4 analysis, not a teacher-approved thesis.",
+        "modelAnswer": "Both works depict authority restricting personal freedom, but they present different systems and relationships. In the 1984 evidence set, O'Brien's truncheon makes the Party's bodily coercion concrete; in The Glass Castle student work, Rex's physical punishment is set beside Jeannette's remembered affection. The contrast matters: the Party uses organized force to demand political submission, while Rex's power operates within a family relationship whose affection does not erase harm. The comparison is about a limited shared effect, not equivalent motives or scale.",
+        "essentialElements": ["A comparative claim rather than two separate summaries.", "Specific linked examples from both works.", "An explanation of how each example supports the claim.", "A qualification distinguishing state coercion from family authority."],
+        "acceptableAlternatives": ["A response may argue that the contrast is more important than the similarity if both works are supported with specific evidence.", "A response may focus on symbols or character relationships instead of bodily coercion, provided the evidence and limitation are accurate."],
+        "commonWeaknesses": ["Calling Rex and O'Brien identical tyrants.", "Treating one student's interpretation as teacher-approved.", "Naming evidence without explaining how it supports the comparison."]
+      },
+      "termEntryIds": [],
+      "sourceRecordIds": ["req-novel-comparison-essay", "teacher-1984-book-chat-notes", "student-glass-castle-tyrant-comparison", "student-glass-castle-archetypes"],
+      "evidenceIds": ["ev-1984-truncheon", "ev-glass-castle-rex-discipline", "ev-glass-castle-rex-love"],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [1], "note": "Exam comparison requirement; student quotation page citations remain separately flagged as unverified." }],
+      "origin": "source_based_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked against the comparison record and its linked student/teacher sources; the answer preserves the scale limitation and does not invent quotations or class approval." }
+    },
+    {
+      "id": "compare-refuge-exposure",
+      "section": "novel-comparison",
+      "novels": ["1984", "glass-castle", "metamorphosis"],
+      "topics": ["setting", "refuge", "exposure", "three-work comparison"],
+      "difficulty": "advanced",
+      "format": "comparative_analysis",
+      "prompt": "Compare how three spaces or spatial ideas test the promise of safety: Winston's rented room in 1984, the Glass Castle in the memoir, and Gregor's room in The Metamorphosis. Explain one meaningful relationship among them and one reason the spaces should not be treated as equivalent.",
+      "answerKey": {
+        "explanation": "The room in 1984 is exposed as a surveillance trap; the Glass Castle is an imagined future set against material hardship; Gregor's room is literal space that becomes associated with separation. These support a shared question about refuge but have different narrative functions.",
+        "basis": "mixed",
+        "sourceNote": "The room and symbol readings are sourced to student records; the three-way synthesis and qualification are Phase 4 analysis.",
+        "modelAnswer": "All three spaces test whether a bounded or imagined place can provide safety, but they do so differently. Winston initially treats the rented room as private until Charrington's reveal exposes surveillance. The Glass Castle is a promised future rather than a place the children actually inhabit, and its foundation evidence places the dream beside hardship. Gregor's room is physically real; its door is read in the student notes as both separation and control of family contact. Their shared concern is the failure or limitation of refuge, not an identical kind of danger.",
+        "essentialElements": ["Specific evidence from all three works.", "An explanation of the shared question about refuge or safety.", "A distinction among surveillance, an unrealized promise, and physical isolation."],
+        "acceptableAlternatives": ["A response may compare only two of the three if it explains why the third is not useful to the claim; the full prompt asks for all three, so the two-work version would be incomplete."],
+        "commonWeaknesses": ["Calling all three spaces simply false hope.", "Treating the Glass Castle as a literal home the family inhabits.", "Claiming the three works make the same argument."]
+      },
+      "sourceRecordIds": ["req-novel-comparison-essay", "student-1984-charrington-interpretation", "student-glass-castle-allegory", "student-metamorphosis-symbols", "student-metamorphosis-character-roles"],
+      "evidenceIds": ["ev-1984-charrington-reveal", "ev-glass-castle-foundation", "ev-metamorphosis-door"],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [1], "note": "Novel comparison requirement; no class book-page citations are asserted." }],
+      "origin": "source_based_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked against all three comparison evidence entries; maintains their distinct literal and interpretive functions and excludes Catcher as unsupported." }
+    },
+    {
+      "id": "compare-family-care",
+      "section": "novel-comparison",
+      "novels": ["metamorphosis", "glass-castle"],
+      "topics": ["family", "care", "harm", "character development"],
+      "difficulty": "intermediate",
+      "format": "comparative_analysis",
+      "prompt": "Compare the changing family response to Gregor in The Metamorphosis with Jeannette's relationship with Rex in The Glass Castle. Preserve the difference between Grete's change under caregiving pressure and Rex's recurring parental conduct.",
+      "answerKey": {
+        "explanation": "The supplied comparison centers on the tension between attachment and harm while preserving different timelines, roles, and responsibilities.",
+        "basis": "mixed",
+        "sourceNote": "The character evidence and interpretations come from student records; the comparison and its limits are Phase 4 analysis.",
+        "modelAnswer": "The works complicate the idea that family attachment guarantees care. The Metamorphosis evidence contrasts Grete's early care of Gregor with her later demand that he be removed. The Glass Castle records Jeannette's remembered affection for Rex alongside evidence of physical punishment. Both pair attachment with harm, but Grete's change is represented under an immediate household crisis, whereas Rex's conduct is part of a longer parent-child relationship. The examples should not be used to claim that the characters or circumstances are identical.",
+        "essentialElements": ["Evidence showing a change in Grete's treatment of Gregor.", "Both affection and harm in the Rex evidence.", "Reasoning about the shared tension.", "A limitation about different relationships and circumstances."],
+        "acceptableAlternatives": ["A response may argue that the two works emphasize different kinds of responsibility, as long as it acknowledges the evidence of attachment and harm."],
+        "commonWeaknesses": ["Reducing Rex or Grete to a single trait.", "Generalizing from one family member to every member.", "Equating a sudden care crisis with repeated parental behavior."]
+      },
+      "sourceRecordIds": ["req-novel-comparison-essay", "student-metamorphosis-character-roles", "student-metamorphosis-themes", "student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison"],
+      "evidenceIds": ["ev-metamorphosis-grete-care", "ev-metamorphosis-grete-rejection", "ev-glass-castle-rex-love", "ev-glass-castle-rex-discipline"],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [1] }],
+      "origin": "source_based_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked against the student-linked care and Rex evidence; avoids treating either student reading as a teacher ruling." }
+    },
+    {
+      "id": "compare-utility-and-power",
+      "section": "novel-comparison",
+      "novels": ["metamorphosis", "1984"],
+      "topics": ["human value", "work", "state power", "conflict"],
+      "difficulty": "advanced",
+      "format": "comparative_analysis",
+      "prompt": "Evaluate this claim: 'Gregor and Winston suffer for the same reason: society only values useful people.' Revise it into a more defensible comparative claim and support the revision with one example from each work.",
+      "answerKey": {
+        "explanation": "The original claim overgeneralizes. Gregor's evidence concerns work, family dependence, and household usefulness; Winston's conflict with the Party includes independent thought and organized political coercion, not merely productivity.",
+        "basis": "mixed",
+        "sourceNote": "Student records support Gregor's work/family examples; teacher notes support the 1984 political conflict. The comparative revision is Phase 4 analysis.",
+        "modelAnswer": "A more precise claim is that both works expose what can happen when a person is treated as less than fully human, but they locate that pressure in different systems. Gregor's work and the lodgers' economic pressure connect his changed status to household usefulness. Winston's truncheon evidence shows bodily coercion within the Party's political effort to defeat independent thought. The comparison can address diminished recognition without claiming that family economics and state control are the same cause.",
+        "essentialElements": ["Identify why 'the same reason' is too broad.", "Use a specific Gregor example and a specific Winston example.", "Explain the relationship and the difference in mechanism."],
+        "acceptableAlternatives": ["A student may reject the shared-value framing and emphasize the contrast, if each novel is accurately supported."],
+        "commonWeaknesses": ["Saying the Party only wants workers to be productive.", "Treating Gregor's transformation as an act of political dissent.", "Leaving the original absolute claim unchanged."]
+      },
+      "sourceRecordIds": ["req-novel-comparison-essay", "student-metamorphosis-themes", "student-metamorphosis-character-roles", "teacher-1984-book-chat-notes", "teacher-1984-theme-framework"],
+      "evidenceIds": ["ev-metamorphosis-productivity", "ev-metamorphosis-lodgers", "ev-1984-truncheon"],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [1] }],
+      "origin": "source_based_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked against comparison-utility evidence and its counterargument; keeps the different causes and scales explicit." }
+    },
+    {
+      "id": "argument-three-part-thesis",
+      "section": "argumentative-writing",
+      "novels": [],
+      "topics": ["thesis", "claim", "three-part thesis"],
+      "difficulty": "intermediate",
+      "format": "thesis_evaluation",
+      "prompt": "Practice prompt: Should a school keep one weekly class period free of assigned work so students can use it for independent reading? Write a three-part thesis. Then identify the three supporting strands you chose. This is a practice strategy, not a teacher-confirmed definition of 'three-part thesis.'",
+      "answerKey": {
+        "explanation": "The packet requires a strong three-part thesis but does not define its structure. A clear position with three explicit supporting strands is one usable study strategy, not an official formula.",
+        "basis": "teacher_material",
+        "sourceNote": "The requirement is from the teacher's exam review; the proposed arrangement is an AI study strategy and is explicitly not teacher-confirmed.",
+        "modelAnswer": "A school should protect one weekly period for independent reading because sustained reading builds attention, student choice makes reading more personally meaningful, and a predictable quiet period gives students practice selecting and finishing books. The three strands are attention, personal meaning, and independent reading habits.",
+        "essentialElements": ["A direct, arguable answer to the practice prompt.", "Three visible supporting strands that relate to the position.", "A clear explanation that this three-reason structure is only one study strategy."],
+        "acceptableAlternatives": ["Any coherent position and three distinct, relevant strands are acceptable; students may argue against the proposal."],
+        "commonWeaknesses": ["Giving three unrelated topics rather than reasons supporting one position.", "Using a vague announcement instead of an arguable claim.", "Presenting this practice structure as the teacher's confirmed formula."]
+      },
+      "sourceRecordIds": ["req-argument-paragraph", "req-test-taking-advice", "req-sceen-framework"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [1], "note": "Three-part thesis requirement; exact formula unspecified." }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked against the teacher requirement and its documented ambiguity; no official thesis formula is asserted." }
+    },
+    {
+      "id": "argument-thesis-quality",
+      "section": "argumentative-writing",
+      "novels": [],
+      "topics": ["thesis", "argument", "specificity"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "For the practice question about a weekly class period for independent reading, which thesis is the strongest starting point for an argument paragraph?",
+      "choices": [
+        { "label": "A", "text": "Independent reading is a topic students may think about.", "rationale": "This names a topic but takes no arguable position." },
+        { "label": "B", "text": "Schools should reserve a weekly period for independent reading because it supports attention, choice, and reading independence.", "rationale": "This directly answers, gives an arguable position, and previews three related strands." },
+        { "label": "C", "text": "Reading is good, and school has many classes.", "rationale": "This is vague and does not make a focused claim." },
+        { "label": "D", "text": "Every student will become a better reader if one period is free.", "rationale": "This is an absolute prediction that the stated practice question cannot establish." }
+      ],
+      "answerKey": {
+        "explanation": "B is strongest because it answers the question, offers an arguable policy position, and previews three connected reasons. The packet does not confirm that those three strands must be reasons; here they are a clear practice structure.",
+        "basis": "mixed",
+        "sourceNote": "Teacher requirements for a strong three-part thesis and direct answers are sourced to the packet; the school-reading topic is original practice material.",
+        "correctChoices": ["B"]
+      },
+      "sourceRecordIds": ["req-argument-paragraph", "req-test-taking-advice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [1] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that only B meets the prompt and avoids an overclaim; distractor rationales state why each alternative fails." }
+    },
+    {
+      "id": "argument-quote-integration",
+      "section": "argumentative-writing",
+      "novels": [],
+      "topics": ["quotation integration", "reasoning", "evidence"],
+      "difficulty": "intermediate",
+      "format": "short_answer",
+      "prompt": "Use the supplied practice Works Cited and source excerpt to write one sentence that grammatically incorporates the quotation and explains how it could support a claim that a school garden benefits learning. Do not invent a page number.",
+      "material": {
+        "kind": "source_evidence",
+        "title": "Practice source excerpt and Works Cited",
+        "text": "Excerpt: “A garden gives students a reason to observe small changes each week.”\n\nWorks Cited (fictional practice entry, created only for this exercise):\nLee, Mira. “The Weekly Garden.” Original practice text; no publication details or page numbers supplied.",
+        "attribution": "The excerpt, author, and title are original practice material, not class or external sources. The supplied entry gives no page number."
+      },
+      "answerKey": {
+        "explanation": "The response needs to integrate the supplied words into the writer's own sentence and explain the connection to the claim rather than leave the quotation unsupported.",
+        "basis": "mixed",
+        "sourceNote": "Quotation-integration expectations come from the teacher's exam review; the excerpt and Works Cited entry are explicitly fictional original practice material.",
+        "modelAnswer": "Mira Lee's practice source states: “A garden gives students a reason to observe small changes each week” (Lee). This suggests that a garden could make careful observation a recurring part of learning.",
+        "essentialElements": ["A grammatical lead-in or integration.", "The supplied words are preserved exactly if directly quoted.", "An explanation connecting observation to the learning claim."],
+        "acceptableAlternatives": ["Any grammatically integrated sentence that makes a reasonable, explicit inference from the quotation is acceptable."],
+        "commonWeaknesses": ["Dropping the quotation without explanation.", "Changing words inside quotation marks.", "Claiming that the sentence proves all students learn better."]
+      },
+      "sourceRecordIds": ["req-argument-paragraph", "req-test-taking-advice", "req-sceen-framework"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [1] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the sample sentence against the response criteria; the answer uses only the supplied text and makes a bounded inference." }
+    },
+    {
+      "id": "argument-full-paragraph",
+      "section": "argumentative-writing",
+      "novels": [],
+      "topics": ["paragraph organization", "thesis", "quotation", "analysis"],
+      "difficulty": "advanced",
+      "format": "short_answer",
+      "prompt": "Use the supplied practice Works Cited and source excerpt to write a brief argumentative paragraph arguing that a school garden can support learning. Make your thesis direct, show three supporting strands as a practice strategy (not an official teacher formula), incorporate and cite the quotation grammatically, explain the evidence, and conclude briefly. Do not invent a page number.",
+      "material": {
+        "kind": "source_evidence",
+        "title": "Practice source excerpt and Works Cited",
+        "text": "Excerpt: “A garden gives students a reason to observe small changes each week.”\n\nWorks Cited (fictional practice entry, created only for this exercise):\nLee, Mira. “The Weekly Garden.” Original practice text; no publication details or page numbers supplied.",
+        "attribution": "The excerpt, author, and title are original practice material, not class or external sources. The supplied entry gives no page number."
+      },
+      "answerKey": {
+        "explanation": "A complete response should follow the teacher's stated expectations—an argumentative paragraph, a three-part thesis, and properly incorporated supplied quotation—while answering directly and explaining how evidence supports the position.",
+        "basis": "mixed",
+        "sourceNote": "The paragraph requirements come from the teacher's packet; the quotation, author/title, and source entry are explicitly fictional original practice material. No page number is supplied.",
+        "modelAnswer": "A school should maintain a garden because it gives students a recurring reason to observe carefully, connect ideas to living examples, and take responsibility for a shared project. Mira Lee's practice source states: “A garden gives students a reason to observe small changes each week” (Lee). This supports the first strand because students can compare growth over time rather than encounter the idea only once. The repeated observation, hands-on examples, and shared care make the garden a useful learning space.",
+        "essentialElements": ["A clear position that answers the prompt.", "Three related strands visible in the thesis.", "A grammatical use of the exact supplied quotation.", "Explanation of how the quotation supports a strand.", "A brief concluding idea."],
+        "acceptableAlternatives": ["Students may use different supporting strands or argue against the garden if they make a coherent claim and explain the quotation accurately."],
+        "commonWeaknesses": ["Treating the source sentence as proof of every claimed benefit.", "Leaving the quotation unexplained.", "Assuming the example establishes the teacher's exact three-part-thesis formula."]
+      },
+      "sourceRecordIds": ["req-argument-paragraph", "req-test-taking-advice", "req-sceen-framework"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [1] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the model against every requirement named in the prompt; original practice quotation is labeled and no unsupported source details are added." }
+    },
+    {
+      "id": "poem-analysis-lantern",
+      "section": "poem-analysis",
+      "novels": [],
+      "topics": ["form", "stanza paraphrase", "imagery", "theme"],
+      "difficulty": "intermediate",
+      "format": "poem_analysis",
+      "prompt": "Complete the teacher's four-part analysis: (1) identify the poem's form and support your description; (2) paraphrase each stanza; (3) identify and explain poetic devices; (4) state a theme or purpose and explain how the stanzas build it. Do not force a fixed meter or form label that the text does not support.",
+      "material": {
+        "kind": "original_poem",
+        "title": "The Lantern",
+        "text": "At dusk I set a lantern by the gate,\nIts small gold circle resting on the stone.\nThe road beyond it darkened, mile by mile;\nI could not make the farther country known.\n\nA neighbor stopped and mended up the wick,\nThen walked away before the flame burned clear.\nThe light did not erase the fields of night;\nIt showed the next few steps were waiting near.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "answerKey": {
+        "explanation": "The poem is two quatrains with no consistent end-rhyme pattern, so a reader can describe its stanza form and open form without inventing meter. The shift from distant darkness to nearby steps supports a theme about limited but useful help.",
+        "basis": "original_material",
+        "sourceNote": "The four-part response format is teacher-provided; the poem and model interpretation are original practice material.",
+        "modelAnswer": "Form: two four-line stanzas; the end words do not establish a consistent rhyme scheme, so 'open form' is a defensible description, while a fixed meter is not established. Stanza 1: the speaker sets a small lantern at a gate but cannot see or know the whole road ahead. Stanza 2: a neighbor repairs the wick and leaves; the lantern still cannot remove all darkness but makes the next steps visible. Devices: the contrast between the small circle of light and the darkening road makes limited knowledge concrete; 'the next few steps' extends the light into an image of manageable action. Theme: help or knowledge may not solve every uncertainty, but it can make an immediate next step possible. The second stanza qualifies rather than erases the first stanza's uncertainty.",
+        "essentialElements": ["Describes the two quatrains and avoids unsupported meter claims.", "Paraphrases both stanzas.", "Explains at least two specific devices or contrasts.", "States a thematic idea and explains the stanza-to-stanza development."],
+        "acceptableAlternatives": ["A response may describe the form as free verse/open form or simply as two unrhymed quatrains; do not require one label.", "Themes about practical help, limited knowledge, or taking the next step are supportable if tied to both stanzas."],
+        "commonWeaknesses": ["Calling the poem a sonnet or assigning a regular rhyme scheme.", "Listing imagery without explaining its effect.", "Treating the neighbor as having solved the whole problem."]
+      },
+      "sourceRecordIds": ["req-poem-analysis", "teacher-poetry-analysis-procedure", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [1, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked line and stanza counts, end words, source-defined four-part procedure, and model claims against the complete original poem." }
+    },
+    {
+      "id": "poem-analysis-river",
+      "section": "poem-analysis",
+      "novels": [],
+      "topics": ["form", "paraphrase", "sound", "repetition", "theme"],
+      "difficulty": "advanced",
+      "format": "poem_analysis",
+      "prompt": "Use all four teacher-required parts: describe form; paraphrase each stanza; explain at least two poetic devices in context; and explain how the final stanza develops or complicates a possible theme. Identify any uncertainty in labeling form.",
+      "material": {
+        "kind": "original_poem",
+        "title": "After the Rain",
+        "text": "The river carries branches past the bridge,\nA brown, unhurried sentence without end.\nI name the banks, the stones, the broken reeds;\nThe water keeps the words I cannot send.\n\nBy morning, rain has loosened from the leaves.\nOne branch is caught and turning in the bend.\nThe river does not answer what I asked;\nIt bears the branch, then opens out again.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "answerKey": {
+        "explanation": "The paired quatrains use repeated end sounds in lines 2 and 4 (end/send; bend/again, near rhyme depending on pronunciation). The repeated sentence/words/answer language makes communication and its limits part of the imagery.",
+        "basis": "original_material",
+        "sourceNote": "The required response steps are teacher-provided; poem and analysis are original practice.",
+        "modelAnswer": "Form: two quatrains. The even-numbered lines rhyme clearly in the first stanza ('end/send'); in the second, 'bend/again' is an imperfect rhyme for many speakers, so a careful answer notes the sound rather than forcing a perfect scheme. The poem has no evidence of a fixed meter. Stanza 1: the speaker watches the river carry debris and describes it as language, while recognizing that some words cannot be sent. Stanza 2: after the rain, a branch turns in the river; the river does not answer, but continues moving. Devices: calling the river a 'sentence' is metaphor, linking motion to language; 'The river does not answer' gives the river a human conversational role and echoes the speaker's unanswered question. The ending complicates a theme about communication: nature offers no reply, yet movement continues. The river can suggest continuation, but the poem does not prove that the speaker has found a complete answer.",
+        "essentialElements": ["Accurate stanza/line form description with a qualified rhyme observation.", "A paraphrase for each stanza.", "Explanation of metaphor and personification or another precisely identified device.", "A theme tied to the unanswered question and continued movement."],
+        "acceptableAlternatives": ["A response may describe the second stanza's end rhyme as slant rhyme or as an imperfect echo; sound depends on pronunciation.", "A theme about unanswered questions or persistence is acceptable if phrased as an interpretation, not a certain resolution."],
+        "commonWeaknesses": ["Claiming every line rhymes.", "Calling the river's movement a literal answer.", "Naming metaphor without explaining its connection to language."]
+      },
+      "sourceRecordIds": ["req-poem-analysis", "teacher-poetry-analysis-procedure", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [1, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked stanza count, all line endings, the intentionally qualified imperfect rhyme, and each interpretive claim against the full poem." }
+    },
+    {
+      "id": "annotation-original-passage-window",
+      "section": "passage-annotation",
+      "novels": [],
+      "topics": ["diction", "syntax", "imagery", "point of view", "conflict", "theme"],
+      "difficulty": "intermediate",
+      "format": "passage_annotation",
+      "prompt": "Annotate the complete passage. Explain how at least three choices—including diction or syntax and point of view—shape the conflict and contribute to a defensible theme or purpose. Assess whether the ending supports a symbolic reading, and distinguish technique identification from analysis of function.",
+      "material": {
+        "kind": "original_passage",
+        "title": "The Window",
+        "text": "Mara counted the lights in the apartment across the alley. One, two, three: each square went dark as the building settled. Her own desk lamp buzzed, then steadied. The letter from the school lay unopened beneath her hand. She had promised to answer before morning; she had also promised herself not to write while angry. Outside, a train dragged its bright windows past the rooftops, carrying strangers onward. Mara turned the envelope over. The blank back looked less like an answer than a place where an answer might begin.",
+        "attribution": "Original AI-generated prose practice passage; not from a novel or class text."
+      },
+      "answerKey": {
+        "explanation": "A strong annotation connects exact details to local effects, the character's decision, and a bounded purpose. It does not merely label imagery or symbolism.",
+        "basis": "original_material",
+        "sourceNote": "Annotation targets come from the teacher's review; all passage language and the model interpretation are original practice.",
+        "modelAnswer": "The opening count, 'One, two, three,' gives Mara's attention a controlled, repetitive rhythm while lights disappear; the short sequence makes the alley's darkness feel gradual rather than sudden. The narration stays close to Mara's perceptions and thoughts, so readers experience the letter through her unresolved conflict rather than through knowledge of the school's view. The contrast between the buzzing lamp that 'steadied' and the unopened letter places a small physical uncertainty beside a delayed decision. The train's bright windows 'carrying strangers onward' contrast movement elsewhere with Mara's stillness. The envelope's 'blank back' can support a limited symbolic reading of an unstarted response because Mara turns it over while considering whether to act; its literal function is still an unopened letter. Together, the details suggest that delaying an answer can preserve options temporarily, but a decision still has to begin. Mara has not yet written or sent a reply.",
+        "essentialElements": ["Names exact words or sentence structures.", "Explains the effect of at least three choices.", "Notes the narration's close access to Mara without claiming access to other minds.", "Connects choices to Mara's conflict and passage development.", "States a bounded theme and treats symbolism as an evidence-based reading, not a fixed fact."],
+        "acceptableAlternatives": ["Readers may see the ending as tentative hope or continued uncertainty; either reading must address 'might begin' and the unopened letter."],
+        "commonWeaknesses": ["Writing only 'imagery' or 'symbolism' beside a detail.", "Calling the letter an answer that Mara has already sent.", "Claiming the passage proves a universal rule about anger."]
+      },
+      "sourceRecordIds": ["req-passage-annotation", "teacher-annotation-notes", "req-test-taking-advice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [1, 65] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked every quoted phrase and inference against the complete original passage; model distinguishes observation from interpretation." }
+    },
+    {
+      "id": "annotation-original-bus-stop",
+      "section": "passage-annotation",
+      "novels": [],
+      "topics": ["color imagery", "syntax", "characterization", "conflict", "theme"],
+      "difficulty": "advanced",
+      "format": "passage_annotation",
+      "prompt": "Annotate the complete passage and explain how details contribute to its meaning. Address color imagery, sentence structure, point of view, indirect characterization, conflict, and a defensible symbolic reading of the folded schedule. Explain how these choices develop a possible theme; do not identify techniques without explaining function.",
+      "material": {
+        "kind": "original_passage",
+        "title": "The Last Bus",
+        "text": "The schedule was printed in blue, though every bus that passed wore the same gray coat of rain. Eli folded the notice into smaller and smaller squares. His sister had said, 'Go if you need to'; he had heard, 'Don't leave me here.' The bus sighed at the curb. Doors open. A warm rectangle on the wet street. Eli unfolded the paper, but the route number had vanished inside the creases. He looked back at the dark house, then at the driver waiting without a word. When the doors began to close, Eli stepped toward them—not quickly, not yet away.",
+        "attribution": "Original AI-generated prose practice passage; not from a novel or class text."
+      },
+      "answerKey": {
+        "explanation": "The passage gives evidence of Eli's hesitation through an action, a misheard sentence, and a final movement qualified by 'not quickly, not yet away.' Color and light images contrast a printed plan with a difficult emotional choice.",
+        "basis": "original_material",
+        "sourceNote": "The annotation requirements are teacher-provided; all passage language and the model analysis are original practice.",
+        "modelAnswer": "The narration stays close to Eli's perceptions, especially when it reports that he hears permission as rejection; this does not establish what his sister intended. Blue ink, gray rain, and the warm rectangle of the bus create contrasting color and light imagery: the printed plan seems orderly, while the possible route is inviting but uncertain. The fragments 'Doors open. A warm rectangle on the wet street.' slow the decision. Folding the schedule indirectly characterizes Eli as hesitant. The folded paper can serve as a limited symbol of his difficulty holding to a clear plan because the route number disappears in the creases as he hesitates; the literal action remains important, so the symbol is an interpretation rather than a fixed meaning. The final wording, 'not quickly, not yet away,' shows movement without confirming departure. The passage suggests that independence can involve divided loyalties and uncertainty, while leaving Eli's decision unresolved.",
+        "essentialElements": ["Explains the color/light contrast.", "Analyzes sentence fragments or another precise syntax choice.", "Identifies close access to Eli and avoids claiming what his sister intended.", "Infers hesitation from action rather than treating it as directly stated.", "Explains a limited symbolism reading with textual support.", "Identifies the conflict and notes the unresolved ending."],
+        "acceptableAlternatives": ["A response may argue Eli is moving toward departure or merely testing the possibility; the final qualification supports uncertainty."],
+        "commonWeaknesses": ["Treating blue as a fixed symbol without context.", "Calling Eli's sister selfish based on one line.", "Saying Eli leaves, although the passage ends before that occurs."]
+      },
+      "sourceRecordIds": ["req-passage-annotation", "teacher-annotation-notes", "req-test-taking-advice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [1, 65] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked all techniques and answer claims against the full passage; interpretations remain bounded by the unresolved ending." }
+    },
+    {
+      "id": "poetry-mc-quatrain-rhyme",
+      "section": "poetry-multiple-choice",
+      "novels": [],
+      "topics": ["quatrain", "rhyme scheme", "end rhyme"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Read the complete original practice poem. Which answer best describes its stanza shape and end-rhyme scheme?",
+      "material": {
+        "kind": "original_poem",
+        "title": "Rain on the Roof",
+        "text": "Rain taps softly on the pane,\nLittle rivers cross the glass;\nClouds unbutton, loosen rain,\nFootsteps blur along the pass.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "choices": [
+        { "label": "A", "text": "One quatrain; ABAB", "rationale": "Pane/pass and glass/rain form alternating end-sound pairs." },
+        { "label": "B", "text": "One couplet; AABB", "rationale": "There are four lines, not two; the end sounds do not pair in adjacent couplets." },
+        { "label": "C", "text": "One tercet; ABA", "rationale": "The stanza has four lines, not three." },
+        { "label": "D", "text": "Free verse with no end rhyme", "rationale": "The poem has a clear alternating rhyme pattern, even though its meter is not established." }
+      ],
+      "answerKey": {
+        "explanation": "A quatrain has four lines, and the end sounds alternate: pane/pass share the first sound pair, while glass/rain share the second, yielding ABAB.",
+        "basis": "original_material",
+        "sourceNote": "The form and rhyme skills are listed in the teacher's poetry review; the poem is original practice.",
+        "correctChoices": ["A"]
+      },
+      "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Rechecked the four-line count and line-ending sounds; no meter claim is made." }
+    },
+    {
+      "id": "poetry-mc-tercet-form",
+      "section": "poetry-multiple-choice",
+      "novels": [],
+      "topics": ["tercet", "open form", "stanza"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "What is the most accurate description of the complete poem's stanza shape?",
+      "material": {
+        "kind": "original_poem",
+        "title": "Crossing",
+        "text": "A gull folds its wings\nabove the gray harbor.\nThe ferry keeps moving.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "choices": [
+        { "label": "A", "text": "A tercet, or three-line stanza", "rationale": "The poem contains exactly three lines." },
+        { "label": "B", "text": "A couplet", "rationale": "A couplet contains two lines." },
+        { "label": "C", "text": "A quatrain", "rationale": "A quatrain contains four lines." },
+        { "label": "D", "text": "A sestet", "rationale": "A sestet contains six lines." }
+      ],
+      "answerKey": {
+        "explanation": "The poem consists of one three-line stanza, a tercet. The short form alone does not establish a fixed metrical pattern.",
+        "basis": "original_material",
+        "sourceNote": "The teacher's notes include stanza forms; this poem is original practice.",
+        "correctChoices": ["A"]
+      },
+      "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Recounted all three lines and checked the form choice against the teacher's listed stanza terminology." }
+    },
+    {
+      "id": "poetry-mc-sestet-alliteration",
+      "section": "poetry-multiple-choice",
+      "novels": [],
+      "topics": ["sestet", "alliteration", "imagery"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Which option correctly identifies the stanza length and the repeated initial consonant sound in the first line?",
+      "material": {
+        "kind": "original_poem",
+        "title": "Winter Fence",
+        "text": "Frost feathers the fence at dawn,\nA crow turns once above the field.\nThe gate remembers every hand,\nThough no one comes to lift its latch.\nBy noon the tracks are filled with light,\nAnd wind unthreads the cotton grass.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "choices": [
+        { "label": "A", "text": "Sestet; alliteration in 'Frost feathers the fence'", "rationale": "The stanza has six lines, and the repeated initial /f/ sound is audible." },
+        { "label": "B", "text": "Quatrain; assonance in 'fence at dawn'", "rationale": "The stanza has six lines, and the highlighted words do not show the stated repeated vowel pattern." },
+        { "label": "C", "text": "Octave; onomatopoeia in 'Frost feathers'", "rationale": "An octave has eight lines, and the phrase imitates no sound." },
+        { "label": "D", "text": "Couplet; end rhyme throughout", "rationale": "The poem has six lines and no consistent couplet rhyme pattern." }
+      ],
+      "answerKey": {
+        "explanation": "The poem has six lines, a sestet. The initial /f/ repeats in 'Frost feathers the fence,' which is alliteration; it is not an imitation of sound.",
+        "basis": "original_material",
+        "sourceNote": "The teacher review lists stanza types and poetic terms; poem and example are original practice.",
+        "correctChoices": ["A"]
+      },
+      "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the six-line stanza and initial consonants; distractors distinguish stanza length from sound device." }
+    },
+    {
+      "id": "poetry-mc-octave-personification",
+      "section": "poetry-multiple-choice",
+      "novels": [],
+      "topics": ["octave", "personification", "metaphor"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Which answer best identifies both the stanza form and what the phrase 'the clock scolds the room' does?",
+      "material": {
+        "kind": "original_poem",
+        "title": "After the Bell",
+        "text": "The clock scolds the room at four,\nA chalk cloud hangs above the floor.\nThe chairs stand quiet, row by row,\nWhile orange windows lose their glow.\nA page lifts once beside the door,\nThen settles where it was before.\nThe hallway empties, voices thin,\nAnd evening gathers at the sill.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "choices": [
+        { "label": "A", "text": "Octave; personification gives the clock a human action", "rationale": "The poem has eight lines, and 'scolds' assigns a human action to a clock." },
+        { "label": "B", "text": "Sestet; simile compares the clock to a room", "rationale": "There are eight lines, and no explicit like/as comparison appears." },
+        { "label": "C", "text": "Quatrain; hyperbole exaggerates the clock's size", "rationale": "There are eight lines, and the phrase does not exaggerate size." },
+        { "label": "D", "text": "Couplet; allusion refers to a known story", "rationale": "The stanza has eight lines and contains no identifiable outside reference." }
+      ],
+      "answerKey": {
+        "explanation": "An eight-line stanza is an octave. The verb 'scolds' gives a nonhuman object a human action, making the room's passing time feel admonishing.",
+        "basis": "original_material",
+        "sourceNote": "The teacher review includes octave and poetic terms; the poem is original practice.",
+        "correctChoices": ["A"]
+      },
+      "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Recounted eight lines and verified that the sentence gives a clock a specifically human action." }
+    },
+    {
+      "id": "poetry-mc-cinquain-repetition",
+      "section": "poetry-multiple-choice",
+      "novels": [],
+      "topics": ["cinquain", "repetition", "theme"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Which answer correctly identifies the five-line stanza and the function of the repeated word 'still'?",
+      "material": {
+        "kind": "original_poem",
+        "title": "Seed",
+        "text": "Still earth,\nStill under frost,\nA seed keeps its small silence.\nWhen spring opens the field,\nGreen answers the dark.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "choices": [
+        { "label": "A", "text": "Cinquain; repetition emphasizes persistence across a dormant period", "rationale": "The stanza has five lines, and repeating 'Still' links the earth's stillness to the seed's waiting." },
+        { "label": "B", "text": "Tercet; 'still' is an end-rhyme scheme", "rationale": "The stanza has five lines, and a repeated word is not an end-rhyme pattern." },
+        { "label": "C", "text": "Sestet; 'still' is an allusion", "rationale": "The stanza has five lines and 'still' does not refer to an outside source." },
+        { "label": "D", "text": "Couplet; 'still' proves the seed cannot grow", "rationale": "There are five lines, and the final two lines describe growth rather than permanent failure." }
+      ],
+      "answerKey": {
+        "explanation": "A five-line stanza is a cinquain in the class term list. Repetition links the frozen setting to the seed's quiet persistence, while the final lines turn toward growth.",
+        "basis": "original_material",
+        "sourceNote": "The class review lists cinquain; the poem and interpretation are original practice.",
+        "correctChoices": ["A"]
+      },
+      "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope", "teacher-poetry-analysis-procedure"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked five-line count and repeated wording; the interpretation accounts for the ending rather than stopping at the first two lines." }
+    },
+    {
+      "id": "poetry-mc-free-verse",
+      "section": "poetry-multiple-choice",
+      "novels": [],
+      "topics": ["free verse", "open form", "rhyme scheme"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Which description is best supported by the complete poem?",
+      "material": {
+        "kind": "original_poem",
+        "title": "Open Window",
+        "text": "I leave the window open\nfor the sound of the street.\nA bicycle bell,\nthen rain,\nthen nothing I can name.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "choices": [
+        { "label": "A", "text": "Open form/free verse; no stable end-rhyme pattern is evident", "rationale": "Line and sentence lengths vary, and the line endings do not form a recurring rhyme scheme." },
+        { "label": "B", "text": "A closed-form sonnet with an ABAB rhyme scheme", "rationale": "The poem has five lines and no ABAB pattern." },
+        { "label": "C", "text": "An octave with a repeated couplet rhyme", "rationale": "The poem has five lines, not eight, and its endings do not make couplets." },
+        { "label": "D", "text": "A quatrain with a regular meter proven by the line breaks", "rationale": "There are five lines, and line breaks alone do not prove regular meter." }
+      ],
+      "answerKey": {
+        "explanation": "The poem does not maintain a recognizable end-rhyme pattern or fixed line shape, so open form/free verse is supported. A reader should not infer regular meter from line breaks alone.",
+        "basis": "original_material",
+        "sourceNote": "Open/closed form and rhyme scheme are named in the teacher's review; poem is original practice.",
+        "correctChoices": ["A"]
+      },
+      "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked all five line endings and form claims; no rhyme or meter is asserted without evidence." }
+    },
+    {
+      "id": "poetry-mc-simile-metaphor",
+      "section": "poetry-multiple-choice",
+      "novels": [],
+      "topics": ["simile", "metaphor", "comparison"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Which phrase contains a simile?",
+      "material": {
+        "kind": "original_poem",
+        "title": "Moon Above the Bay",
+        "text": "The moon was a coin above the bay,\nand clouds moved like wool across the blue;\nI watched the tide unfasten the pier\nwhile night folded the boats from view.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "choices": [
+        { "label": "A", "text": "'The moon was a coin'", "rationale": "This is a direct metaphor, not a comparison marked with like or as." },
+        { "label": "B", "text": "'clouds moved like wool'", "rationale": "The phrase compares clouds to wool using like, making it a simile." },
+        { "label": "C", "text": "'the tide unfasten the pier'", "rationale": "This gives the tide an action associated with a person; it is personification." },
+        { "label": "D", "text": "'night folded the boats from view'", "rationale": "This figurative phrasing personifies night; it is not the explicit like/as comparison asked for." }
+      ],
+      "answerKey": {
+        "explanation": "A simile makes a comparison using like or as. The clouds are compared to wool with like; the moon is instead called a coin in a metaphor.",
+        "basis": "original_material",
+        "sourceNote": "The teacher's review lists simile and metaphor; the poem and question are original AI-generated practice.",
+        "correctChoices": ["B"]
+      },
+      "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the explicit like-comparison and distinguished it from the metaphor in the opening line." }
+    },
+    {
+      "id": "poetry-mc-assonance-onomatopoeia",
+      "section": "poetry-multiple-choice",
+      "novels": [],
+      "topics": ["assonance", "onomatopoeia", "sound devices"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Which term best describes the word 'Clang!'?",
+      "material": {
+        "kind": "original_poem",
+        "title": "Gate in the Rain",
+        "text": "Clang! the gate swings in the rain.\nLow notes roll along the stone.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "choices": [
+        { "label": "A", "text": "Assonance, because the word repeats a vowel sound", "rationale": "Clang imitates a sound; it does not repeat a vowel pattern within the word." },
+        { "label": "B", "text": "Alliteration, because the line begins with repeated consonants", "rationale": "The single word does not establish repeated initial consonants across nearby words." },
+        { "label": "C", "text": "Onomatopoeia, because the word imitates the sound it names", "rationale": "Clang represents the sound of the gate striking." },
+        { "label": "D", "text": "Allusion, because the word refers to a familiar story", "rationale": "The word imitates a noise and does not refer to an outside story or source." }
+      ],
+      "answerKey": {
+        "explanation": "'Clang!' imitates a sound, so it is onomatopoeia. Separately, the repeated long vowel sound in 'low notes roll' illustrates assonance; the terms describe different sound effects.",
+        "basis": "original_material",
+        "sourceNote": "The teacher's review lists onomatopoeia and assonance; the poem and question are original AI-generated practice.",
+        "correctChoices": ["C"]
+      },
+      "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the sound imitation in 'Clang' and distinguished it from the assonance in the next line." }
+    },
+    {
+      "id": "poetry-mc-allusion",
+      "section": "poetry-multiple-choice",
+      "novels": [],
+      "topics": ["allusion", "interpretation"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "What does naming Icarus directly most clearly create?",
+      "material": {
+        "kind": "original_poem",
+        "title": "Paper Wings",
+        "text": "He said, 'Icarus, I know the sun,'\nthen turned his paper wings toward the light.\nThe warning in the old story stayed;\nhis own thin page burned white.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "choices": [
+        { "label": "A", "text": "An allusion that invites a connection to a familiar mythic story", "rationale": "The name directly points readers toward a story outside this poem." },
+        { "label": "B", "text": "A motif, because the name recurs throughout the poem", "rationale": "The name appears once; recurrence is not what the question emphasizes." },
+        { "label": "C", "text": "Onomatopoeia, because the name imitates a sound", "rationale": "The name does not imitate a sound." },
+        { "label": "D", "text": "A rhyme scheme, because the name ends a line", "rationale": "A word's position at the end of a line does not by itself establish rhyme." }
+      ],
+      "answerKey": {
+        "explanation": "Naming Icarus is an allusion: a reference to a story outside the poem. The poem's own warning supports a connection to risk, but readers should explain that connection rather than treat the name as a complete interpretation by itself.",
+        "basis": "original_material",
+        "sourceNote": "The teacher's review lists allusion; the poem and question are original AI-generated practice.",
+        "correctChoices": ["A"]
+      },
+      "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that the proper name functions as an outside-story reference and kept the inference bounded." }
+    },
+    {
+      "id": "poetry-mc-verbal-irony",
+      "section": "poetry-multiple-choice",
+      "novels": [],
+      "topics": ["verbal irony", "irony", "tone"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "When the speaker calls the leaking room a 'perfect shelter,' which term best describes the gap between the words and the intended meaning?",
+      "material": {
+        "kind": "original_poem",
+        "title": "Perfect Shelter",
+        "text": "'Perfect shelter,' I tell the room,\nwhile rain threads down the wall;\nI move my chair beneath the leak\nand catch the ceiling's fall.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "choices": [
+        { "label": "A", "text": "Situational irony, because an unexpected event changes the outcome", "rationale": "The question asks about the speaker's words and intended meaning, not only an outcome reversal." },
+        { "label": "B", "text": "Simile, because the room is compared with a shelter", "rationale": "The phrase is not a like/as comparison." },
+        { "label": "C", "text": "Sarcasm, because the speaker insults another person", "rationale": "No person is targeted by a cutting or mocking insult in the passage." },
+        { "label": "D", "text": "Verbal irony, because the praise contradicts the clearly leaking room", "rationale": "The literal praise conflicts with the condition the speaker describes, signaling an opposite intended meaning." }
+      ],
+      "answerKey": {
+        "explanation": "The speaker's praise is contradicted by the rain entering the room, so the words imply the opposite: verbal irony. The passage does not establish that the remark is a personal insult, so sarcasm is less precise.",
+        "basis": "original_material",
+        "sourceNote": "The teacher's review lists irony; this original poem distinguishes verbal irony from situational irony and sarcasm.",
+        "correctChoices": ["D"]
+      },
+      "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that the wording/intended-meaning gap is the target and that the poem does not establish a personal insult." }
+    },
+    {
+      "id": "poetry-mc-symbol-theme",
+      "section": "poetry-multiple-choice",
+      "novels": [],
+      "topics": ["symbol", "theme", "imagery"],
+      "difficulty": "advanced",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Which interpretation best explains the lamp's possible symbolic role and the poem's theme?",
+      "material": {
+        "kind": "original_poem",
+        "title": "Beside the Door",
+        "text": "Each night I set a lamp beside the door.\nIt cannot shorten the road\nor stop the winter rain;\nstill, one traveler slows,\nsees the lit step,\nand knocks.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "choices": [
+        { "label": "A", "text": "The lamp removes every danger, so the traveler has nothing left to fear", "rationale": "The poem explicitly says the lamp cannot shorten the road or stop the rain." },
+        { "label": "B", "text": "The lamp can suggest welcome; a small act may guide someone without removing hardship", "rationale": "The lamp helps the traveler find a door, while the difficult road and rain remain." },
+        { "label": "C", "text": "The lamp proves that travel should end because the road is always unsafe", "rationale": "The traveler approaches and knocks; the poem does not state that all travel should stop." },
+        { "label": "D", "text": "The lamp represents wealth, and the traveler arrives to borrow it", "rationale": "Neither wealth nor borrowing appears in the poem." }
+      ],
+      "answerKey": {
+        "explanation": "The lamp is literally a light beside the door and can be read as a limited symbol of welcome or guidance. The contrast between its small help and the continuing road and rain supports a theme about care making a next step possible without solving every hardship.",
+        "basis": "original_material",
+        "sourceNote": "The teacher's review requires a theme or implication supported by the poem as a whole; this poem and symbolic reading are original practice.",
+        "correctChoices": ["B"]
+      },
+      "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the symbolic reading against the literal lamp, the continuing hardship, and the final action." }
+    },
+    {
+      "id": "poetry-mc-tactile-imagery",
+      "section": "poetry-multiple-choice",
+      "novels": [],
+      "topics": ["imagery", "sensory detail"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Which phrase most directly creates tactile imagery?",
+      "material": {
+        "kind": "original_poem",
+        "title": "Winter Kitchen",
+        "text": "The kettle clicks,\nsteam clouds the pane,\nwarm porcelain rests against my palms;\noutside, snow hushes the empty steps.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "choices": [
+        { "label": "A", "text": "'The kettle clicks'", "rationale": "This detail appeals primarily to hearing." },
+        { "label": "B", "text": "'steam clouds the pane'", "rationale": "This detail appeals primarily to sight." },
+        { "label": "C", "text": "'warm porcelain rests against my palms'", "rationale": "The warmth and contact are details a person can feel." },
+        { "label": "D", "text": "'snow hushes the empty steps'", "rationale": "The phrase combines visual detail with personification; it does not most directly describe touch." }
+      ],
+      "answerKey": {
+        "explanation": "Tactile imagery appeals to touch. The phrase describes warmth and physical contact against the speaker's palms; the other options emphasize sound or sight.",
+        "basis": "original_material",
+        "sourceNote": "The teacher's review lists imagery; this poem and question are original AI-generated practice.",
+        "correctChoices": ["C"]
+      },
+      "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that the selected phrase appeals to touch and distinguished it from sound and visual details." }
+    },
+    {
+      "id": "poetry-mc-aabb-rhyme",
+      "section": "poetry-multiple-choice",
+      "novels": [],
+      "topics": ["rhyme scheme", "quatrain"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Which description best identifies the poem's stanza shape and end-rhyme scheme?",
+      "material": {
+        "kind": "original_poem",
+        "title": "After Rain",
+        "text": "The quiet field receives the rain,\nA silver thread along the lane;\nThen windows kindle into light,\nAs swallows cross the darkening night.",
+        "attribution": "Original AI-generated practice poem; not a class poem or quotation."
+      },
+      "choices": [
+        { "label": "A", "text": "A couplet with an AA rhyme scheme", "rationale": "The poem has four lines, not two." },
+        { "label": "B", "text": "A quatrain with an ABAB rhyme scheme", "rationale": "Rain rhymes with lane, and light rhymes with night; adjacent pairs form AABB." },
+        { "label": "C", "text": "An octave with an AABB rhyme scheme", "rationale": "The rhyme groups are AABB, but the poem has four lines, not eight." },
+        { "label": "D", "text": "A quatrain with an AABB rhyme scheme", "rationale": "The first two line endings rhyme with each other, and the final two rhyme with each other." }
+      ],
+      "answerKey": {
+        "explanation": "The four-line stanza is a quatrain. Rain/lane form the first rhyme pair, and light/night form the second, so the scheme is AABB. This describes the observed pattern without claiming a particular fixed meter.",
+        "basis": "original_material",
+        "sourceNote": "The teacher's review lists stanza types and rhyme scheme; the poem and question are original AI-generated practice.",
+        "correctChoices": ["D"]
+      },
+      "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked all four line endings and matched the two audible end-rhyme pairs." }
+    },
+    {
+      "id": "lit-term-symbol",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["symbol", "motif"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "In an original practice story, a character keeps one cracked compass on a desk because it reminds her of a promise to choose her own direction. The compass appears only once. Which term best describes its added meaning?",
+      "choices": [
+        { "label": "A", "text": "Symbol", "rationale": "The object gains meaning beyond its literal use in this context." },
+        { "label": "B", "text": "Motif", "rationale": "The prompt says the object appears only once, so recurrence is not established." },
+        { "label": "C", "text": "Allusion", "rationale": "The compass does not refer to an outside story or source." },
+        { "label": "D", "text": "Image", "rationale": "The object is concrete, but the question asks about its added meaning." }
+      ],
+      "answerKey": { "explanation": "A symbol carries meaning beyond the literal object. The single appearance does not establish a motif, which depends on meaningful recurrence.", "basis": "student_work", "sourceNote": "The packet wording is student-provided; the Phase 4 note distinguishes added meaning from recurrence. Example is original practice.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-symbol"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-symbol"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the single-occurrence detail and the Phase 4 symbol/motif distinction; no student interpretation is presented as a teacher ruling." }
+    },
+    {
+      "id": "lit-term-flashback",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["flashback", "narrative time"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A narrator pauses the present action and recounts the afternoon, years earlier, when the character first received the key. What narrative technique is being used?",
+      "choices": [
+        { "label": "A", "text": "Flashback", "rationale": "The narration dramatizes an earlier event within the current story." },
+        { "label": "B", "text": "Foreshadowing", "rationale": "The scene returns to the past rather than hinting at a later event." },
+        { "label": "C", "text": "Allusion", "rationale": "The narrator recounts an event in this story rather than briefly referring to an outside source." },
+        { "label": "D", "text": "Frame story", "rationale": "No separate outer narrative containing an inner story is described." }
+      ],
+      "answerKey": { "explanation": "A flashback shifts the narrated action to an earlier event. A brief mention of the past alone would not necessarily create a full flashback scene.", "basis": "student_work", "sourceNote": "The packet's Catcher term note is student wording, not a full teacher definition; the example is original practice and makes no Catcher plot claim.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-flashback"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-flashback", "catcher-class-notes"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the earlier-event cue against the student-labeled term note; did not use the unverified Catcher PDF." }
+    },
+    {
+      "id": "lit-term-archetype",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["archetype", "cultural pattern"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A story presents a journey through a dangerous forest that recalls a familiar cultural pattern of testing and transformation, then changes that pattern by having the traveler refuse the expected reward. Which concept names the recognizable pattern?",
+      "choices": [
+        { "label": "A", "text": "Archetype", "rationale": "The question describes a culturally recognizable pattern that the work invokes and revises." },
+        { "label": "B", "text": "Stereotype", "rationale": "A stereotype is a fixed generalization about a category, not a broad recurring story pattern." },
+        { "label": "C", "text": "Foil", "rationale": "A foil is a character contrasted with another character." },
+        { "label": "D", "text": "Allusion", "rationale": "A brief reference may invoke another source, but the question asks for the recurring cultural pattern itself." }
+      ],
+      "answerKey": { "explanation": "The teacher handout defines archetypes as recognizable characters, settings, themes, or symbols with common cultural meaning. A work can invoke and revise an archetype.", "basis": "teacher_material", "sourceNote": "Definition is from the teacher's archetype handout; story example is original practice.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-archetype"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-archetype"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked against the teacher definition; the prompt distinguishes a cultural pattern from character labels and outside references." }
+    },
+    {
+      "id": "lit-term-bildungsroman",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["Bildungsroman", "development"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A novel follows a young protagonist through formative experiences that gradually shape the protagonist's values and understanding of adulthood. Which supplemental literary term best describes this developmental novel form?",
+      "choices": [
+        { "label": "A", "text": "Bildungsroman", "rationale": "The narrative is organized around a young protagonist's development through formative experience." },
+        { "label": "B", "text": "Frame story", "rationale": "The prompt does not describe an outer narrative containing an inner one." },
+        { "label": "C", "text": "Anti-hero", "rationale": "This names a character type, not a developmental novel form." },
+        { "label": "D", "text": "Dystopia", "rationale": "No oppressive imagined society is described." }
+      ],
+      "answerKey": { "explanation": "A Bildungsroman is a novel focused on a young protagonist's development through formative experiences. A young character alone is not enough; development must organize the narrative.", "basis": "phase4_analysis", "sourceNote": "The packet lists this term but supplies no definition; this is a supplemental Phase 4 study definition, not a teacher definition. Scenario is original.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-bildungsroman"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked against the labeled supplemental definition and the requirement for sustained development, not merely a young protagonist." }
+    },
+    {
+      "id": "lit-term-motif",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["motif", "recurrence", "theme"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Across a story, the sound of a train returns at moments when characters are deciding whether to leave. Its significance changes as the characters' choices change. Which term best names this recurring element?",
+      "choices": [
+        { "label": "A", "text": "Motif", "rationale": "The sound recurs and develops associations connected to a central concern." },
+        { "label": "B", "text": "Symbol only", "rationale": "The sound may also symbolize something, but this question emphasizes meaningful recurrence." },
+        { "label": "C", "text": "Allusion", "rationale": "No outside text, person, or event is referenced." },
+        { "label": "D", "text": "Image", "rationale": "A sensory detail may be an image, but the repeated pattern is the focus." }
+      ],
+      "answerKey": { "explanation": "A motif is a meaningfully recurring image, sound, action, idea, or phrase. It can also be symbolic, but motif names recurrence.", "basis": "student_work", "sourceNote": "The packet definition is student-provided and its numerical recurrence rule is not teacher-verified; this item tests recurrence without imposing a count.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-motif"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-motif"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that recurrence, rather than a fixed number of repetitions, is the tested feature; overlap with symbol is acknowledged." }
+    },
+    {
+      "id": "lit-term-satire",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["satire", "criticism", "target"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A story exaggerates a town's permit system until harmless repairs require dozens of contradictory approvals, exposing how bureaucracy can protect itself instead of serving residents. Which term best describes this critical use of exaggeration?",
+      "choices": [
+        { "label": "A", "text": "Satire", "rationale": "The exaggeration exposes and criticizes a social institution." },
+        { "label": "B", "text": "Parody", "rationale": "The story does not imitate a recognizable work or style." },
+        { "label": "C", "text": "Hyperbole", "rationale": "Exaggeration is a technique, but the broader critical treatment of a target is satire." },
+        { "label": "D", "text": "Sarcasm", "rationale": "No speaker uses a cutting remark to mock someone." }
+      ],
+      "answerKey": { "explanation": "Satire uses devices such as exaggeration or ridicule to expose a target. Hyperbole may be one device within satire, but does not by itself name the larger critical purpose.", "basis": "phase4_analysis", "sourceNote": "The packet lists satire without a teacher definition; this is a supplemental study definition. Example is original.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-satire"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that the prompt has an identifiable institutional target and that hyperbole is treated as a technique, not a synonym." }
+    },
+    {
+      "id": "lit-term-allusion",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["allusion", "cultural reference"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A speaker calls a failed expedition 'our own little Odyssey,' briefly invoking a familiar epic journey to suggest a difficult return. Which term describes this outward reference?",
+      "choices": [
+        { "label": "A", "text": "Allusion", "rationale": "The phrase briefly points to another work or cultural story." },
+        { "label": "B", "text": "Symbol", "rationale": "The phrase refers outward rather than developing an object's added meaning within this story." },
+        { "label": "C", "text": "Motif", "rationale": "No recurring element is described." },
+        { "label": "D", "text": "Analogy", "rationale": "The phrase may make a comparison, but its specific literary function is a recognizable outside reference." }
+      ],
+      "answerKey": { "explanation": "An allusion briefly references another work, person, event, or cultural story and relies on recognition. The reader can also notice comparison, but the outside reference is the defining clue.", "basis": "phase4_analysis", "sourceNote": "The class packet lists allusion but has no teacher definition; supplemental Phase 4 definition and original example are used.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-allusion"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that the example names an outside cultural work and that no motif or symbol is asserted." }
+    },
+    {
+      "id": "lit-term-tone",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["tone", "attitude", "diction"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A narrator calls the new rule 'a generous gift from people who never have to follow it,' using the sentence to express criticism of the rule-makers. Which term names the narrator's attitude?",
+      "choices": [
+        { "label": "A", "text": "Tone", "rationale": "The language conveys the narrator's critical attitude toward the rule-makers." },
+        { "label": "B", "text": "Mood", "rationale": "Mood describes a feeling created for readers, not the narrator's attitude." },
+        { "label": "C", "text": "Conflict", "rationale": "The line may imply disagreement, but it does not name the narrator's attitude." },
+        { "label": "D", "text": "Imagery", "rationale": "The sentence uses evaluative language rather than sensory description." }
+      ],
+      "answerKey": { "explanation": "Tone is the attitude conveyed toward a subject; here the phrase 'generous gift' is undercut by the criticism of who must follow the rule.", "basis": "student_work", "sourceNote": "The tone wording is student-provided class material, not a teacher-approved definition; example is original.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-tone"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-tone"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked attitude-versus-reader-feeling distinction; the clue is the narrator's evaluative diction." }
+    },
+    {
+      "id": "lit-term-point-of-view-1",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["point of view", "first person", "narrative access"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A story is narrated with 'I' by a character who reports only what that character sees, remembers, and believes. Which broad literary element describes the perspective from which the story is told?",
+      "choices": [
+        { "label": "A", "text": "Point of view", "rationale": "The question concerns who tells the story and the perspective available to the reader." },
+        { "label": "B", "text": "Tone", "rationale": "Tone is attitude, not the narrator's perspective." },
+        { "label": "C", "text": "Foil", "rationale": "A foil is a contrasting character." },
+        { "label": "D", "text": "Frame story", "rationale": "No nested outer and inner narratives are described." }
+      ],
+      "answerKey": { "explanation": "Point of view describes the perspective from which a story is told. First person is the grammatical person here; it does not by itself prove that the narrator is reliable.", "basis": "student_work", "sourceNote": "The class definition and example are student-provided; the question tests perspective without claiming reliability.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-point-of-view-1"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-point-of-view", "student-metamorphosis-annotation"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the perspective definition and kept first person separate from reliability; preserves the first printed POV entry." }
+    },
+    {
+      "id": "lit-term-foreshadowing",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["foreshadowing", "plot development"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Early in a story, a character notices that the bridge's support beam is splitting. Much later, the bridge collapses during a crossing. What is the early detail doing?",
+      "choices": [
+        { "label": "A", "text": "Foreshadowing", "rationale": "The earlier detail prepares the reader for a later event." },
+        { "label": "B", "text": "Flashback", "rationale": "The story does not return to an earlier event." },
+        { "label": "C", "text": "Situational irony", "rationale": "The prompt describes a warning detail that relates to the outcome, not a reversal of expectation." },
+        { "label": "D", "text": "Allusion", "rationale": "The beam does not refer to an outside work or event." }
+      ],
+      "answerKey": { "explanation": "Foreshadowing is an earlier detail that hints at or prepares for a later development. The later collapse makes the planted detail relevant.", "basis": "phase4_analysis", "sourceNote": "The packet lists the term without a teacher definition; this is a supplemental Phase 4 definition and original scenario.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-foreshadowing"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the temporal relationship; the detail precedes and prepares for the later collapse." }
+    },
+    {
+      "id": "lit-term-mood",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["mood", "setting", "reader response"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A passage describes a narrow stairwell, a flickering bulb, and footsteps that stop whenever the character pauses. The scene makes readers feel tense. Which term names that reader-directed emotional effect?",
+      "choices": [
+        { "label": "A", "text": "Mood", "rationale": "Mood is the emotional atmosphere or response created for readers." },
+        { "label": "B", "text": "Tone", "rationale": "Tone names the narrator's or author's attitude, which is not the question." },
+        { "label": "C", "text": "Diction", "rationale": "Diction is word choice, not the resulting reader feeling." },
+        { "label": "D", "text": "Conflict", "rationale": "The scene may contain tension, but the requested term is the reader's emotional response." }
+      ],
+      "answerKey": { "explanation": "Mood is the feeling created for the reader, often through setting, imagery, and tone. The question asks about the effect, not the attitude of the narrator.", "basis": "student_work", "sourceNote": "The mood definition is student-provided class wording; original example and answer distinction are study practice.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-mood"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-mood"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked tone-versus-mood distinction and ensured the prompt asks for reader response." }
+    },
+    {
+      "id": "lit-term-simile",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["simile", "comparison"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "The sentence says, 'The small boat rocked like a loose tooth in the waves.' Which device is used in the comparison?",
+      "choices": [
+        { "label": "A", "text": "Simile", "rationale": "The sentence explicitly compares unlike things with 'like'." },
+        { "label": "B", "text": "Metaphor", "rationale": "The comparison is not stated directly as one thing being another." },
+        { "label": "C", "text": "Analogy", "rationale": "The sentence makes a brief figurative comparison rather than explaining a larger relationship." },
+        { "label": "D", "text": "Hyperbole", "rationale": "The sentence does not exaggerate a quantity or claim." }
+      ],
+      "answerKey": { "explanation": "A simile explicitly compares unlike things, commonly using 'like' or 'as.' The image of a loose tooth suggests instability.", "basis": "phase4_analysis", "sourceNote": "The packet lists simile without a teacher definition; this is a supplemental study definition and original example.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-simile"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that 'like' explicitly marks the comparison and that no exaggeration is involved." }
+    },
+    {
+      "id": "lit-term-metaphor",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["metaphor", "figurative comparison"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A character calls the long wait 'a locked room with no clock.' Which device describes this direct figurative comparison?",
+      "choices": [
+        { "label": "A", "text": "Metaphor", "rationale": "The wait is described as a room to transfer associations of confinement and uncertainty." },
+        { "label": "B", "text": "Simile", "rationale": "The comparison does not use like or as." },
+        { "label": "C", "text": "Personification", "rationale": "The wait is not given a human action or quality." },
+        { "label": "D", "text": "Allusion", "rationale": "No outside source is referenced." }
+      ],
+      "answerKey": { "explanation": "A metaphor describes one thing as another to transfer qualities or associations. Here the locked room suggests confinement and uncertainty.", "basis": "phase4_analysis", "sourceNote": "The packet lists metaphor without a teacher definition; this is a supplemental study definition and original example.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-metaphor"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that the comparison is direct and the interpretation stays connected to the room's associations." }
+    },
+    {
+      "id": "lit-term-hyperbole",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["hyperbole", "emphasis"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "After carrying boxes up the stairs, a character says, 'I've climbed a million floors today.' Which device best describes the deliberate exaggeration?",
+      "choices": [
+        { "label": "A", "text": "Hyperbole", "rationale": "The speaker exaggerates the number for emphasis rather than literal measurement." },
+        { "label": "B", "text": "Analogy", "rationale": "The speaker does not explain one idea through comparison to another." },
+        { "label": "C", "text": "Paradox", "rationale": "The statement is exaggerated but not an apparent contradiction inviting a deeper reading." },
+        { "label": "D", "text": "Situational irony", "rationale": "No expected outcome is reversed." }
+      ],
+      "answerKey": { "explanation": "Hyperbole is purposeful exaggeration not intended as literal measurement; it emphasizes the speaker's exhaustion.", "basis": "phase4_analysis", "sourceNote": "The packet lists hyperbole without a teacher definition; supplemental Phase 4 definition and original example are used.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-hyperbole"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked literal-versus-exaggerated meaning and distinguished it from contradiction or reversal." }
+    },
+    {
+      "id": "lit-term-personification",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["personification", "human qualities"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "The sentence says, 'The old desk groaned when the heavy books landed.' Which device gives a nonhuman object a human action?",
+      "choices": [
+        { "label": "A", "text": "Personification", "rationale": "The desk is described as groaning, a human vocal action." },
+        { "label": "B", "text": "Onomatopoeia", "rationale": "The sentence reports the desk's response; it does not use a word that imitates the sound itself." },
+        { "label": "C", "text": "Simile", "rationale": "No explicit like/as comparison appears." },
+        { "label": "D", "text": "Symbol", "rationale": "No added meaning beyond the desk is established." }
+      ],
+      "answerKey": { "explanation": "Personification gives a nonhuman thing or abstraction human actions, feelings, or qualities. The desk's 'groan' humanizes its response to the weight.", "basis": "phase4_analysis", "sourceNote": "The packet lists personification without a teacher definition; this is supplemental study material and an original example.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-personification"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the human action attributed to a nonhuman subject and separated it from sound imitation." }
+    },
+    {
+      "id": "lit-term-stereotype",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["stereotype", "generalization"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A narrator assumes that every new student from one neighborhood must be dishonest, without knowing any of them. Which concept names this fixed generalization?",
+      "choices": [
+        { "label": "A", "text": "Stereotype", "rationale": "The narrator applies a simplified, fixed belief to an entire group." },
+        { "label": "B", "text": "Archetype", "rationale": "An archetype is a recognizable cultural pattern, not a prejudicial generalization about real people." },
+        { "label": "C", "text": "Satire", "rationale": "No evidence shows the narrator is using the claim to criticize a target." },
+        { "label": "D", "text": "Foil", "rationale": "No contrasting character relationship is described." }
+      ],
+      "answerKey": { "explanation": "A stereotype is a fixed, often inaccurate generalization applied to a category rather than an observation about an individual.", "basis": "student_work", "sourceNote": "The packet definition is student-provided and not teacher-approved; example is original practice.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-stereotype"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-stereotype"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that the prompt describes a generalized assumption rather than a cultural narrative pattern or satirical purpose." }
+    },
+    {
+      "id": "lit-term-sarcasm",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["sarcasm", "verbal irony", "speaker intent"],
+      "difficulty": "advanced",
+      "format": "single_answer_multiple_choice",
+      "prompt": "After a teammate arrives an hour late, a speaker says, 'Your punctuality is truly breathtaking,' intending the remark as a cutting insult. Which is the most precise term for the remark's mocking use?",
+      "choices": [
+        { "label": "A", "text": "Sarcasm", "rationale": "The prompt emphasizes a cutting, mocking remark aimed at another person." },
+        { "label": "B", "text": "Verbal irony only", "rationale": "The words may also be verbally ironic, but sarcasm is more precise for the stated insulting intent." },
+        { "label": "C", "text": "Parody", "rationale": "The speaker is not imitating a recognizable style or work." },
+        { "label": "D", "text": "Hyperbole", "rationale": "The main feature is mock praise with insulting intent, not quantitative exaggeration." }
+      ],
+      "answerKey": { "explanation": "The student's wording describes sarcasm as cutting or mocking language used to insult, irritate, or amuse. The remark can also involve verbal irony; sarcasm is the more specific answer because the prompt stresses its insulting purpose.", "basis": "student_work", "sourceNote": "The definition is student-generated, not teacher-approved; the question explicitly acknowledges overlap with verbal irony.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-sarcasm"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-sarcasm", "term-def-verbal-irony"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Reviewed the overlap with verbal irony and identifies sarcasm as the narrower answer only because the prompt specifies a cutting insult." }
+    },
+    {
+      "id": "lit-term-parody",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["parody", "imitation", "style"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A comic sketch imitates the exaggerated stage directions and grand language of a recognizable adventure serial, copying its style for humor. Which term best describes the imitation?",
+      "choices": [
+        { "label": "A", "text": "Parody", "rationale": "The sketch imitates a recognizable style, here for humor." },
+        { "label": "B", "text": "Satire", "rationale": "The prompt does not identify a social target being criticized; imitation is central." },
+        { "label": "C", "text": "Allusion", "rationale": "This is an extended imitation of style, not merely a brief reference." },
+        { "label": "D", "text": "Archetype", "rationale": "No recurring cultural character or story pattern is the focus." }
+      ],
+      "answerKey": { "explanation": "Parody imitates a recognizable person, situation, or style, often for humor. It can also be satirical, but the prompt does not specify a critical target.", "basis": "student_work", "sourceNote": "The packet's parody wording is student-provided and its source attribution is not a teacher definition; sketch is original practice.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-parody"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-parody"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that recognizable style imitation is the defining clue and avoids asserting a satirical target." }
+    },
+    {
+      "id": "lit-term-image",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["image", "imagery", "sensory detail"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A passage gives one precise detail: 'The brass bell rang, bright and sharp above the market noise.' Which term most specifically names this single concrete sensory detail?",
+      "choices": [
+        { "label": "A", "text": "Image", "rationale": "The question focuses on one concrete sensory detail a reader can hear." },
+        { "label": "B", "text": "Imagery", "rationale": "Imagery can describe sensory language or patterns, but the prompt asks for one image." },
+        { "label": "C", "text": "Mood", "rationale": "Mood is the feeling created for a reader, not the sensory detail itself." },
+        { "label": "D", "text": "Tone", "rationale": "Tone names attitude rather than a single sound detail." }
+      ],
+      "answerKey": { "explanation": "An image is a concrete sensory detail or representation. Imagery may refer to a broader pattern of sensory language; the prompt deliberately asks for one detail.", "basis": "phase4_analysis", "sourceNote": "The packet lists image and imagery separately; this distinction is a supplemental Phase 4 study distinction, not a teacher-provided definition.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-image"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that the prompt asks for one sensory detail and explicitly accounts for overlap with imagery." }
+    },
+    {
+      "id": "lit-term-stream-of-consciousness",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["stream of consciousness", "thought", "narration"],
+      "difficulty": "advanced",
+      "format": "single_answer_multiple_choice",
+      "prompt": "The narration moves through a character's unfinished thoughts: 'The key, where did I put it, the blue cup on the table, Mother always said the blue one was lucky—no, the door.' The narration follows associative thought rather than orderly explanation. Which term best describes the technique?",
+      "choices": [
+        { "label": "A", "text": "Stream of consciousness", "rationale": "The narration follows the character's associative, shifting thought process." },
+        { "label": "B", "text": "Flashback", "rationale": "The passage does not dramatize a coherent earlier event." },
+        { "label": "C", "text": "Frame story", "rationale": "There is no outer story introducing an inner narrative." },
+        { "label": "D", "text": "Foreshadowing", "rationale": "The thought sequence does not hint at a later event." }
+      ],
+      "answerKey": { "explanation": "Stream-of-consciousness narration follows the movement of a character's thoughts, which may associate and shift alongside present action.", "basis": "student_work", "sourceNote": "The packet's description appears in student class notes and is not teacher-approved terminology; the example is original and makes no Catcher plot claim.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-stream-of-consciousness"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-stream-of-consciousness", "catcher-class-notes"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the associative thought pattern against the student note; does not use the unverified Catcher PDF." }
+    },
+    {
+      "id": "lit-term-point-of-view-2",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["point of view", "third person", "narrative access"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A narrator uses 'she' and 'they' but reports only one character's perceptions and private thoughts. Which term from the list names this perspective choice?",
+      "choices": [
+        { "label": "A", "text": "Point of view", "rationale": "Perspective and access to a character's experience are aspects of point of view." },
+        { "label": "B", "text": "Dynamic character", "rationale": "The prompt gives no evidence that the character changes." },
+        { "label": "C", "text": "Tone", "rationale": "The prompt concerns narrative perspective, not attitude." },
+        { "label": "D", "text": "Direct characterization", "rationale": "The narrator's access to thoughts does not itself state a character trait." }
+      ],
+      "answerKey": { "explanation": "Point of view concerns narrative perspective and what the narrator presents. Third-person grammar does not automatically make a narrator omniscient. This question covers the second printed point-of-view listing; it is not a separate concept.", "basis": "student_work", "sourceNote": "The packet lists point of view twice and the student wording describes narrative perspective; both entries remain linked to the same term record.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-point-of-view-2"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-point-of-view"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked limited third-person access and retained the second printed POV entry without inventing a second definition." }
+    },
+    {
+      "id": "lit-term-foil",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["foil", "character contrast"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "In a story, one character carefully plans every step, while a close companion acts impulsively. Their contrast makes each character's choices easier to notice. What is the companion's literary role in this relationship?",
+      "choices": [
+        { "label": "A", "text": "Foil", "rationale": "The contrast between the characters highlights traits in one or both." },
+        { "label": "B", "text": "Antagonist", "rationale": "The companion is not described as opposing the protagonist." },
+        { "label": "C", "text": "Archetype", "rationale": "The prompt describes a relationship of contrast, not a cultural pattern." },
+        { "label": "D", "text": "Anti-hero", "rationale": "No traditional heroic traits are discussed." }
+      ],
+      "answerKey": { "explanation": "A foil is a character whose contrast with another highlights particular traits or choices. Foils need not be enemies.", "basis": "phase4_analysis", "sourceNote": "The packet lists foil without a teacher definition; this is a supplemental Phase 4 study definition and original scenario.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-foil"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that contrast is the defining relation and does not require hostility." }
+    },
+    {
+      "id": "lit-term-frame-story",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["frame story", "nested narrative"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A novel opens with an elderly traveler telling a group how she survived a storm. Most of the novel then presents the story she tells, before returning briefly to the group. What structure contains the main narrative?",
+      "choices": [
+        { "label": "A", "text": "Frame story", "rationale": "An outer narrative establishes the teller and introduces an inner narrative." },
+        { "label": "B", "text": "Flashback only", "rationale": "The nested teller-and-story structure is more than a shift to an earlier event." },
+        { "label": "C", "text": "Foreshadowing", "rationale": "The structure does not primarily hint at a later event." },
+        { "label": "D", "text": "Stream of consciousness", "rationale": "The prompt does not describe associative thought narration." }
+      ],
+      "answerKey": { "explanation": "A frame story has an outside narrative that establishes a narrator, time, or situation for a story within it.", "basis": "student_work", "sourceNote": "The packet note is student-completed class wording, not a teacher-approved definition; scenario is original practice.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-frame-story"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-frame-story"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked for both an outer narrative and an inner story, the defining structure in the student note." }
+    },
+    {
+      "id": "lit-term-anti-hero",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["anti-hero", "characterization"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A central character repeatedly makes selfish mistakes and lacks the courage of a traditional hero, yet the narrative invites readers to follow and understand the character. Which character type best fits this description?",
+      "choices": [
+        { "label": "A", "text": "Anti-hero", "rationale": "The central character lacks conventional heroic qualities but remains the story's focus." },
+        { "label": "B", "text": "Antagonist", "rationale": "The prompt describes the central character, not the force opposing that character." },
+        { "label": "C", "text": "Foil", "rationale": "No contrasting character relationship is described." },
+        { "label": "D", "text": "Stereotype", "rationale": "The description concerns a character role, not a fixed generalization about a group." }
+      ],
+      "answerKey": { "explanation": "The teacher assignment distinguishes antiheroes from traditional heroes by their faults and difficult choices; the character remains central rather than serving as the antagonist.", "basis": "teacher_material", "sourceNote": "The teacher assignment supplies the relevant distinction and asks for specific examples; this original scenario is a practice application, not a class-approved character label.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-anti-hero"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-antihero", "term-def-antihero-student"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked against teacher assignment; distinguishes a flawed central character from an antagonist or foil." }
+    },
+    {
+      "id": "lit-term-imagery",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["imagery", "sensory pattern"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A paragraph repeatedly describes the bitter smell of smoke, rough ash on a sleeve, and orange light wavering on the wall. Which term most broadly names this pattern of sensory language?",
+      "choices": [
+        { "label": "A", "text": "Imagery", "rationale": "Several details appeal to smell, touch, and sight as a descriptive pattern." },
+        { "label": "B", "text": "Image", "rationale": "An image can name one concrete sensory detail; the question asks for the broader pattern." },
+        { "label": "C", "text": "Diction", "rationale": "Word choice contributes to the details, but the question asks about sensory description as a whole." },
+        { "label": "D", "text": "Mood", "rationale": "Mood is a reader effect that these details may help create, not the sensory language itself." }
+      ],
+      "answerKey": { "explanation": "Imagery is descriptive language that appeals to one or more senses, including a pattern of sensory detail. The passage's smell, touch, and sight details may also contribute to mood.", "basis": "phase4_analysis", "sourceNote": "The packet lists imagery without a teacher definition; this is supplemental Phase 4 study material and original practice.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-imagery"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked sensory channels and distinguished the descriptive pattern from its possible mood effect." }
+    },
+    {
+      "id": "lit-term-paradox",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["paradox", "contradiction", "interpretation"],
+      "difficulty": "advanced",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A character says, 'The more certain I became that I knew everything, the less I understood.' The apparent contradiction invites the reader to consider how certainty can limit understanding. Which term best describes the statement?",
+      "choices": [
+        { "label": "A", "text": "Paradox", "rationale": "The statement appears contradictory but suggests a more complex idea." },
+        { "label": "B", "text": "Hyperbole", "rationale": "The sentence does not chiefly exaggerate a quantity for emphasis." },
+        { "label": "C", "text": "Simile", "rationale": "No explicit comparison using like or as appears." },
+        { "label": "D", "text": "Situational irony", "rationale": "The prompt describes a statement, not an unexpected event outcome." }
+      ],
+      "answerKey": { "explanation": "A paradox appears self-contradictory but prompts a more complex interpretation. The packet's term record notes a supplemental definition, not a standalone teacher definition.", "basis": "phase4_analysis", "sourceNote": "The packet lists the term and discusses paradoxes in a philosophical excerpt but provides no standalone definition; example is original.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-paradox"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-paradox"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that the contradiction is meaningful and explained rather than treated as a simple error." }
+    },
+    {
+      "id": "lit-term-anti-utopian-literature",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["anti-utopian literature", "social warning"],
+      "difficulty": "advanced",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A work depicts a society organized in ways people ought to reject, criticizes those arrangements, and warns that present choices could lead toward them. Which term matches the teacher's class-note description?",
+      "choices": [
+        { "label": "A", "text": "Anti-utopian literature", "rationale": "The work presents an undesirable society as criticism and warning." },
+        { "label": "B", "text": "Bildungsroman", "rationale": "The prompt does not describe a young person's developmental arc." },
+        { "label": "C", "text": "Archetype", "rationale": "The question describes a literary form or purpose, not a recurring cultural pattern." },
+        { "label": "D", "text": "Parody", "rationale": "No imitation of a recognizable style is described." }
+      ],
+      "answerKey": { "explanation": "The teacher's class notes describe anti-utopian literature as showing society as it ought not be, criticizing existing society, and warning where it may be headed.", "basis": "teacher_material", "sourceNote": "Definition follows the class notes; the hypothetical work is original practice.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-anti-utopian-literature"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-anti-utopian"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked all three elements in the teacher-note definition: undesirable society, criticism, and warning." }
+    },
+    {
+      "id": "lit-term-diction",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["diction", "connotation", "word choice"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A writer describes a room as 'cramped' rather than 'small' to emphasize discomfort. Which literary choice is being analyzed?",
+      "choices": [
+        { "label": "A", "text": "Diction", "rationale": "The analysis concerns the writer's selection of a word and its connotation." },
+        { "label": "B", "text": "Syntax", "rationale": "The sentence arrangement has not changed; the question targets word choice." },
+        { "label": "C", "text": "Imagery", "rationale": "The question focuses on the connotation of one selected word, not a sensory pattern." },
+        { "label": "D", "text": "Tone", "rationale": "The word can contribute to tone, but the specific choice under analysis is diction." }
+      ],
+      "answerKey": { "explanation": "Diction means word choice considered for meaning, connotation, register, and pattern. 'Cramped' carries a more uncomfortable connotation than 'small.'", "basis": "phase4_analysis", "sourceNote": "The packet lists diction without a teacher definition; this is a supplemental Phase 4 study definition and original example.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-diction"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that the contrast is word-level and distinguishes diction from syntax and possible tone." }
+    },
+    {
+      "id": "lit-term-syntax",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["syntax", "sentence structure", "pacing"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A writer shifts from a long sentence full of qualifications to the abrupt fragment 'No answer.' Which choice is being analyzed when discussing how the arrangement and length of sentences create a pause?",
+      "choices": [
+        { "label": "A", "text": "Syntax", "rationale": "The analysis concerns sentence structure, length, and arrangement." },
+        { "label": "B", "text": "Diction", "rationale": "Word choice matters, but the question emphasizes sentence arrangement and length." },
+        { "label": "C", "text": "Imagery", "rationale": "No sensory detail is central to the question." },
+        { "label": "D", "text": "Allusion", "rationale": "The fragment does not refer to an outside source." }
+      ],
+      "answerKey": { "explanation": "Syntax is the arrangement and structure of words, phrases, clauses, and sentences. The short fragment can interrupt the longer rhythm and create a pause.", "basis": "phase4_analysis", "sourceNote": "The packet lists syntax without a teacher definition; this is supplemental Phase 4 study material and original example.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-syntax"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that the prompt targets sentence structure and that the stated pause is a plausible local effect." }
+    },
+    {
+      "id": "lit-term-analogy",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["analogy", "explanation", "comparison"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "To explain how revision improves an essay, a teacher compares it to tuning an instrument: both involve repeated adjustments that make the final result clearer. Which term best names this explanatory comparison?",
+      "choices": [
+        { "label": "A", "text": "Analogy", "rationale": "The comparison uses a familiar process to explain a less familiar one through shared relationships." },
+        { "label": "B", "text": "Simile", "rationale": "The comparison is explanatory and relational, not simply a brief like/as figure." },
+        { "label": "C", "text": "Allusion", "rationale": "No outside text, person, or event is referenced." },
+        { "label": "D", "text": "Foil", "rationale": "No characters are contrasted." }
+      ],
+      "answerKey": { "explanation": "An analogy explains an idea by comparing its relationships to a more familiar situation. It may use figurative language, but its explanatory function is central.", "basis": "phase4_analysis", "sourceNote": "The packet lists analogy without a teacher definition; this is a supplemental study definition and original example.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-analogy"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the shared relationships and explanatory purpose; distinguishes analogy from a brief simile." }
+    },
+    {
+      "id": "lit-term-dystopia",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["dystopia", "imagined society", "warning"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A novel is set in an imagined society governed by pervasive surveillance, harsh control, and conditions that strip people of agency. Which term most directly names this kind of society?",
+      "choices": [
+        { "label": "A", "text": "Dystopia", "rationale": "The setting is an oppressive or dehumanizing imagined society." },
+        { "label": "B", "text": "Anti-utopian literature", "rationale": "That term describes a literary presentation and warning; the question asks most directly for the society type." },
+        { "label": "C", "text": "Bildungsroman", "rationale": "No young protagonist's developmental arc is described." },
+        { "label": "D", "text": "Archetype", "rationale": "The prompt does not ask about a recurring cultural pattern." }
+      ],
+      "answerKey": { "explanation": "Dystopia names an oppressive or dehumanizing imagined society. Such a work may also be anti-utopian in purpose, but the question asks for the society itself.", "basis": "student_work", "sourceNote": "The packet's dystopia wording is student-completed, not teacher-approved; overlap with anti-utopian literature is explicitly distinguished.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-dystopia"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-dystopia"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the student definition and distinction between an oppressive society and a work's critical warning." }
+    },
+    {
+      "id": "lit-term-situational-irony",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["situational irony", "expectation", "outcome"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A town builds an elaborate alarm system to prevent flooding, but the poorly tested system releases the reservoir and causes the flood it was meant to prevent. Which term best describes the reversal between purpose and outcome?",
+      "choices": [
+        { "label": "A", "text": "Situational irony", "rationale": "The actual outcome reverses the intended or expected result." },
+        { "label": "B", "text": "Verbal irony", "rationale": "No speaker says words that mean something different from their apparent meaning." },
+        { "label": "C", "text": "Sarcasm", "rationale": "No cutting or mocking remark is described." },
+        { "label": "D", "text": "Paradox", "rationale": "The prompt describes an event outcome, not an apparently contradictory statement." }
+      ],
+      "answerKey": { "explanation": "Situational irony involves a meaningful contrast between what is expected or intended and what actually happens. The protection system causes the danger it was built to prevent.", "basis": "student_work", "sourceNote": "The wording is student-generated rather than teacher-approved; example is original practice.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-situational-irony"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-situational-irony"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the intended-versus-actual outcome reversal and distinguished it from verbal irony." }
+    },
+    {
+      "id": "lit-term-verbal-irony",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["verbal irony", "speaker meaning"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Watching a leaky roof drip into a bucket, a speaker says, 'What a perfectly dry room,' meaning the opposite of the words. Which term names the gap between the statement and intended meaning?",
+      "choices": [
+        { "label": "A", "text": "Verbal irony", "rationale": "The speaker's intended meaning conflicts with the literal words." },
+        { "label": "B", "text": "Situational irony", "rationale": "The example centers on a speaker's words, not only an event's outcome." },
+        { "label": "C", "text": "Paradox", "rationale": "The statement is not an apparent contradiction offered for deeper interpretation." },
+        { "label": "D", "text": "Allusion", "rationale": "No outside reference is made." }
+      ],
+      "answerKey": { "explanation": "Verbal irony occurs when a speaker's intended meaning differs from or opposes the literal words. The example does not by itself establish sarcasm because no cutting intent is specified.", "basis": "student_work", "sourceNote": "The packet wording is student-provided and not teacher-approved; the example clarifies that sarcasm is not assumed.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-verbal-irony"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-verbal-irony", "term-def-sarcasm"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that the prompt concerns a speaker's intended meaning and does not assume sarcasm." }
+    },
+    {
+      "id": "lit-term-existentialism",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["existentialism", "freedom", "choice", "responsibility"],
+      "difficulty": "advanced",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A character recognizes that no authority can make a choice on her behalf; she must decide how to live and accept responsibility for that decision. Which broad philosophical framework most closely matches this emphasis?",
+      "choices": [
+        { "label": "A", "text": "Existentialism", "rationale": "The emphasis is on individual existence, freedom, choice, and responsibility." },
+        { "label": "B", "text": "Absurdism", "rationale": "The prompt does not foreground the conflict between searching for meaning and a world without guaranteed meaning." },
+        { "label": "C", "text": "Dystopia", "rationale": "No oppressive imagined society is described." },
+        { "label": "D", "text": "Satire", "rationale": "No critical humor or target is described." }
+      ],
+      "answerKey": { "explanation": "The packet's reference overview emphasizes existence, subjectivity, freedom, choice, and responsibility. This is a broad study match, not a claim that one short scenario proves a complete philosophy.", "basis": "mixed", "sourceNote": "The source record distinguishes an encyclopedia overview and a separate class framework; this is not presented as a teacher-authored definition. Example is original.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-existentialism"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-existentialism", "student-existentialism-chart"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked against the reference overview's listed concepts and separated it from the packet's distinct absurdism note." }
+    },
+    {
+      "id": "lit-term-absurdism",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["absurdism", "meaning", "human experience"],
+      "difficulty": "advanced",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A character longs for a guaranteed explanation of life, recognizes that the world offers no certain answer, and continues living while accepting that unresolved tension. Which concept most closely matches the student's class wording?",
+      "choices": [
+        { "label": "A", "text": "Absurdism", "rationale": "The scenario centers on the conflict between seeking meaning and lacking a guaranteed answer, then continuing to live." },
+        { "label": "B", "text": "Existentialism only", "rationale": "Freedom and responsibility may overlap, but the prompt specifically emphasizes the search for meaning against uncertainty." },
+        { "label": "C", "text": "Situational irony", "rationale": "No expected event outcome is reversed." },
+        { "label": "D", "text": "Dystopia", "rationale": "No oppressive imagined society is described." }
+      ],
+      "answerKey": { "explanation": "The student wording describes absurdism as the conflict between seeking meaning and facing a world without guaranteed meaning, with a response of accepting the tension while continuing to live.", "basis": "student_work", "sourceNote": "The definition is student wording, not teacher-approved; the scenario is original and reflects that wording cautiously.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-absurdism"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-absurdism"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked against the student note and distinguished the specific meaning-search tension from broader existential concerns." }
+    },
+    {
+      "id": "lit-term-direct-indirect-characterization",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["direct characterization", "indirect characterization"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A character returns a lost wallet without being asked, then refuses praise and leaves quickly. Readers infer the character's values from these actions rather than being told a trait. Which method is being used?",
+      "choices": [
+        { "label": "A", "text": "Indirect characterization", "rationale": "Readers infer traits from behavior instead of receiving an explicit statement." },
+        { "label": "B", "text": "Direct characterization", "rationale": "The narrator does not explicitly state the character's trait." },
+        { "label": "C", "text": "Foreshadowing", "rationale": "The behavior is not described as a hint of a later event." },
+        { "label": "D", "text": "Point of view", "rationale": "The question concerns how a trait is conveyed, not who narrates." }
+      ],
+      "answerKey": { "explanation": "Indirect characterization lets readers infer traits from actions, speech, thoughts, appearance, or others' responses. Direct characterization states the trait explicitly.", "basis": "phase4_analysis", "sourceNote": "The packet lists the combined term without a teacher definition; this is supplemental Phase 4 terminology and original practice.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-direct-indirect-characterization"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked that readers must infer the trait from actions and that no explicit trait label appears." }
+    },
+    {
+      "id": "lit-term-kafkaesque",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["Kafkaesque", "absurdity", "alienation"],
+      "difficulty": "advanced",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A person is summoned by a faceless office, sent between contradictory departments, and never told what rule was broken; the process creates anxiety and isolation. Which reference term best fits this combination?",
+      "choices": [
+        { "label": "A", "text": "Kafkaesque", "rationale": "The scenario combines absurd, anxiety-producing systems with alienation and isolation." },
+        { "label": "B", "text": "Parody", "rationale": "No recognizable style is being imitated." },
+        { "label": "C", "text": "Foil", "rationale": "No contrasting character relationship is described." },
+        { "label": "D", "text": "Bildungsroman", "rationale": "No developmental novel arc is described." }
+      ],
+      "answerKey": { "explanation": "The packet's reference note associates Kafkaesque with alienation, absurdity, anxiety, and isolation. This question uses that source-labeled cluster rather than treating every strange event as Kafkaesque.", "basis": "phase4_analysis", "sourceNote": "Kafkaesque is recorded as reference information, not a teacher-provided definition; example is original practice.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-kafkaesque"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-kafkaesque"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the reference-note cluster and included systemic absurdity, anxiety, and isolation rather than mere strangeness." }
+    },
+    {
+      "id": "lit-term-conflict",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["conflict", "central struggle"],
+      "difficulty": "foundational",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A story's central struggle is between a young protagonist and a rule enforced by the surrounding community. Which term names this struggle that drives the plot?",
+      "choices": [
+        { "label": "A", "text": "Conflict", "rationale": "Conflict is the central struggle between opposing forces; person versus society is one type." },
+        { "label": "B", "text": "Tone", "rationale": "Tone is attitude, not the plot's central struggle." },
+        { "label": "C", "text": "Theme", "rationale": "Theme is a developed idea, not the opposing forces themselves." },
+        { "label": "D", "text": "Foil", "rationale": "The prompt describes a person-versus-society struggle, not a contrasting character." }
+      ],
+      "answerKey": { "explanation": "The completed class notes define conflict as the central struggle between opposing forces and list person versus society among its forms.", "basis": "student_work", "sourceNote": "The definition comes from a student-completed class worksheet, not a teacher-designated exam definition; scenario is original.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-conflict"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-conflict"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the opposing forces and distinguished the conflict from theme or tone." }
+    },
+    {
+      "id": "lit-term-atmosphere-description",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["atmosphere description", "mood", "setting"],
+      "difficulty": "advanced",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Using the distinction in the packet's student note, damp stone smell, blue dusk, and a low ceiling are concrete sensory details describing a setting; the unease readers feel is the mood. Which listed term names the sensory setting-description side of this distinction?",
+      "choices": [
+        { "label": "A", "text": "Atmosphere description", "rationale": "The student note uses this term for sensory setting details, distinct from the resulting reader feeling." },
+        { "label": "B", "text": "Mood", "rationale": "The prompt explicitly assigns unease, the reader response, to mood." },
+        { "label": "C", "text": "Tone", "rationale": "No narrator's attitude is specified." },
+        { "label": "D", "text": "Conflict", "rationale": "The details describe a setting, not opposing forces." }
+      ],
+      "answerKey": { "explanation": "The student note distinguishes setting description as sensory detail from atmosphere as the feeling created for a reader; the Phase 4 guide preserves this wording as student material. The terms may overlap in broader usage.", "basis": "student_work", "sourceNote": "This is a student-provided distinction, not an authoritative general definition; the question explicitly asks for the packet's term-list usage.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-atmosphere-description"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-atmosphere-description"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked against the student note and explicitly limits the item to its packet-specific terminology because broader usage can overlap." }
+    },
+    {
+      "id": "lit-term-dynamic-character",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["dynamic character", "internal change"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Over the course of a story, a character changes a deeply held belief after confronting its consequences and begins making choices based on a new value. Which term from the class worksheet best describes the character?",
+      "choices": [
+        { "label": "A", "text": "Dynamic character", "rationale": "The character undergoes significant internal change in perspective or values." },
+        { "label": "B", "text": "Foil", "rationale": "No contrasting character relationship is described." },
+        { "label": "C", "text": "Antagonist", "rationale": "The prompt does not describe opposition to a protagonist." },
+        { "label": "D", "text": "Archetype", "rationale": "The question concerns internal development, not a cultural pattern." }
+      ],
+      "answerKey": { "explanation": "The completed class notes describe a dynamic character as one who undergoes significant internal change in perspective, personality, or values.", "basis": "student_work", "sourceNote": "The wording is from a completed student worksheet, not a teacher-approved exam definition; scenario is original.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-dynamic-character"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-dynamic-character"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked for significant internal change, not simply a new action or a changed situation." }
+    },
+    {
+      "id": "lit-term-antagonist",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["antagonist", "opposition", "conflict"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A protagonist's central obstacle is a licensing agency whose rules repeatedly block the protagonist's goal. Which term can name this opposing force even though it is not a single villainous character?",
+      "choices": [
+        { "label": "A", "text": "Antagonist", "rationale": "An antagonist may be a group, force, or institution opposing the protagonist." },
+        { "label": "B", "text": "Foil", "rationale": "The agency is not described as a contrasting character." },
+        { "label": "C", "text": "Anti-hero", "rationale": "This term describes a central character lacking traditional heroic qualities." },
+        { "label": "D", "text": "Archetype", "rationale": "The question is about plot opposition, not a recognizable cultural pattern." }
+      ],
+      "answerKey": { "explanation": "The student-completed worksheet defines an antagonist broadly as a character, group, force, or institution opposing the protagonist and creating central conflict.", "basis": "student_work", "sourceNote": "This is student-completed class material, not a teacher-approved exam definition; the agency is an original practice example.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-antagonist"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-antagonist"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the worksheet definition's inclusion of institutions and avoided equating antagonist with villain." }
+    },
+    {
+      "id": "lit-term-colloquial-language",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["colloquial language", "register", "dialogue"],
+      "difficulty": "intermediate",
+      "format": "single_answer_multiple_choice",
+      "prompt": "A narrator uses informal everyday expressions and slang that sound characteristic of the speaker's community and period. Which term best describes this language register?",
+      "choices": [
+        { "label": "A", "text": "Colloquial language", "rationale": "The prompt describes informal everyday speech and slang." },
+        { "label": "B", "text": "Diction only", "rationale": "Diction concerns word choice broadly; colloquial language specifies an informal register." },
+        { "label": "C", "text": "Syntax", "rationale": "The question concerns informal word use, not sentence structure." },
+        { "label": "D", "text": "Verbal irony", "rationale": "No gap between intended and literal meaning is described." }
+      ],
+      "answerKey": { "explanation": "The student notes describe colloquial language as informal speech or slang characteristic of a time period. This item tests register, not a specific Catcher passage.", "basis": "student_work", "sourceNote": "The wording is student-completed class material; no Catcher plot or unverified PDF evidence is used.", "correctChoices": ["A"] },
+      "termEntryIds": ["term-colloquial-language"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-colloquial-language", "catcher-class-notes"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the student note's register description; prompt uses no novel-specific example or claim." }
+    },
+    {
+      "id": "lit-term-central-universal-theme",
+      "section": "literary-terms",
+      "novels": [],
+      "topics": ["central theme", "universal message", "theme statement"],
+      "difficulty": "advanced",
+      "format": "single_answer_multiple_choice",
+      "prompt": "Which option is a developed theme statement rather than a one-word topic?",
+      "choices": [
+        { "label": "A", "text": "Belonging", "rationale": "This is a topic, not a complete idea about the topic." },
+        { "label": "B", "text": "People may risk honesty to preserve belonging, but connection built on concealment remains fragile.", "rationale": "This states a developed idea about human experience that can extend beyond one story." },
+        { "label": "C", "text": "The story has three characters who move to a new town.", "rationale": "This summarizes plot details without stating a theme." },
+        { "label": "D", "text": "The author uses imagery.", "rationale": "This names a technique, not a central idea or message." }
+      ],
+      "answerKey": { "explanation": "A theme is a developed idea about a work's concerns; a universal message expresses an idea about human experience beyond one story. B makes a contestable, complete statement rather than naming a topic.", "basis": "phase4_analysis", "sourceNote": "The packet uses central/universal theme in prompts but does not define the distinction; this is supplemental Phase 4 study guidance, not a teacher rule.", "correctChoices": ["B"] },
+      "termEntryIds": ["term-central-universal-theme"],
+      "sourceRecordIds": ["review-literary-term-inventory", "req-literary-terms-multiple-choice", "term-def-central-universal-theme"],
+      "evidenceIds": [],
+      "sourceDocuments": [{ "documentId": "honors-english-10-midterm-packet", "pdfPages": [2] }],
+      "origin": "original_practice",
+      "validation": { "status": "validated", "reviewSummary": "Checked the distinction between topic, plot summary, technique, and a complete interpretive statement; labeled as supplemental." }
+    }
+  ]
+}

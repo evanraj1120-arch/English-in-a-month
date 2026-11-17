@@ -1,0 +1,84 @@
+[
+  {
+    "id": "practice-without-title-poem",
+    "classification": "teacher_provided_practice_question",
+    "itemType": "poetry_practice_set",
+    "topic": "Diane Glancy, 'Without Title'",
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [3, 4, 9], "section": "Poetry practice / multiple choice and short answer"},
+    "content": "The packet provides the complete poem and a 10-question multiple-choice set plus two short-answer questions. The poem's practice targets cultural symbolism, inference, word meaning in context, tone, imagery, and theme. Question text and answer-key entries below are transcribed from the packet; the key is not silently corrected.",
+    "practiceQuestions": [
+      {"id":"without-title-01","prompt":"In lines 1–2, the buffalo, the shaman, and the arrow symbolize:","options":[{"label":"A","text":"fun memories from the father’s childhood."},{"label":"B","text":"the traditions of the father’s culture."},{"label":"C","text":"leisure activities that the father has no time for."},{"label":"D","text":"the father’s vivid imagination."}],"printedAnswer":"B","answerStatus":"printed_unreviewed"},
+      {"id":"without-title-02","prompt":"When the speaker says in line 3 that “my father went out each day to hunt,” it means that he:","options":[{"label":"A","text":"hunted for buffalo every day."},{"label":"B","text":"pretended to go buffalo hunting."},{"label":"C","text":"went to work to provide for his family."},{"label":"D","text":"was unemployed and looking for a job."}],"printedAnswer":"C","answerStatus":"printed_unreviewed"},
+      {"id":"without-title-03","prompt":"In line 7, “No one marked his first kill,” the word marked means:","options":[{"label":"A","text":"celebrated with a ritual."},{"label":"B","text":"drew a symbol on."},{"label":"C","text":"witnessed directly."},{"label":"D","text":"evaluated the event."}],"printedAnswer":"A","answerStatus":"printed_unreviewed"},
+      {"id":"without-title-04","prompt":"Readers can infer that the “buffalo song” in line 8 refers to:","options":[{"label":"A","text":"a song sung at funerals in the father’s culture."},{"label":"B","text":"a chant performed to ensure a successful buffalo hunt."},{"label":"C","text":"a call used by hunters to attract buffalo."},{"label":"D","text":"a ceremony performed when a boy kills his first buffalo."}],"printedAnswer":"D","answerStatus":"printed_unreviewed"},
+      {"id":"without-title-05","prompt":"Why does the speaker point out that his or her father came to the city “Without a vision” (line 9)?","options":[{"label":"A","text":"to emphasize the lack of spiritual meaning in his life."},{"label":"B","text":"to suggest that he should have given the decision more thought."},{"label":"C","text":"to imply that he would have been happier in a different city."},{"label":"D","text":"to question his motives for choosing the life he did."}],"printedAnswer":"A","answerStatus":"printed_unreviewed"},
+      {"id":"without-title-06","prompt":"Readers can infer that the speaker’s mother:","options":[{"label":"A","text":"loves the family’s life in the city."},{"label":"B","text":"does not appreciate her husband’s feelings."},{"label":"C","text":"disapproves of the work her husband does."},{"label":"D","text":"is a tidy housekeeper who dislikes clutter."}],"printedAnswer":"C","answerStatus":"printed_unreviewed"},
+      {"id":"without-title-07","prompt":"The description of the father leaving the house in lines 14–17 creates a tone of:","options":[{"label":"A","text":"irony, because a car’s aerial is nothing like a bow string."},{"label":"B","text":"optimism, because city life has some similarities with the father’s culture."},{"label":"C","text":"terror, because the speaker sees a dangerous wildness in the father."},{"label":"D","text":"sadness, because the father’s life is so far removed from his values."}],"printedAnswer":"D","answerStatus":"printed_unreviewed"},
+      {"id":"without-title-08","prompt":"Which lines create a vivid sensory image for readers?","options":[{"label":"A","text":"‘but my father went out each day to hunt / as though he had them’ (lines 3–4)"},{"label":"B","text":"‘No one marked his first kill, / no one sang his buffalo song’ (lines 7–8)"},{"label":"C","text":"‘Without a vision he had migrated to the city / and went to work in the packing house’ (lines 9–10)"},{"label":"D","text":"‘I remember the animal tracks of his car / backing out the drive in snow and mud’ (lines 14–15)"}],"printedAnswer":"D","answerStatus":"printed_unreviewed"},
+      {"id":"without-title-09","prompt":"Why can’t the speaker see “the red buffalo painted on his chest” (line 19)?","options":[{"label":"A","text":"The speaker is too young to understand the traditional values important to the father."},{"label":"B","text":"The buffalo represents the father’s heritage buried beneath the surface of his modern life."},{"label":"C","text":"The father has never discussed the significance of the buffalo hunt with his family."},{"label":"D","text":"The speaker does not want to embarrass the father by asking to see the red buffalo."}],"printedAnswer":"B","answerStatus":"printed_unreviewed"},
+      {"id":"without-title-10","prompt":"Which statement best expresses the theme of the poem?","options":[{"label":"A","text":"Connections to one’s cultural heritage and to nature give meaning to life."},{"label":"B","text":"It is impossible to appreciate food unless one has experienced hunting."},{"label":"C","text":"Human beings are more like animals than modern society allows us to see."},{"label":"D","text":"Life in a city can be fulfilling, but only if one is willing to forget the past."}],"printedAnswer":"A","answerStatus":"printed_unreviewed"},
+      {"id":"without-title-11","prompt":"In the last line of the poem, why did the poet choose to say “his buffalo grunts like a snore” instead of “his snore like buffalo grunts”?","teacherCriteria":["The printed suggested answer says the phrasing identifies the father with the buffalo and emphasizes his connection to heritage; although he may seem to snore, the speaker understands him as dreaming of the buffalo hunt."]},
+      {"id":"without-title-12","prompt":"What is the speaker’s attitude (tone) toward his or her father? Cite two details to support your answer.","teacherCriteria":["The packet labels the responses as suggested answers and offers compassionate, sad, or respectful attitudes, each supported by lines from the poem. A response should identify an attitude and cite two details."]}
+    ],
+    "verificationStatus": "checked_pdf_text",
+    "uncertainty": "The printed answer key on PDF page 9 gives Q7=D and Q8=D. These are stored as printed but unreviewed answers; do not treat the transcription as independent confirmation that the key is pedagogically correct."
+  },
+  {
+    "id": "practice-allen-editorial-and-brennan-opinion",
+    "classification": "teacher_provided_practice_question",
+    "itemType": "close_reading_practice_set",
+    "topic": "Argument and evidence comparison",
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [5, 6, 7, 8, 9, 10], "section": "American Flag Stands for Tolerance / Texas v. Johnson opinion excerpt"},
+    "content": "Practice materials reproduce Ronald J. Allen’s editorial 'American Flag Stands For Tolerance' and an excerpt from William J. Brennan’s Texas v. Johnson majority opinion. The questions test argument, point of view, vocabulary in context, irony, and comparison of evidence/reasoning. Source passages remain in the PDF; this database stores their provenance and questions rather than duplicating the full essays.",
+    "practiceQuestions": [
+      {"id":"flag-editorial-01","prompt":"Allen compares the Supreme Court decision on flag burning with the Chinese government’s decision regarding protesters in Tiananmen Square to show that:","options":[{"label":"A","text":"the U.S. and China agree on how to treat protesters."},{"label":"B","text":"protests are becoming less peaceful around the world."},{"label":"C","text":"allowing protest is fundamental to the U.S. ideal."},{"label":"D","text":"the two events have little relationship to one another."}],"printedAnswer":"C","answerStatus":"printed_unreviewed"},
+      {"id":"flag-editorial-02","prompt":"What is Allen’s attitude toward those who think that burning the flag should not be allowed as a form of protest?","options":[{"label":"A","text":"He believes they are ignorant and narrow-minded."},{"label":"B","text":"He fears that they want to eliminate all forms of protest."},{"label":"C","text":"He strongly supports their position."},{"label":"D","text":"He understands and respects their concerns."}],"printedAnswer":"D","answerStatus":"printed_unreviewed"},
+      {"id":"flag-editorial-03","prompt":"According to Allen, what distinguishes the United States from other countries?","options":[{"label":"A","text":"a commitment to freedoms of conscience and expression"},{"label":"B","text":"a widespread and deeply felt reverence for the flag"},{"label":"C","text":"the imposition of governmental orthodoxy in political speech"},{"label":"D","text":"requiring people to show a modicum of respect for the flag"}],"printedAnswer":"A","answerStatus":"printed_unreviewed"},
+      {"id":"flag-editorial-04","prompt":"Allen says that some people infer that “freedom of expression stops at the border of the flag.” What is the meaning of the words in quotation marks?","options":[{"label":"A","text":"Each country has the right to protect the flag from protesters."},{"label":"B","text":"Harming the flag is not allowed under freedom of expression."},{"label":"C","text":"People cannot express themselves within U.S. borders."},{"label":"D","text":"People cannot protest at government buildings where the flag is flown."}],"printedAnswer":"B","answerStatus":"printed_unreviewed"},
+      {"id":"flag-editorial-05","prompt":"Allen’s point of view is that burning the flag sparks controversy because it:","options":[{"label":"A","text":"communicates in a powerful way."},{"label":"B","text":"endangers people’s lives and property."},{"label":"C","text":"facilitates meaningful dialogue."},{"label":"D","text":"threatens Americans’ basic freedoms."}],"printedAnswer":"A","answerStatus":"printed_unreviewed"},
+      {"id":"flag-editorial-06","prompt":"Which sentence best summarizes how the First Amendment protects freedom of expression?","options":[{"label":"A","text":"Only expression that offends one is protected."},{"label":"B","text":"Speech is protected but symbolic actions are not."},{"label":"C","text":"Even distasteful expressions of opinion are protected."},{"label":"D","text":"There are no exceptions to freedom of expression."}],"printedAnswer":"C","answerStatus":"printed_unreviewed"},
+      {"id":"flag-editorial-07","prompt":"Orthodoxy means:","options":[{"label":"A","text":"accepted codes."},{"label":"B","text":"informal rules."},{"label":"C","text":"personal opinions."},{"label":"D","text":"unconventional ideas."}],"printedAnswer":"A","answerStatus":"printed_unreviewed"},
+      {"id":"flag-editorial-08","prompt":"What word is most closely related to the meaning of sanctity?","options":[{"label":"A","text":"hypocrisy"},{"label":"B","text":"irreverence"},{"label":"C","text":"sacredness"},{"label":"D","text":"wickedness"}],"printedAnswer":"C","answerStatus":"printed_unreviewed"},
+      {"id":"flag-editorial-09","prompt":"A dogma is a principle most often put forth by:","options":[{"label":"A","text":"an authority."},{"label":"B","text":"an individual."},{"label":"C","text":"a minority."},{"label":"D","text":"a child."}],"printedAnswer":"A","answerStatus":"printed_unreviewed"},
+      {"id":"flag-editorial-10","prompt":"Dissenters are people who most likely:","options":[{"label":"A","text":"conform."},{"label":"B","text":"disagree."},{"label":"C","text":"agree."},{"label":"D","text":"mediate."}],"printedAnswer":"B","answerStatus":"printed_unreviewed"},
+      {"id":"flag-editorial-11","prompt":"Allen says people who support flag burners might “note an irony in my argument.” Explain what Allen means, using details from the editorial to support your answer.","teacherCriteria":["Printed answer explains that Allen advances a dogma—that Americans may think and express anything—to defend rejecting official dogma, while arguing that freedom of conscience/expression must be protected even when speech is offensive."]},
+      {"id":"flag-editorial-12","prompt":"Compare the reasons and evidence used in the editorial with those used in the excerpt from Texas v. Johnson Majority Opinion written by Justice Brennan. Cite specific examples and explain why each writer uses such reasons and evidence.","teacherCriteria":["Printed answer notes both writers treat the flag as a cherished symbol tied to national principles. It distinguishes Brennan’s case-specific legal reasoning and precedent from Allen’s editorial response to broader objections."]}
+    ],
+    "verificationStatus": "checked_pdf_text"
+  },
+  {
+    "id": "practice-1984-two-minute-hate-annotation",
+    "classification": "teacher_provided_explanation_or_example",
+    "itemType": "annotation_model_passage",
+    "topic": "Model passage annotation: point of view and symbolic imagery",
+    "novels": ["1984"],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [1, 2], "section": "Passage annotation example"},
+    "content": "The review supplies a passage from the Two Minutes Hate in which Goldstein’s image shifts to an enemy soldier, then to Big Brother, followed by the Party slogans and a woman’s prayer-like response. Students are expected to annotate specific words, images, elements, and effects. Full passage is retained in the source PDF.",
+    "quotations": [    {"classification":"literary_evidence_or_quotation","exactWording":"WAR IS PEACE / FREEDOM IS SLAVERY / IGNORANCE IS STRENGTH","workOrSource":"1984","speakerOrContext":"Party slogans displayed after the Two Minutes Hate image sequence.","bookCitationAsSupplied":"(Orwell Chap. 1)","verificationStatus":"checked_pdf_text","uncertainty":"The citation is supplied for the passage as a whole, not assigned separately to this slogan excerpt."}],
+    "verificationStatus": "checked_pdf_text"
+  },
+  {
+    "id": "practice-close-reading-exercise-types",
+    "classification": "teacher_provided_explanation_or_example",
+    "itemType": "practice_scope",
+    "topic": "Close-reading genres",
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [5, 10], "section": "Close Reading and Response notice and practice"},
+    "content": "The announced close-reading exercise uses one persuasive essay, one poem, and one fiction passage, each followed by questions. Included practice texts in the packet include Allen's editorial and Brennan's opinion excerpt, Glancy's poem, and fiction passages from 1984 and The Glass Castle.",
+    "verificationStatus": "checked_pdf_text",
+    "uncertainty": "The packet does not establish that the exact practice passages will appear on the exam."
+  },
+  {
+    "id": "practice-vocabulary-and-poetry-lists",
+    "classification": "teacher_provided_explanation_or_example",
+    "itemType": "practice-scope",
+    "topic": "Named class poems and literary-device practice",
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [2], "section": "Poetry multiple-choice review"},
+    "content": "The review names 'Nothing Gold Can Stay', 'Out, Out', 'The Tyger', 'Comin Thro the Rye', and 'War is Kind' as poems studied in class for practice. The packet only reproduces Diane Glancy's 'Without Title' as a complete poem with questions; it does not include the full texts of the five named poems here.",
+    "verificationStatus": "checked_pdf_text",
+    "uncertainty": "Do not imply that the five named poems' texts, teacher interpretations, or answer keys are present in this packet."
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "id":"metamorphosis-kafka-notes",
+    "classification":"reference_information",
+    "itemType":"author-and-style-notes",
+    "topic":"Kafka biography, Kafkaesque, existential framework, and style",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[51,55,120,125],"assignmentName":"Assignment 7 / Notes 5: Kafka and existentialism"},
+    "content":"The packet contains Kafka biographical notes, a six-part existential framework (existence precedes essence; the Look; beyond good and evil; existential angst; difficulties of communication; irrational world), a philosophical overview attributed to Encarta Concise Encyclopedia, Kafka-style notes (third-person narration limited to Gregor's perspective, nonjudgmental style, focus on experience of change), and a list of symbols. Classification is reference information from the class packet; accuracy of biography and philosophical claims has not been independently checked.",
+    "verificationStatus":"not_independently_verified",
+    "uncertainty":"This packet section mixes class notes, a cited encyclopedia excerpt, and filled-in work. Do not attribute every definition to the teacher."
+  },
+  {
+    "id":"student-existentialism-chart",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"comparative-concept-chart",
+    "topic":"Existentialism in The Metamorphosis and three other selections",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[56,58],"assignmentName":"Assignment 8: Defining Traits of Existentialism"},
+    "content":"The student compares seeking purpose/meaning, death, an irrational world, the Look, and communication across The Metamorphosis, Sophie's World, 'The Killers', and the Sisyphus myth. For Gregor, the student says he works despite hating the job to support his family; after transformation others' perception changes his self-perception; communication fails because he understands family speech but they cannot understand his. The student explicitly says some Sisyphus examples for the Look and communication are weak or absent. Preserve the student's qualifications and comparisons.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-metamorphosis-symbols",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"symbol-analysis",
+    "topic":"Symbols in The Metamorphosis",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[59,61],"assignmentName":"Assignment 9: Symbols"},
+    "content":"Student table records literal object/action, interpretation, and reader purpose. Apple: rejection and lasting injury; music: Gregor's humanity and desire for connection; lodgers: his frightening appearance becomes an economic burden; charwoman: bluntness makes the family's changing attitude visible and normalizes poor conditions; imagined marriage: family optimism/relief after Gregor's death; room door: barrier and isolation; stripped room: loss of furniture mirrors loss of humanity. The student's reader-purpose statements include broad lessons such as people being discarded when no longer useful; these are not teacher-endorsed universal messages.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"One apple...came flying after it literally forced its way into Gregor’s back","workOrSource":"The Metamorphosis","speakerOrContext":"Student's apple-symbol evidence.","bookCitationAsSupplied":"(Kafka 39)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"For him it was as if the way to the unknown nourishment he craved was revealing itself to him","workOrSource":"The Metamorphosis","speakerOrContext":"Student's music-symbol evidence.","bookCitationAsSupplied":"(Kafka 64)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"I immediately cancel my room. I will, of course, pay nothing at all for the days which I have lived here; on the contrary I shall think about whether or not I will initiate some sort of action against you, something which—believe me—will be very easy to establish","workOrSource":"The Metamorphosis","speakerOrContext":"The lodger's response when Gregor is seen.","bookCitationAsSupplied":"(Kafka 67)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"Come and look. It’s kicked the bucket. It’s lying there, totally snuffed!","workOrSource":"The Metamorphosis","speakerOrContext":"Charwoman discovers Gregor's body.","bookCitationAsSupplied":"(Kafka 72)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"Growing more silent and almost unconsciously understanding each other in their glances, they thought that the time was now at hand to seek out a good honest man for her","workOrSource":"The Metamorphosis","speakerOrContext":"Family imagines Grete's future marriage after Gregor's death.","bookCitationAsSupplied":"(Kafka 77)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"The door was slammed shut with the cane, and finally it was quiet","workOrSource":"The Metamorphosis","speakerOrContext":"Student's door-as-isolation evidence.","bookCitationAsSupplied":"(Kafka 26)","verificationStatus":"not_independently_verified"}
+    ],
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-metamorphosis-character-roles",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"character-and-development-chart",
+    "topic":"Family character roles before and after Gregor's transformation",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[61,64],"assignmentName":"Assignment 9: character roles and stages of Gregor"},
+    "content":"The student describes Grete as caring before the transformation and initially helpful afterward, then as the first to say the insect should be removed; Mr. Samsa as initially dependent on Gregor and later working and driving him away; Mrs. Samsa as physically ill and financially dependent, then pitying yet frightened; the chief clerk as a demanding supervisor who flees; the charwoman as unfazed; and lodgers as disgusted and unwilling to pay. The student says these roles show that care can be conditional and workers are treated as expendable. The student stage chart describes Gregor as lonely, duty-bound, anxious, then isolated/rejected, finding some enjoyment, and finally dead; several symbolic meanings are assigned by the student. Keep this interpretation set attributed to the student.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"Only the sister had remained still close to Gregor, and it was his secret plan to send her (in contrast to Gregor she loved music very much and knew how to play the violin charmingly) next year to the conservatory","workOrSource":"The Metamorphosis","speakerOrContext":"Student evidence of Grete's earlier relationship with Gregor.","bookCitationAsSupplied":"(Kafka 35)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"I say only that we must try to get rid of it","workOrSource":"The Metamorphosis","speakerOrContext":"Grete's later statement, used by the student to mark change.","bookCitationAsSupplied":"(Kafka 68)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"Your productivity has also been very unsatisfactory recently","workOrSource":"The Metamorphosis","speakerOrContext":"Chief clerk's criticism, cited in the student's character chart.","bookCitationAsSupplied":"(Kafka 15)","verificationStatus":"not_independently_verified"}
+    ],
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-metamorphosis-stages",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"character-development-interpretation",
+    "topic":"Student's staged interpretation of Gregor",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[63,64],"assignmentName":"Assignment 9: Gregor Development / Stages"},
+    "content":"Student stages Gregor from responsible salesman to initially panicked insect, then an insect who crawls on the ceiling and eats garbage, then an angry/rejected insect, and finally death. Student argues the family used him, that he accepts life for himself, and that his death makes him 'happy and free.' The death-as-freedom/acceptance claims are the student's interpretations and should be flagged for review rather than stated as established meaning.",
+    "verificationStatus":"needs_review",
+    "uncertainty":"The student moves between distinct claims about acceptance, anger, and being happy/free after death. Preserve the wording and review against the complete story before using as a study explanation."
+  },
+  {
+    "id":"student-metamorphosis-annotation",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"passage-analysis",
+    "topic":"Violin passage: syntax, tone, rhetorical question, and simile",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[65,68],"assignmentName":"Assignment 10: Passage Analysis (Close Reading)"},
+    "content":"The student identifies third-person narration; describes the syntax as complex and clause-heavy, making Gregor's imagination vivid and showing his human capacity; calls the tone intense/depressed and the mood unsettling/gloomy; interprets the rhetorical question about whether music makes Gregor an animal as contrasting insect appearance with human feeling; and reads 'like a dragon' as a simile showing both protectiveness and frightening appearance. The student also labels the sister's ribbon/collar as a symbol of womanhood. All are student analyses of the supplied passage.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"Was he an animal, since music so moved him?","workOrSource":"The Metamorphosis","speakerOrContext":"Student identifies this as a rhetorical question in the violin passage.","verificationStatus":"checked_pdf_text"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"like a dragon","workOrSource":"The Metamorphosis","speakerOrContext":"Student identifies this comparison as a simile in Gregor's imagined plan.","verificationStatus":"checked_pdf_text"}
+    ],
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"No book-page citation is supplied for the reproduced assignment passage itself. The assignment's phrase '3rd person' is the student's answer, not independently checked narratological commentary."
+  },
+  {
+    "id":"teacher-graphic-novel-assignment-instructions",
+    "classification":"teacher_instruction_or_exam_requirement",
+    "itemType":"assignment-directions-and-status",
+    "topic":"Peter Kuper graphic novel comparison and vocabulary work",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[68,87,88,89,90,91],"assignmentName":"Assignment 11: The Metamorphosis Graphic Novel by Peter Kuper"},
+    "content":"Directions ask students to note questions while reading, compare prose and graphic media with textual evidence, respond to questions about the boss, word/image choices, time, and Kafkaesque qualities, and complete critical-vocabulary semantic maps and context-clue exercises. The Venn diagram on p. 87 contains a completed student response; the response spaces for the later questions and word-choice tasks are blank in the packet. The assignment is labeled late/0%; this status is packet metadata, not a measure of mastery.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"Pages 69-86 are image-only; they were visually reviewed. The graphic selection is summarized in a separate reference record rather than transcribed."
+  },
+  {
+    "id":"student-absurdism-chart",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"conceptual-comparison",
+    "topic":"Absurdism across Sisyphus, Metamorphosis, Sophie's World, and a Honey Boo Boo clip",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[91,92,93,94],"assignmentName":"Assignment 12: Absurdism Purpose Chart"},
+    "content":"Student chart contrasts realistic details and absurd elements in four selections. Student defines absurdism as a conflict between the search for meaning and an absence of meaning, paired with accepting and rebelling against that condition by embracing life; links realistic details to emotional force; and argues absurd situations make claims memorable. These are student definitions and conclusions, not teacher-approved philosophical definitions.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"The chart contains student language and evaluative claims about the reality-TV clip; preserve without presenting as verified sociological analysis."
+  },
+  {
+    "id":"student-metamorphosis-themes",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"theme-analysis",
+    "topic":"Student-generated Metamorphosis theme claims",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[127,129],"assignmentName":"Notes 7: assigned theme presentations"},
+    "content":"Student theme claims include: economic strain can alter relationships; family duty exhausts Gregor; loss of economic utility causes alienation; escape may be associated with freedom; guilt can make people feel like burdens; and identity is shaped by treatment and social contribution. Student universal messages include living for oneself, not feeling guilty for uncontrollable events, and treating people with dignity regardless of economic value. Preserve these as student arguments and flag broad or contradictory formulations for later review.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"Some messages—especially 'the only way to feel free is to escape life' and 'one will be alienated ... if they lose their functional purpose'—are strong generalizations. They are student claims, not teacher expectations."
+  },
+  {
+    "id":"student-graphic-novel-venn-analysis",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"medium-comparison-response",
+    "topic":"Student comparison of Kafka's prose and Kuper's graphic adaptation",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[87],"assignmentName":"Assignment 11: Analyze Representations in Different Mediums"},
+    "content":"In the completed Venn diagram, the student contrasts the graphic novel's panels, fonts, facial expressions, black-and-white contrasts, and visual storytelling with the prose novella's complex syntax, detailed narration, and extended treatment of time. The student says both versions show Gregor's transformation, create confusion/oppression, develop isolation, and present Kafkaesque alienation, isolation, and absurdity. Preserve these as the student's comparative claims, not a teacher answer key.",
+    "verificationStatus":"checked_page_image",
+    "uncertainty":"The response is visually printed on p. 87; the later comparison questions have blank response areas."
+  },
+  {
+    "id":"teacher-existentialism-chart-directions",
+    "classification":"teacher_instruction_or_exam_requirement",
+    "itemType":"assignment-directions",
+    "topic":"Existentialism comparison chart",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[56,57,58],"assignmentName":"Assignment 8: Defining Traits of Existentialism"},
+    "content":"Students are asked to identify clarifying phrases in the definition of existentialism, include at least three additional definition points, and provide examples from each selection. The directions explicitly say not every selection will have an example for every trait. The completed chart includes The Metamorphosis, Sophie's World, 'The Killers', and the Sisyphus myth.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"teacher-metamorphosis-symbol-character-directions",
+    "classification":"teacher_instruction_or_exam_requirement",
+    "itemType":"assignment-directions",
+    "topic":"Symbol, character-role, and Gregor-development charts",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[59,60,61,62,63,64],"assignmentName":"Assignment 9: Symbols and Character Roles"},
+    "content":"The packet asks students to fill symbol tables connecting literal details, textual support, symbolic meaning, and reader purpose; compare character roles before and after Gregor's transformation with evidence; and complete a prior/initial/after development chart and stages chart. The existing student responses are preserved separately and include claims that require review.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"teacher-metamorphosis-passage-analysis-directions",
+    "classification":"teacher_instruction_or_exam_requirement",
+    "itemType":"assignment-directions",
+    "topic":"Kafka passage analysis and SOAPST",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[65,66,67,68],"assignmentName":"Assignment 10: Passage Analysis (Close Reading)"},
+    "content":"Students are directed to reread the Part III violin passage, annotate and explain how literary devices reveal larger themes and Kafka's style, and use the SOAPST method. The response prompts ask for speaker/point of view, syntax and effect, tone with diction, and at least two identified devices with explanations. The student response remains a separate interpretation record.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"teacher-annotation-notes",
+    "classification":"teacher_provided_explanation_or_example",
+    "itemType":"annotation-guidance",
+    "topic":"Annotating The Metamorphosis",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[125,126,127],"assignmentName":"Notes 6: Annotation"},
+    "content":"The notes define annotation as adding notes to engage actively with a text. They direct students to read for central themes, underline or highlight key sentences, write brief margin summaries, circle and label literary devices, and explain how devices contribute to meaning. Alienation and identity are offered as example themes; imagery, tone, symbolism, and absurdism are named for attention.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"teacher-metamorphosis-theme-presentation-directions",
+    "classification":"teacher_instruction_or_exam_requirement",
+    "itemType":"assignment-directions",
+    "topic":"Assigned theme presentations",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[127,128,129],"assignmentName":"Notes 7: Assigned Theme Presentations"},
+    "content":"For an assigned theme, students identify the central theme, characters that develop it and how, symbols that develop it and how, and a universal theme. Completed student arguments are recorded separately and are not teacher-approved conclusions.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"teacher-absurdism-assignment-directions",
+    "classification":"teacher_instruction_or_exam_requirement",
+    "itemType":"assignment-directions",
+    "topic":"Absurdism purpose chart",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[91,92,93,94],"assignmentName":"Assignment 12: Absurdism Purpose Chart"},
+    "content":"The chart asks students to compare realistic elements, absurd elements, author purpose/motivation, and cultural/societal effects across the Sisyphus myth, The Metamorphosis, Sophie's World, and a Honey Boo Boo clip, then answer questions about absurdism, realism, their connection, and audience response. Student definitions and conclusions are kept separate.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"teacher-critical-vocabulary-strategy",
+    "classification":"teacher_provided_explanation_or_example",
+    "itemType":"vocabulary-instruction",
+    "topic":"Critical vocabulary and context-clue verification",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[89,90,91],"assignmentName":"Assignment 11: Critical Vocabulary"},
+    "content":"The vocabulary list is vermin, subordinate, plaintively, and enunciate. Students are asked to create semantic maps, infer meanings from a sentence and surrounding context before consulting a dictionary, then verify or revise their definitions. The packet supplies a completed semantic-map example for 'desperate'; the three word-choice response spaces are blank.",
+    "verificationStatus":"checked_page_image",
+    "uncertainty":"The semantic-map example is embedded as an image on p. 89; no student-generated word-choice answers are supplied."
+  },
+  {
+    "id":"metamorphosis-plot-coverage-status",
+    "classification":"unverified_or_ambiguous_information",
+    "itemType":"coverage-status",
+    "topic":"Partial Metamorphosis plot/event record from class work",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[59,60,61,62,63,64,65,68],"section":"Student character-role, development, and passage-analysis work"},
+    "content":"The packet contains a student-generated staged event outline for Gregor's transformation, family responses, isolation, and death, alongside character and passage assignments. These materials provide selected events, not a teacher-authored, verified full plot synopsis. Preserve the staged outline under the student's original classification.",
+    "verificationStatus":"needs_review",
+    "uncertainty":"Review the student event sequence against the complete class text before presenting it as verified plot recall."
+  },
+  {
+    "id":"reference-metamorphosis-ian-johnston",
+    "classification":"reference_information",
+    "itemType":"supplementary-full-text-reference",
+    "topic":"The Metamorphosis, translated by Ian Johnston",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"reference-metamorphosis-ian-johnston-1999","pdfPages":[3,15,44,52,64,68,72],"section":"Complete novella; selected textual evidence"},
+    "content":"A complete 77-page PDF of The Metamorphosis. Its title page identifies Franz Kafka and the text identifies Ian Johnston as translator; the document states that this student text was released into the public domain in January 1999. It supports a full plot chronology and selected textual evidence but is not confirmed as the assigned class translation.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"What’s happened to me","workOrSource":"The Metamorphosis, translated by Ian Johnston","speakerOrContext":"Gregor's first reaction to the transformation; PDF p. 3.","verificationStatus":"checked_pdf_text"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"Your productivity has also been very unsatisfactory recently.","workOrSource":"The Metamorphosis, translated by Ian Johnston","speakerOrContext":"The chief clerk's criticism of Gregor's work; PDF p. 15.","verificationStatus":"checked_pdf_text"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"he couldn’t function without the beneficial influences of his furniture.","workOrSource":"The Metamorphosis, translated by Ian Johnston","speakerOrContext":"Gregor resists the removal of his room's furniture; PDF p. 44.","verificationStatus":"checked_pdf_text"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"drove into Gregor’s back really hard.","workOrSource":"The Metamorphosis, translated by Ian Johnston","speakerOrContext":"The second apple hits Gregor and worsens his injury; PDF p. 52.","verificationStatus":"checked_pdf_text"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"Was he an animal that music so seized him?","workOrSource":"The Metamorphosis, translated by Ian Johnston","speakerOrContext":"Narration close to Gregor as he listens to Grete's violin; PDF p. 64.","verificationStatus":"checked_pdf_text"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"we must try to get rid of it.","workOrSource":"The Metamorphosis, translated by Ian Johnston","speakerOrContext":"Grete's conclusion during the family confrontation; PDF p. 68.","verificationStatus":"checked_pdf_text"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"It’s kicked the bucket.","workOrSource":"The Metamorphosis, translated by Ian Johnston","speakerOrContext":"The charwoman announces that Gregor is dead; PDF p. 72.","verificationStatus":"checked_pdf_text"}
+    ],
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"PDF page numbers identify this specific reference copy only. Its translation and pagination are not confirmed as those used in class; retain and check any class-supplied wording and citations separately."
+  }
+]

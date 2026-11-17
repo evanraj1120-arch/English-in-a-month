@@ -1,0 +1,452 @@
+[
+  {
+    "id": "exam-prep-novel-comparison",
+    "componentRecordId": "req-novel-comparison-essay",
+    "title": "Novel comparison essay",
+    "teacherRequirements": [
+      {
+        "id": "exam-compare-req-prompt",
+        "text": "The exam asks for an argued and supported position comparing and contrasting characters, symbols, and central or universal ideas across the novels. Stated value: 20 points.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-novel-comparison-essay"]
+      },
+      {
+        "id": "exam-compare-req-novel-review",
+        "text": "The review says students should know each novel's main characters, conflicts, settings, themes, symbols or motifs, basic plot, and literary elements.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-novel-knowledge"]
+      },
+      {
+        "id": "exam-compare-req-sceen",
+        "text": "The teacher's S-C-E-E-N framework asks students to state the main point, clarify it, give concrete examples, explain how they support the point, and wrap up quickly.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-sceen-framework", "req-test-taking-advice"]
+      }
+    ],
+    "method": [
+      {
+        "id": "exam-compare-method-thesis",
+        "text": "Parse the prompt into its required works and comparison focus. Form a defensible claim about a meaningful similarity or contrast; make the claim comparative rather than writing one disconnected mini-summary per book.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["req-novel-comparison-essay", "req-test-taking-advice"]
+      },
+      {
+        "id": "exam-compare-method-evidence",
+        "text": "Choose a specific event, image, relationship, or language choice from each work. Verify quotations and page numbers against the assigned editions; the packet's student citations for 1984 and The Glass Castle have not all been checked, and Catcher materials are incomplete.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["1984-plot-coverage-gap", "catcher-plot-and-evidence-coverage-gap", "glass-castle-plot-and-character-coverage-gap"]
+      },
+      {
+        "id": "exam-compare-method-reasoning",
+        "text": "After each example, explain what it shows and how the difference or similarity advances the claim. Name an important limitation so the comparison does not imply that different characters, pressures, or genres are identical.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["req-test-taking-advice", "req-sceen-framework"]
+      },
+      {
+        "id": "exam-compare-method-structure",
+        "text": "A useful paragraph sequence is: comparative point; specific example from one work; explanation; specific example from the other work; explanation of the relationship; brief qualification or implication. Adapt the sequence to the prompt rather than treating it as a teacher-mandated format.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["req-sceen-framework", "req-novel-comparison-essay"]
+      }
+    ],
+    "modelAnalysis": [
+      {
+        "id": "exam-compare-model-claim",
+        "text": "Model comparative claim: both 1984 and The Glass Castle depict authority limiting personal freedom, but Orwell presents a state seeking ideological submission, while Walls's memoir presents parental power entangled with affection and harm.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-glass-castle-tyrant-comparison", "student-glass-castle-archetypes"],
+        "evidenceIds": ["ev-1984-truncheon", "ev-glass-castle-rex-discipline", "ev-glass-castle-rex-love"]
+      },
+      {
+        "id": "exam-compare-model-evidence",
+        "text": "The student's truncheon passage about O'Brien supports a point about institutional coercion. In The Glass Castle, the student's passage about Rex's belt supports a point about domestic punishment, while Jeannette's remembered affection prevents the comparison from flattening Rex into a one-dimensional tyrant.",
+        "origin": "student_work",
+        "sourceRecordIds": ["student-glass-castle-tyrant-comparison", "student-glass-castle-archetypes"],
+        "evidenceIds": ["ev-1984-truncheon", "ev-glass-castle-rex-discipline", "ev-glass-castle-rex-love"],
+        "uncertainty": "The 1984 page citation is unverified and the packet warns that some citations may be inaccurate."
+      },
+      {
+        "id": "exam-compare-model-analysis",
+        "text": "The comparison rests on a limited shared effect—reduced agency—not on identical motives or scale. The state uses organized torture to enforce political conformity; Rex's authority operates within a family relationship that includes both love and harm. This qualification makes the claim more defensible.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["teacher-1984-book-chat-notes", "student-glass-castle-tyrant-comparison", "student-glass-castle-archetypes"],
+        "evidenceIds": ["ev-1984-truncheon", "ev-glass-castle-rex-discipline", "ev-glass-castle-rex-love"]
+      }
+    ],
+    "commonErrors": [
+      { "id": "exam-compare-error-summary", "text": "Summarizing each novel separately without explaining the relationship between the examples.", "origin": "ai_analysis", "sourceRecordIds": ["req-novel-comparison-essay", "req-test-taking-advice"] },
+      { "id": "exam-compare-error-superficial", "text": "Claiming two characters or symbols are the same because they share a broad label such as 'tyrant' or 'hope,' without comparing their actions and context.", "origin": "ai_analysis", "sourceRecordIds": ["student-glass-castle-tyrant-comparison", "student-glass-castle-archetypes"] },
+      { "id": "exam-compare-error-unverified", "text": "Inventing or misremembering quotations, edition-specific pages, or plot details. The Catcher guide is explicitly source-limited until more class material arrives.", "origin": "ai_analysis", "sourceRecordIds": ["catcher-incomplete-coverage", "1984-plot-coverage-gap", "glass-castle-plot-and-character-coverage-gap"] },
+      { "id": "exam-compare-error-no-link", "text": "Dropping in evidence without explaining how it supports the claim; the teacher specifically advises backing claims with concrete examples and explaining the connection.", "origin": "teacher_material", "sourceRecordIds": ["req-test-taking-advice", "req-sceen-framework"] }
+    ],
+    "sourceLimitations": [
+      "The prompt's exact wording is not available in advance; the teacher review lists comparison categories but no specific assigned pairing.",
+      "Catcher plot and evidence coverage is incomplete, and its later class materials are expected. Do not invent Catcher evidence.",
+      "Some student quotation citations for the other novels are unverified or edition-dependent."
+    ]
+  },
+  {
+    "id": "exam-prep-argument",
+    "componentRecordId": "req-argument-paragraph",
+    "title": "Argumentative paragraph",
+    "teacherRequirements": [
+      {
+        "id": "exam-argument-req",
+        "text": "Students write an argumentative paragraph with a strong three-part thesis and properly incorporated quotations from a supplied Works Cited. Stated value: 10 points.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-argument-paragraph"]
+      },
+      {
+        "id": "exam-argument-req-direct",
+        "text": "The teacher's test-taking advice says to answer directly and thoroughly, answer all parts, support claims with concrete examples, and explain how the evidence supports the point.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-test-taking-advice", "req-sceen-framework"]
+      }
+    ],
+    "method": [
+      {
+        "id": "exam-argument-method-prompt",
+        "text": "Underline the issue and the exact task in the prompt. Decide your arguable position before selecting evidence, then check that the paragraph answers every part asked.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["req-argument-paragraph", "req-test-taking-advice"]
+      },
+      {
+        "id": "exam-argument-method-three-part",
+        "text": "The packet requires a 'three-part thesis' but does not define its parts. A safe drafting approach is to state one clear position and make its three supporting strands visible; treat this as a study strategy, not a confirmed teacher formula, until the teacher clarifies the expected structure.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["req-argument-paragraph"],
+        "uncertainty": "The exact meaning of 'three-part' is unresolved in the class packet."
+      },
+      {
+        "id": "exam-argument-method-quote",
+        "text": "Use the supplied Works Cited to identify the source and citation form. Introduce a quotation grammatically, quote only the words needed, and explain both what they show and why that matters to the claim. Do not add a page number absent from the source information.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["req-argument-paragraph", "req-test-taking-advice"]
+      },
+      {
+        "id": "exam-argument-method-sceen",
+        "text": "Apply S-C-E-E-N: state the point; clarify it; give a concrete quotation/example; explain its connection to the thesis; then conclude briefly and move on.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-sceen-framework"]
+      }
+    ],
+    "modelAnalysis": [
+      {
+        "id": "exam-argument-model-template",
+        "text": "Planning template (not a completed answer): 'I argue that [position] because [supporting strand 1], [supporting strand 2], and [supporting strand 3].' After the thesis, use one supplied quotation, explain its context and meaning, connect it explicitly to one strand, and conclude how that evidence advances the position.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["req-argument-paragraph", "req-sceen-framework"],
+        "uncertainty": "The packet does not confirm whether the three parts must be three reasons, three claims, or another taught structure."
+      },
+      {
+        "id": "exam-argument-model-analysis",
+        "text": "A quotation is not self-explanatory: identify what its key wording establishes, then state why that fact or idea supports the position. If the quotation can be read another way, qualify the claim rather than overstating it.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-test-taking-advice", "req-sceen-framework"]
+      }
+    ],
+    "commonErrors": [
+      { "id": "exam-argument-error-quote-drop", "text": "Inserting a quotation without a grammatical lead-in, context, or explanation.", "origin": "ai_analysis", "sourceRecordIds": ["req-argument-paragraph", "req-test-taking-advice"] },
+      { "id": "exam-argument-error-thesis", "text": "Writing a topic announcement or an unsupported opinion instead of an arguable thesis. Do not guess the teacher's exact three-part formula; make the requested three parts explicit and coherent.", "origin": "ai_analysis", "sourceRecordIds": ["req-argument-paragraph"] },
+      { "id": "exam-argument-error-overclaim", "text": "Making a universal or absolute claim that the quotation does not prove; the teacher advises against overgeneralizing.", "origin": "teacher_material", "sourceRecordIds": ["req-test-taking-advice"] }
+    ],
+    "sourceLimitations": [
+      "The exam review supplies no argumentative prompt or Works Cited entries in advance.",
+      "The exact three-part-thesis formula is not defined in the packet and should be confirmed with the teacher if possible.",
+      "The teacher's S-C-E-E-N guidance is general response advice; the packet does not provide a separate scored rubric for this paragraph."
+    ]
+  },
+  {
+    "id": "exam-prep-poem-analysis",
+    "componentRecordId": "req-poem-analysis",
+    "title": "Four-part poem analysis",
+    "teacherRequirements": [
+      {
+        "id": "exam-poem-req-four-parts",
+        "text": "Complete four parts: identify form; paraphrase each stanza; identify poetic devices; explain purpose or theme. The exam component is listed as 15 points.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-poem-analysis", "teacher-poetry-analysis-procedure"]
+      },
+      {
+        "id": "exam-poem-req-reading",
+        "text": "Read the whole poem first, define words when necessary, and explain how the stanzas build the larger meaning.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["teacher-poetry-analysis-procedure"]
+      }
+    ],
+    "method": [
+      {
+        "id": "exam-poem-method-form",
+        "text": "Part 1—Form: identify open or closed form where supportable, stanza and line patterns, rhyme scheme, and any recognizable type. Describe what is present; do not force a form label when the evidence is insufficient.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["teacher-poetry-analysis-procedure", "teacher-poetry-skill-scope"]
+      },
+      {
+        "id": "exam-poem-method-paraphrase",
+        "text": "Part 2—Paraphrase each stanza in plain language. Define unfamiliar words from context or a dictionary if permitted, and distinguish the literal situation from a possible symbolic meaning.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["teacher-poetry-analysis-procedure", "req-poem-analysis"]
+      },
+      {
+        "id": "exam-poem-method-devices",
+        "text": "Part 3—Name only devices you can locate precisely. For each, connect the word, sound, image, repetition, or comparison to its effect in that stanza; a list of terms is not analysis.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["teacher-poetry-analysis-procedure", "teacher-poetry-skill-scope"]
+      },
+      {
+        "id": "exam-poem-method-theme",
+        "text": "Part 4—State a theme as a complete idea about people or experience, then explain how the stanza sequence and selected devices develop it. Avoid reducing theme to a one-word topic.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["teacher-poetry-analysis-procedure"]
+      }
+    ],
+    "modelAnalysis": [
+      {
+        "id": "exam-poem-model-without-title",
+        "text": "For Diane Glancy's 'Without Title,' the class practice asks readers to connect the father's city work with the cultural images of hunting and buffalo. The question about being 'Without a vision' invites an inference about spiritual meaning, and the final image of animal tracks in snow and mud is identified by the printed practice set as sensory imagery. Build an answer by paraphrasing the surrounding stanza, naming the image, and explaining how it links the father's daily life to cultural memory.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["practice-without-title-poem", "teacher-poetry-analysis-procedure"],
+        "uncertainty": "This models the packet's practice focus; it does not independently verify every printed multiple-choice answer."
+      },
+      {
+        "id": "exam-poem-model-structure",
+        "text": "Strong analysis links form, paraphrase, device, and theme rather than treating them as unrelated boxes: first describe the poem's structure, then explain what a stanza says, then show how a specific choice shapes that meaning, and finally connect the stanza's contribution to the whole poem.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["req-poem-analysis", "teacher-poetry-analysis-procedure"]
+      }
+    ],
+    "commonErrors": [
+      { "id": "exam-poem-error-device-list", "text": "Naming simile, imagery, or alliteration without explaining what it contributes to the poem's meaning.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-poetry-analysis-procedure"] },
+      { "id": "exam-poem-error-no-paraphrase", "text": "Skipping stanza paraphrase and jumping to a theme before establishing what the poem literally says.", "origin": "teacher_material", "sourceRecordIds": ["teacher-poetry-analysis-procedure"] },
+      { "id": "exam-poem-error-stanza-isolation", "text": "Explaining each stanza separately without recognizing how the stanzas build the larger meaning.", "origin": "teacher_material", "sourceRecordIds": ["teacher-poetry-analysis-procedure"] },
+      { "id": "exam-poem-error-key", "text": "Treating the printed answers to 'Without Title' questions 7 and 8 as verified; both remain transcribed as printed but unreviewed.", "origin": "ai_analysis", "sourceRecordIds": ["practice-without-title-poem"], "uncertainty": "The class packet's answer key has not been independently reviewed." }
+    ],
+    "sourceLimitations": [
+      "The packet gives a four-part procedure and complete practice for 'Without Title' but does not include full texts of the five named class poems.",
+      "The expected poem on the exam may be familiar or unfamiliar; the packet does not specify which.",
+      "Printed practice answers to two Glancy questions remain unreviewed."
+    ]
+  },
+  {
+    "id": "exam-prep-passage-annotation",
+    "componentRecordId": "req-passage-annotation",
+    "title": "Close-reading passage annotation",
+    "teacherRequirements": [
+      {
+        "id": "exam-annotation-req-two",
+        "text": "Annotate two different passages and explain how and why identified details enhance the passage and develop the author's purpose. The exam component is listed as 20 points.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-passage-annotation"]
+      },
+      {
+        "id": "exam-annotation-req-techniques",
+        "text": "The review names words and lines, literary elements, syntax, diction, color imagery, direct and indirect characterization, point of view, conflict, symbolism, and central-theme development.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-passage-annotation"]
+      },
+      {
+        "id": "exam-annotation-req-guidance",
+        "text": "Teacher annotation notes direct students to read actively for central themes, mark key sentences, write brief margin summaries, circle and label devices, and explain how devices contribute to meaning.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["teacher-annotation-notes"]
+      }
+    ],
+    "method": [
+      {
+        "id": "exam-annotation-method-pass-one",
+        "text": "Read the full passage once for situation, speaker or point of view, and central tension. Write a brief neutral margin summary before deciding what the passage means.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["req-passage-annotation", "teacher-annotation-notes"]
+      },
+      {
+        "id": "exam-annotation-method-notice",
+        "text": "On a second pass, mark exact choices: diction, sentence length and order, sensory or color imagery, repetition, figurative language, characterization, shifts in point of view, conflict, and meaningful objects. Select only details that matter to the passage.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-passage-annotation", "teacher-annotation-notes"]
+      },
+      {
+        "id": "exam-annotation-method-function",
+        "text": "For each marked detail, write a causal chain: 'The author uses [specific choice] to create [local effect]; this reveals or changes [character/conflict/theme], which advances [purpose in this passage].' Replace broad labels with the detail's actual work.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["req-passage-annotation", "req-test-taking-advice"]
+      },
+      {
+        "id": "exam-annotation-method-purpose",
+        "text": "End by explaining how several choices work together to develop the passage's meaning and purpose. Keep the claim bounded by what the passage supports; answer all parts directly and thoroughly.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-passage-annotation", "req-test-taking-advice"]
+      }
+    ],
+    "modelAnalysis": [
+      {
+        "id": "exam-annotation-identify-vs-analyze",
+        "text": "Identification only: 'The passage uses imagery.' Analysis: 'The dust and torn paper spiraling in the street make decay physically visible; because the detail is presented through Winston's view of his surroundings, the setting reinforces his sense that the Party's world is impoverished and difficult to escape.' The second version names the image, effect, character perspective, and thematic contribution.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-1984-detail-assignment", "student-1984-settings-atmosphere"],
+        "evidenceIds": [],
+        "uncertainty": "The class packet records the student's interpretation of the opening setting; this model expands it as a clearly labeled analytical explanation."
+      },
+      {
+        "id": "exam-annotation-model-class",
+        "text": "The supplied Two Minutes Hate example can be analyzed by tracking the image sequence from Goldstein to the enemy soldier to Big Brother, then noting the slogans and the woman's prayer-like response. A strong annotation explains how the sequence moves attention from an enemy image to Party authority; simply writing 'symbolism' beside Big Brother would not explain the shift's effect.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["practice-1984-two-minute-hate-annotation", "teacher-1984-book-chat-notes"],
+        "evidenceIds": ["ev-1984-party-slogans"]
+      },
+      {
+        "id": "exam-annotation-model-student",
+        "text": "In the Metamorphosis violin passage, the question 'Was he an animal, since music so moved him?' turns the contrast between Gregor's body and emotional response into a problem for the reader. Naming it a rhetorical question is identification; explaining how it challenges the equation of appearance with humanity is analysis.",
+        "origin": "student_work",
+        "sourceRecordIds": ["student-metamorphosis-annotation"],
+        "evidenceIds": ["ev-metamorphosis-rhetorical-question"]
+      }
+    ],
+    "commonErrors": [
+      { "id": "exam-annotation-error-label", "text": "Circling a device or naming a tone without showing which words create it or what function it serves.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-annotation-notes", "req-passage-annotation"] },
+      { "id": "exam-annotation-error-summary", "text": "Retelling the passage instead of explaining how its details develop meaning or purpose.", "origin": "ai_analysis", "sourceRecordIds": ["req-passage-annotation", "req-test-taking-advice"] },
+      { "id": "exam-annotation-error-purpose", "text": "Claiming a broad authorial purpose that the passage does not support, or treating a student's reading as an approved answer.", "origin": "ai_analysis", "sourceRecordIds": ["student-metamorphosis-annotation", "student-1984-detail-assignment"] },
+      { "id": "exam-annotation-error-one-device", "text": "Analyzing a single technique in isolation when several details combine to develop a shift, conflict, or theme.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-annotation-notes", "req-passage-annotation"] }
+    ],
+    "sourceLimitations": [
+      "The review says there are two passages but does not specify their works, length, or a point-by-point scoring rubric.",
+      "The Two Minutes Hate passage is a teacher-provided model in the packet; do not assume it will reappear on the exam.",
+      "The Metamorphosis annotation is student work and should remain attributed as such."
+    ]
+  },
+  {
+    "id": "exam-prep-literary-terms",
+    "componentRecordId": "req-literary-terms-multiple-choice",
+    "title": "Literary terminology multiple choice",
+    "teacherRequirements": [
+      {
+        "id": "exam-terms-req",
+        "text": "The exam supplies examples and asks students to identify literary functions in multiple-choice format. The review says 20 definitions/examples at one point each.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-literary-terms-multiple-choice"]
+      },
+      {
+        "id": "exam-terms-req-list",
+        "text": "The printed term inventory contains 43 entries when the repeated point-of-view listing is preserved; the packet does not identify which 20 entries appear on the exam.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["review-literary-term-inventory", "req-literary-term-count-ambiguity"]
+      }
+    ],
+    "method": [
+      {
+        "id": "exam-terms-method-function",
+        "text": "Read the example first and describe what is happening in plain language. Then choose the term whose defining feature and function both match; do not select a term just because it sounds familiar.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["req-literary-terms-multiple-choice"]
+      },
+      {
+        "id": "exam-terms-method-distinguish",
+        "text": "For close terms, test the difference: tone is the speaker or author's attitude, mood is the feeling created for readers; a symbol gains meaning beyond itself, while a motif is a recurring element; verbal irony concerns a gap between words and intended meaning, while sarcasm is a cutting or mocking use that may employ verbal irony.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["term-def-tone", "term-def-mood", "term-def-symbol", "term-def-motif", "term-def-verbal-irony", "term-def-sarcasm"]
+      },
+      {
+        "id": "exam-terms-method-example",
+        "text": "For each answer, be able to point to the exact word, sentence structure, repeated object, or narrative viewpoint that signals the term. Ask: what does this choice do here?",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["req-literary-terms-multiple-choice", "teacher-annotation-notes"]
+      }
+    ],
+    "modelAnalysis": [
+      {
+        "id": "exam-terms-model-symbol-motif",
+        "text": "If a paperweight recurs and develops associations with memory or private history, 'symbol' describes the object's added meaning and 'motif' describes its recurrence. A single appearance may support symbolic meaning but does not by itself establish a motif.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-1984-symbols", "term-def-symbol", "term-def-motif"]
+      },
+      {
+        "id": "exam-terms-model-tone-mood",
+        "text": "A description may create an unsettling mood for the reader, while the narrator's tone toward the scene may be detached, bitter, or affectionate. Identify whose attitude or response the example actually gives.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["term-def-tone", "term-def-mood", "student-glass-castle-settings"]
+      }
+    ],
+    "commonErrors": [
+      { "id": "exam-terms-error-theme-topic", "text": "A useful study distinction (not a packet-supplied rule) is to distinguish a one-word topic from an arguable theme statement about that topic.", "origin": "ai_analysis", "sourceRecordIds": ["term-def-central-universal-theme"] },
+      { "id": "exam-terms-error-irony-sarcasm", "text": "Treating sarcasm and verbal irony as exact synonyms, or calling any unexpected event situational irony without identifying the meaningful expectation/outcome contrast.", "origin": "ai_analysis", "sourceRecordIds": ["term-def-sarcasm", "term-def-verbal-irony", "term-def-situational-irony"] },
+      { "id": "exam-terms-error-term-guess", "text": "Answering from a memorized definition without checking whether the example demonstrates the term's defining feature.", "origin": "ai_analysis", "sourceRecordIds": ["req-literary-terms-multiple-choice"] },
+      { "id": "exam-terms-error-duplication", "text": "Assuming the repeated point-of-view entry is either an error or a second concept; the packet leaves the duplication unresolved.", "origin": "ai_analysis", "sourceRecordIds": ["req-literary-terms-multiple-choice", "req-literary-term-count-ambiguity"] }
+    ],
+    "sourceLimitations": [
+      "Many listed terms have no teacher-provided definition in the packet; Phase 4's working definitions must be labeled supplemental rather than teacher definitions.",
+      "The packet does not specify which 20 of the 43 listed entries will be tested.",
+      "Point of view occurs twice in the printed list and remains duplicated in the source database."
+    ]
+  },
+  {
+    "id": "exam-prep-poetry-multiple-choice",
+    "componentRecordId": "req-poetry-multiple-choice",
+    "title": "Poetry multiple choice",
+    "teacherRequirements": [
+      {
+        "id": "exam-poetry-mc-req-skills",
+        "text": "Prepare to identify poetic form, rhyme scheme, and poetic terms used in a poem. The review lists five studied poems and gives the component 10 points.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["req-poetry-multiple-choice", "teacher-poetry-skill-scope"]
+      },
+      {
+        "id": "exam-poetry-mc-req-forms",
+        "text": "The class notes list open and closed form, stanza, free verse, couplet, quatrain, tercet, cinquain, sestet, septet (transcribed in the packet as 'Setet'), and octave.",
+        "origin": "teacher_material",
+        "sourceRecordIds": ["teacher-poetry-skill-scope"],
+        "uncertainty": "Preserve the printed 'Setet' spelling as a source issue; do not silently correct it in the source record."
+      }
+    ],
+    "method": [
+      {
+        "id": "exam-poetry-mc-method-form",
+        "text": "Scan line and stanza lengths, repeated patterns, and the poem's organization. Identify open or closed form only after checking whether a recognizable formal pattern is actually sustained.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["teacher-poetry-skill-scope"]
+      },
+      {
+        "id": "exam-poetry-mc-method-rhyme",
+        "text": "Mark the end sound of each line and assign letters to matching sounds; use a new letter when the sound changes. Rhyme scheme records end-rhyme pattern, not meter or the poem's whole form.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["teacher-poetry-skill-scope"]
+      },
+      {
+        "id": "exam-poetry-mc-method-devices",
+        "text": "When a choice names a device, locate the exact words and test its defining feature: comparison, sound repetition, word imitation, reference, image, symbol, or recurrence. Then select the answer that fits the line's context.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["teacher-poetry-skill-scope", "req-literary-terms-multiple-choice"]
+      },
+      {
+        "id": "exam-poetry-mc-method-theme",
+        "text": "For a theme or implication question, paraphrase the relevant lines first and compare the candidate answer with the poem as a whole; reject choices that are too broad or contradicted by later stanzas.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["teacher-poetry-analysis-procedure", "teacher-poetry-skill-scope"]
+      }
+    ],
+    "modelAnalysis": [
+      {
+        "id": "exam-poetry-mc-model-without-title",
+        "text": "In the class practice for 'Without Title,' a question asks which lines create a vivid sensory image. To answer this type, identify what can be seen, heard, felt, tasted, or smelled in each option, then check whether the sensory detail creates a concrete scene. The printed key marks the animal tracks in snow and mud; this source entry records the key as printed, not independently revalidated.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["practice-without-title-poem"],
+        "uncertainty": "Question 8's printed answer remains unreviewed."
+      },
+      {
+        "id": "exam-poetry-mc-model-rhyme",
+        "text": "A rhyme-scheme question is answered by matching actual end sounds, not spellings or internal rhymes. If pronunciation is uncertain, read the line endings aloud and avoid assigning a letter based only on the last written letters.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["teacher-poetry-skill-scope"]
+      }
+    ],
+    "commonErrors": [
+      { "id": "exam-poetry-mc-error-form", "text": "Calling a poem free verse merely because one pair of lines does not rhyme; examine the whole poem's pattern.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-poetry-skill-scope"] },
+      { "id": "exam-poetry-mc-error-rhyme", "text": "Assigning rhyme letters by spelling instead of sound, or confusing rhyme scheme with stanza type.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-poetry-skill-scope"] },
+      { "id": "exam-poetry-mc-error-inference", "text": "Choosing a plausible implication that is not supported by the poem's literal details or stanza development.", "origin": "ai_analysis", "sourceRecordIds": ["teacher-poetry-analysis-procedure", "practice-without-title-poem"] },
+      { "id": "exam-poetry-mc-error-key", "text": "Treating the printed key for 'Without Title' questions 7 and 8 as verified; both remain flagged for review.", "origin": "ai_analysis", "sourceRecordIds": ["practice-without-title-poem"] }
+    ],
+    "sourceLimitations": [
+      "Five poems are named for practice, but the packet reproduces only 'Without Title' with its poem and questions.",
+      "The exam may use a studied poem or an unfamiliar poem; the packet does not say which.",
+      "The practice key's answers to questions 7 and 8 remain unreviewed."
+    ]
+  }
+]

@@ -1,0 +1,540 @@
+[
+  {
+    "id": "ev-1984-charrington-reveal",
+    "novel": "1984",
+    "sourceRecordId": "student-1984-charrington-interpretation",
+    "quotationIndex": 0,
+    "tags": ["Charrington", "betrayal", "surveillance", "trust", "turning point"],
+    "useCases": [
+      {
+        "id": "use-1984-charrington-reveal",
+        "text": "Use the short reveal to show how the apparent refuge was controlled by the regime; explain the reversal rather than merely calling Charrington deceptive.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-1984-charrington-interpretation", "teacher-1984-book-chat-notes"]
+      }
+    ]
+  },
+  {
+    "id": "ev-1984-charrington-friendly",
+    "novel": "1984",
+    "sourceRecordId": "student-1984-charrington-interpretation",
+    "quotationIndex": 1,
+    "tags": ["Charrington", "misdirection", "limited perspective", "trust"],
+    "useCases": [
+      {
+        "id": "use-1984-charrington-friendly",
+        "text": "Contrast Winston's initial reading of Charrington's behavior with the later reveal. This is the student's supplied passage and page; verify both against the assigned edition before quoting in an exam.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-1984-charrington-interpretation"],
+        "uncertainty": "The packet warns that some 1984 page citations are inaccurate."
+      }
+    ]
+  },
+  {
+    "id": "ev-1984-charrington-recognition",
+    "novel": "1984",
+    "sourceRecordId": "student-1984-charrington-interpretation",
+    "quotationIndex": 2,
+    "tags": ["Charrington", "perspective", "recognition", "betrayal"],
+    "useCases": [
+      {
+        "id": "use-1984-charrington-recognition",
+        "text": "Connect the unchanged physical identity to Winston's changed understanding of the man; distinguish a shift in perspective from a literal change in Charrington.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-1984-charrington-interpretation"]
+      }
+    ]
+  },
+  {
+    "id": "ev-1984-truncheon",
+    "novel": "1984",
+    "sourceRecordId": "student-glass-castle-tyrant-comparison",
+    "quotationIndex": 1,
+    "tags": ["O'Brien", "coercion", "state power", "fear", "tyrant archetype"],
+    "useCases": [
+      {
+        "id": "use-1984-truncheon",
+        "text": "The student's image makes bodily threat concrete. For a comparison, distinguish the Party's organized political coercion from an individual household's use of violence.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-glass-castle-tyrant-comparison", "teacher-1984-book-chat-notes"],
+        "uncertainty": "The supplied citation is unverified and the packet warns about 1984 pagination."
+      }
+    ]
+  },
+  {
+    "id": "ev-1984-party-slogans",
+    "novel": "1984",
+    "sourceRecordId": "teacher-1984-book-chat-notes",
+    "quotationIndex": 0,
+    "tags": ["doublethink", "propaganda", "paradox", "language", "power"],
+    "useCases": [
+      {
+        "id": "use-1984-party-slogans",
+        "text": "Analyze the contradiction between each slogan's paired terms and the Party's attempt to make contradiction sound like doctrine; identify the phrase as teacher-provided class notes.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["teacher-1984-book-chat-notes"]
+      }
+    ]
+  },
+  {
+    "id": "ev-glass-castle-glass-castle-promise",
+    "novel": "glass-castle",
+    "sourceRecordId": "student-glass-castle-archetypes",
+    "quotationIndex": 0,
+    "tags": ["Rex", "Glass Castle", "hope", "promise", "student archetype reading"],
+    "useCases": [
+      {
+        "id": "use-glass-castle-promise",
+        "text": "The student uses the repeated promise of building the Glass Castle to support a reading of Rex as hopeful but flawed. Preserve the tension: the promise inspires the children and is repeatedly unrealized.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-symbols"]
+      }
+    ]
+  },
+  {
+    "id": "ev-glass-castle-rex-love",
+    "novel": "glass-castle",
+    "sourceRecordId": "student-glass-castle-archetypes",
+    "quotationIndex": 1,
+    "tags": ["Rex", "Jeannette", "affection", "ambivalence", "memoir"],
+    "useCases": [
+      {
+        "id": "use-glass-castle-rex-love",
+        "text": "Use the narrator's remembered affection to complicate a one-dimensional judgment of Rex; it does not erase the harm documented elsewhere in the student's work.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-glass-castle-archetypes", "student-glass-castle-tyrant-comparison"]
+      }
+    ]
+  },
+  {
+    "id": "ev-glass-castle-escape-plan",
+    "novel": "glass-castle",
+    "sourceRecordId": "student-glass-castle-archetypes",
+    "quotationIndex": 2,
+    "tags": ["Jeannette", "Lori", "agency", "escape", "future"],
+    "useCases": [
+      {
+        "id": "use-glass-castle-escape-plan",
+        "text": "The student reads Jeannette's plan to follow Lori as a deliberate movement toward a different future; distinguish the student's archetype reading from the memoir's reported event.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-glass-castle-archetypes"]
+      }
+    ]
+  },
+  {
+    "id": "ev-glass-castle-rose-mary-dismissal",
+    "novel": "glass-castle",
+    "sourceRecordId": "student-glass-castle-rose-mary-shadow",
+    "quotationIndex": 0,
+    "tags": ["Rose Mary", "Jeannette", "Uncle Stanley", "protection", "student interpretation"],
+    "useCases": [
+      {
+        "id": "use-glass-castle-rose-mary-dismissal",
+        "text": "The student's reading focuses on Rose Mary's response when Jeannette reports inappropriate behavior. Analyze the response as evidence of failed protection, not as proof of every aspect of Rose Mary's character.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-glass-castle-rose-mary-shadow"]
+      }
+    ]
+  },
+  {
+    "id": "ev-glass-castle-rose-mary-work",
+    "novel": "glass-castle",
+    "sourceRecordId": "student-glass-castle-rose-mary-shadow",
+    "quotationIndex": 1,
+    "tags": ["Rose Mary", "work", "parental responsibility", "student archetype reading"],
+    "useCases": [
+      {
+        "id": "use-glass-castle-rose-mary-work",
+        "text": "The student uses this passage to argue that Rose Mary rejects responsibility for the family's finances. Keep it as a student claim and support any broader judgment with additional episodes.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-glass-castle-rose-mary-shadow"],
+        "uncertainty": "The class record preserves this as a student interpretation, not a teacher ruling."
+      }
+    ]
+  },
+  {
+    "id": "ev-glass-castle-rex-discipline",
+    "novel": "glass-castle",
+    "sourceRecordId": "student-glass-castle-tyrant-comparison",
+    "quotationIndex": 0,
+    "tags": ["Rex", "discipline", "violence", "parental control", "student comparison"],
+    "useCases": [
+      {
+        "id": "use-glass-castle-rex-discipline",
+        "text": "The student's passage records Rex's use of physical punishment. In comparison, explain how domestic authority differs from the Party's institutional power in 1984.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-glass-castle-tyrant-comparison"]
+      }
+    ]
+  },
+  {
+    "id": "ev-glass-castle-welch-setting",
+    "novel": "glass-castle",
+    "sourceRecordId": "student-glass-castle-settings",
+    "quotationIndex": 0,
+    "tags": ["Welch", "setting", "coal dust", "imagery", "student response"],
+    "useCases": [
+      {
+        "id": "use-glass-castle-welch-setting",
+        "text": "The student's setting passage uses a film of coal dust and a nearly monochromatic appearance to ground the description in visible conditions; connect any mood claim to those specific details.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-glass-castle-settings"]
+      }
+    ]
+  },
+  {
+    "id": "ev-glass-castle-phoenix-setting",
+    "novel": "glass-castle",
+    "sourceRecordId": "student-glass-castle-settings",
+    "quotationIndex": 1,
+    "tags": ["Phoenix", "setting", "housing", "contrast", "student response"],
+    "useCases": [
+      {
+        "id": "use-glass-castle-phoenix-setting",
+        "text": "The student's description of the Phoenix house as mansion-like gives a concrete contrast to later Welch poverty; the excerpt alone does not establish long-term security.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-glass-castle-settings"]
+      }
+    ]
+  },
+  {
+    "id": "ev-glass-castle-new-york-setting",
+    "novel": "glass-castle",
+    "sourceRecordId": "student-glass-castle-settings",
+    "quotationIndex": 2,
+    "tags": ["New York", "setting", "orange sky", "imagery", "student response"],
+    "useCases": [
+      {
+        "id": "use-glass-castle-new-york-setting",
+        "text": "The student connects an orange-lit sky to the hostel setting. The surrounding packet context identifies air pollution; do not treat the image as a symbol without explaining the literal cause and the student's interpretive step.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-glass-castle-settings"]
+      }
+    ]
+  },
+  {
+    "id": "ev-glass-castle-foundation",
+    "novel": "glass-castle",
+    "sourceRecordId": "student-glass-castle-allegory",
+    "quotationIndex": 0,
+    "tags": ["Glass Castle", "foundation", "garbage", "broken promise", "student allegory"],
+    "useCases": [
+      {
+        "id": "use-glass-castle-foundation",
+        "text": "The student interprets the garbage in the castle's foundation as evidence that the dream is undermined by the family's material reality. The student also cautions that memoir details can invite allegorical reading without proving deliberate allegorical design.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-glass-castle-allegory"],
+        "uncertainty": "The packet supplies no book-page citation for this excerpt."
+      }
+    ]
+  },
+  {
+    "id": "ev-glass-castle-fire",
+    "novel": "glass-castle",
+    "sourceRecordId": "student-glass-castle-allegory",
+    "quotationIndex": 1,
+    "tags": ["fire", "danger", "fascination", "student allegory"],
+    "useCases": [
+      {
+        "id": "use-glass-castle-fire",
+        "text": "The student reads the narrator's shift from fear to fascination as a response shaped by repeated exposure to danger; keep the distinction between the reported experience and the symbolic reading.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-glass-castle-allegory"],
+        "uncertainty": "The packet supplies no book-page citation for this excerpt."
+      }
+    ]
+  },
+  {
+    "id": "ev-glass-castle-joshua-tree",
+    "novel": "glass-castle",
+    "sourceRecordId": "student-glass-castle-allegory",
+    "quotationIndex": 2,
+    "tags": ["Joshua tree", "resilience", "hardship", "student allegory"],
+    "useCases": [
+      {
+        "id": "use-glass-castle-joshua-tree",
+        "text": "The student connects the tree's difficult growth to resilience. Test the analogy against the memoir's actual description rather than treating hardship itself as automatically beneficial.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-glass-castle-allegory"],
+        "uncertainty": "The packet supplies no book-page citation for this excerpt."
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-apple",
+    "novel": "metamorphosis",
+    "sourceRecordId": "student-metamorphosis-symbols",
+    "quotationIndex": 0,
+    "tags": ["apple", "injury", "father", "rejection", "symbol"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-apple",
+        "text": "The apple is physically thrown and remains lodged in Gregor's back; the student's reading connects the lasting injury to rejection. The persistent wound matters because the symbol develops through an ongoing bodily consequence.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-metamorphosis-symbols", "student-metamorphosis-themes"]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-music",
+    "novel": "metamorphosis",
+    "sourceRecordId": "student-metamorphosis-symbols",
+    "quotationIndex": 1,
+    "tags": ["violin", "music", "humanity", "connection", "symbol"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-music",
+        "text": "Gregor's response to Grete's music shows a remaining capacity for aesthetic and emotional connection. Explain the contrast between that inner response and how the family and lodgers read his appearance.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-metamorphosis-symbols", "student-metamorphosis-annotation"]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-lodgers",
+    "novel": "metamorphosis",
+    "sourceRecordId": "student-metamorphosis-symbols",
+    "quotationIndex": 2,
+    "tags": ["lodgers", "money", "appearance", "economic pressure"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-lodgers",
+        "text": "The lodger's threat makes the household's financial dependence visible at the moment Gregor's body becomes publicly visible. The student's reading is about economic burden as well as disgust.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-metamorphosis-symbols", "student-metamorphosis-themes"]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-charwoman",
+    "novel": "metamorphosis",
+    "sourceRecordId": "student-metamorphosis-symbols",
+    "quotationIndex": 3,
+    "tags": ["charwoman", "death", "blunt diction", "family response"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-charwoman",
+        "text": "The charwoman's blunt announcement contrasts with the family's private and economic response. The class interpretation treats her as a clear observer of the household's changing relation to Gregor.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-metamorphosis-symbols"]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-marriage",
+    "novel": "metamorphosis",
+    "sourceRecordId": "student-metamorphosis-symbols",
+    "quotationIndex": 4,
+    "tags": ["Grete", "marriage", "ending", "family relief", "irony"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-marriage",
+        "text": "After Gregor's death, the family turns toward Grete's future and marriage. The student's reading emphasizes relief and optimism; a careful answer can also note the disturbing juxtaposition of family renewal with Gregor's exclusion.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-metamorphosis-symbols", "student-metamorphosis-themes"]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-door",
+    "novel": "metamorphosis",
+    "sourceRecordId": "student-metamorphosis-symbols",
+    "quotationIndex": 5,
+    "tags": ["door", "room", "barrier", "isolation", "symbol"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-door",
+        "text": "The shut door is a literal boundary and a recurring means of controlling contact. Analyze both Gregor's separation from the family and the family's role in maintaining that separation.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-metamorphosis-symbols", "student-metamorphosis-character-roles"]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-grete-care",
+    "novel": "metamorphosis",
+    "sourceRecordId": "student-metamorphosis-character-roles",
+    "quotationIndex": 0,
+    "tags": ["Grete", "care", "conservatory", "sibling relationship", "student interpretation"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-grete-care",
+        "text": "The earlier conservatory plan shows Gregor's investment in Grete's future and his provider role; compare that care with the later rejection without erasing the change in circumstances.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-themes"]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-grete-rejection",
+    "novel": "metamorphosis",
+    "sourceRecordId": "student-metamorphosis-character-roles",
+    "quotationIndex": 1,
+    "tags": ["Grete", "change", "alienation", "family duty"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-grete-rejection",
+        "text": "Grete's statement marks a decisive change in how the family names and treats Gregor. The student's reading sees both her initial care and her later limit; support a dynamic-character claim with the contrast.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-metamorphosis-character-roles", "student-metamorphosis-themes"]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-productivity",
+    "novel": "metamorphosis",
+    "sourceRecordId": "student-metamorphosis-character-roles",
+    "quotationIndex": 2,
+    "tags": ["chief clerk", "work", "productivity", "diction", "conflict"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-productivity",
+        "text": "The employer's complaint treats Gregor first as a productivity problem, before understanding what has happened. Connect that work-centered response to the story's economic pressure and Gregor's anxious sense of duty.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-metamorphosis-character-roles", "teacher-metamorphosis-theme-presentation-directions"]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-rhetorical-question",
+    "novel": "metamorphosis",
+    "sourceRecordId": "student-metamorphosis-annotation",
+    "quotationIndex": 0,
+    "tags": ["rhetorical question", "music", "humanity", "point of view"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-rhetorical-question",
+        "text": "The question juxtaposes Gregor's animal appearance with his response to music. Explain how the form makes the reader test the assumption that appearance determines humanity.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-metamorphosis-annotation"]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-dragon-simile",
+    "novel": "metamorphosis",
+    "sourceRecordId": "student-metamorphosis-annotation",
+    "quotationIndex": 1,
+    "tags": ["simile", "dragon", "protection", "fear", "characterization"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-dragon-simile",
+        "text": "The student reads the imagined dragon-like hissing as protective toward Grete and frightening to intruders. The same image supports both tenderness and the visible danger of Gregor's changed body.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["student-metamorphosis-annotation"]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-reference-transformation",
+    "novel": "metamorphosis",
+    "sourceRecordId": "reference-metamorphosis-ian-johnston",
+    "quotationIndex": 0,
+    "tags": ["transformation", "opening", "tone", "identity"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-reference-transformation",
+        "text": "The brief, practical question follows an impossible bodily change. Analyze the contrast between the event's scale and Gregor's matter-of-fact response; this wording belongs to the Ian Johnston reference translation.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["reference-metamorphosis-ian-johnston"],
+        "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [3], "note": "PDF page; translation not confirmed as the class edition." }]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-reference-productivity",
+    "novel": "metamorphosis",
+    "sourceRecordId": "reference-metamorphosis-ian-johnston",
+    "quotationIndex": 1,
+    "tags": ["chief clerk", "work", "productivity", "diction", "conflict"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-reference-productivity",
+        "text": "The chief clerk's diction evaluates Gregor through output before recognizing the crisis. Connect the language of work to the power imbalance and Gregor's fear of failing his obligations.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["reference-metamorphosis-ian-johnston"],
+        "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [15], "note": "PDF page; translation not confirmed as the class edition." }]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-reference-furniture",
+    "novel": "metamorphosis",
+    "sourceRecordId": "reference-metamorphosis-ian-johnston",
+    "quotationIndex": 2,
+    "tags": ["room", "furniture", "identity", "symbolism", "conflict"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-reference-furniture",
+        "text": "Gregor's attachment to the furniture complicates the claim that he has simply abandoned human identity. Explain how the room's contents preserve memory and how removing them might enable movement while also erasing a familiar life.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["reference-metamorphosis-ian-johnston"],
+        "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [44], "note": "PDF page; translation not confirmed as the class edition." }]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-reference-apple",
+    "novel": "metamorphosis",
+    "sourceRecordId": "reference-metamorphosis-ian-johnston",
+    "quotationIndex": 3,
+    "tags": ["apple", "father", "injury", "family conflict", "symbolism"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-reference-apple",
+        "text": "The physical impact becomes a lasting wound rather than a brief act of anger. Connect the injury to the father's force and Gregor's gradual decline without reducing the apple to a single fixed meaning.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["reference-metamorphosis-ian-johnston"],
+        "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [52], "note": "PDF page; translation not confirmed as the class edition." }]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-reference-violin",
+    "novel": "metamorphosis",
+    "sourceRecordId": "reference-metamorphosis-ian-johnston",
+    "quotationIndex": 4,
+    "tags": ["Grete", "violin", "music", "point of view", "identity"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-reference-violin",
+        "text": "The question keeps the narrative close to Gregor's response to music and tests the boundary between human feeling and animal appearance. Compare his interior response with the family's and lodgers' visible reactions.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["reference-metamorphosis-ian-johnston"],
+        "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [64], "note": "PDF page; translation not confirmed as the class edition." }]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-reference-rejection",
+    "novel": "metamorphosis",
+    "sourceRecordId": "reference-metamorphosis-ian-johnston",
+    "quotationIndex": 5,
+    "tags": ["Grete", "rejection", "family", "pronouns", "character development"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-reference-rejection",
+        "text": "Grete's use of 'it' and the imperative to remove Gregor mark relational exclusion as well as a practical decision. Set this moment beside her earlier care so her change is not flattened.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["reference-metamorphosis-ian-johnston"],
+        "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [68], "note": "PDF page; translation not confirmed as the class edition." }]
+      }
+    ]
+  },
+  {
+    "id": "ev-metamorphosis-reference-death",
+    "novel": "metamorphosis",
+    "sourceRecordId": "reference-metamorphosis-ian-johnston",
+    "quotationIndex": 6,
+    "tags": ["charwoman", "death", "diction", "tone", "ending"],
+    "useCases": [
+      {
+        "id": "use-metamorphosis-reference-death",
+        "text": "The charwoman's blunt idiom sharply contrasts with the family's restrained response and the narration's account of Gregor's suffering. Do not treat her phrase as a neutral medical description.",
+        "origin": "ai_analysis",
+        "sourceRecordIds": ["reference-metamorphosis-ian-johnston"],
+        "sourceDocuments": [{ "documentId": "reference-metamorphosis-ian-johnston-1999", "pdfPages": [72], "note": "PDF page; translation not confirmed as the class edition." }]
+      }
+    ]
+  }
+]

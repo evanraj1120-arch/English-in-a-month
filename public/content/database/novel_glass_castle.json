@@ -1,0 +1,108 @@
+[
+  {
+    "id":"student-glass-castle-archetypes",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"archetype-analysis",
+    "topic":"Archetypes applied to The Glass Castle",
+    "novels":["glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[27,36],"assignmentName":"Assignment 4: 1984 and The Glass Castle Archetype"},
+    "content":"Student applies the promised-land/good-city archetype to The Glass Castle, reading the imagined castle as a future ideal that the family seeks but does not attain. The student calls Rex an 'evil person with a good heart' and a tyrant, Rose Mary a shadow archetype, and Jeannette a hero on a journey. The student also defines archetypes and describes other examples (warrior, lover, vengeance, good/evil, devil figure, scapegoat, red, number three). Preserve these as student applications and definitions; they are not teacher rulings about the memoir.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"When Dad wasn’t telling us about all the amazing things he had already done, he was telling us about the wondrous things he was going to do. Like build the Glass Castle","workOrSource":"The Glass Castle","speakerOrContext":"Student's first passage for Rex as flawed but hopeful archetype.","bookCitationAsSupplied":"(Walls 15)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"As awful as he could be, I always knew he loved me in a way no one else ever had","workOrSource":"The Glass Castle","speakerOrContext":"Student's passage supporting Rex's affection for Jeannette.","bookCitationAsSupplied":"(Walls 279)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"She’d settle in, find a place for us, and I’d follow her as soon as I could","workOrSource":"The Glass Castle","speakerOrContext":"Student uses Jeannette's plan to join Lori in New York as evidence of a journey toward a new future.","bookCitationAsSupplied":"(Walls 223)","verificationStatus":"not_independently_verified"}
+    ],
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-glass-castle-rose-mary-shadow",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"character-analysis",
+    "topic":"Rose Mary as shadow archetype",
+    "novels":["glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[34],"assignmentName":"Assignment 4: archetype application"},
+    "content":"Student argues Rose Mary fits a shadow archetype because she dismisses Jeannette's report of abuse and declines responsibility for the family's finances, prioritizing her own activities. The packet contains two passages and the student's explanation; preserve the student's characterization rather than treating the archetype as established fact.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"Mom, Uncle Stanley is behaving inappropriately,” I said. “Oh, you’re probably imagining it,” she said. “He groped me! And he’s wanking off!” Mom cocked her head and looked concerned. “Poor Stanley,” she said. “He’s so lonely.”","workOrSource":"The Glass Castle","speakerOrContext":"Jeannette reports Uncle Stanley's behavior; Rose Mary responds.","bookCitationAsSupplied":"(Walls 160)","verificationStatus":"not_independently_verified","uncertainty":"Quote punctuation preserved as extracted from the packet; verify against the source edition before publication."},
+      {"classification":"literary_evidence_or_quotation","exactWording":"You have a job. You can earn money. Lori can earn money, too. I’ve got more important things to do","workOrSource":"The Glass Castle","speakerOrContext":"Student's second passage for Rose Mary's shadow-archetype reading.","bookCitationAsSupplied":"(Walls 218)","verificationStatus":"not_independently_verified"}
+    ],
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-glass-castle-tyrant-comparison",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"cross-novel-character-analysis",
+    "topic":"Tyrant archetype: Rex Walls and O'Brien",
+    "novels":["glass-castle","1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[35,36],"assignmentName":"Assignment 4: shared archetype"},
+    "content":"Student defines the tyrant archetype as a character with an increasing need for control who values authority over others' freedom. The student applies it to Rex because he uses physical punishment and to O'Brien because he tortures Winston to enforce Party ideals. The stated universal message is that unchecked abusive power suppresses independence and forces conformity. Student text includes the phrase 'levels of physical abuse are highly stagnant,' which is unclear and should be retained as a review flag rather than silently rewritten.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"Dad whipped us with his belt, but never out of anger, and only if we back-talked or disobeyed a direct order","workOrSource":"The Glass Castle","speakerOrContext":"Student evidence that Rex uses physical punishment to control his children.","bookCitationAsSupplied":"(Walls 59)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"all Winston had eyes for was the truncheon in the guard’s hand. It might fall anywhere","workOrSource":"1984","speakerOrContext":"Student's evidence of O'Brien's use of physical torture.","bookCitationAsSupplied":"(Orwell 118)","verificationStatus":"not_independently_verified","uncertainty":"The packet notes that some 1984 page references are inaccurate."}
+    ],
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"Student's characterization and comparison are analytical claims; the phrase noted above is unclear in the submitted response."
+  },
+  {
+    "id":"student-glass-castle-settings",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"setting-analysis",
+    "topic":"The Glass Castle settings and atmosphere",
+    "novels":["glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[38,39,46,48],"assignmentName":"Assignment 5: Setting, description, atmosphere, tone, and mood"},
+    "content":"Student describes Welsh as impoverished, monotonous, and depressing; the adobe house in Phoenix as grand and secure; the women's hostel in New York as strange and uneasy; Jeannette's hospital room as bright, orderly, and isolating. In close-reading answers, the student reads the Midland passage as rough, unforgiving, sorrowful, eerie, and depressing, and the Park Avenue/Dumpster passage as conflicted, ashamed, guilty, and helpless. These affective labels are student responses.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"The stores, the signs, the sidewalks, the cars were all covered with a film of black coal dust, giving the town an almost monochromatic look","workOrSource":"The Glass Castle","speakerOrContext":"Welch setting description in the student's worksheet.","bookCitationAsSupplied":"(Walls 134)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"I could not believe we were actually going to live there. It was a mansion, practically, so big that Grandma Smith had had two families living in it, both paying her rent","workOrSource":"The Glass Castle","speakerOrContext":"Student's Phoenix adobe-house setting example.","bookCitationAsSupplied":"(Walls 94)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"That first night I woke up at three a.m. and saw the sky all lit up a bright orange","workOrSource":"The Glass Castle","speakerOrContext":"Student's New York hostel example; the packet includes the surrounding air-pollution explanation.","bookCitationAsSupplied":"(Walls 246)","verificationStatus":"not_independently_verified"}
+    ],
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-glass-castle-allegory",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"allegory-analysis",
+    "topic":"The Glass Castle, fire, and Joshua tree as allegorical elements",
+    "novels":["glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[49,50],"assignmentName":"Assignment 6: Exploring Allegory"},
+    "content":"Student interprets the Glass Castle as false hope and parental irresponsibility, fire as destruction becoming fascination and normalized danger, and the Joshua tree as resilience/adaptation. The student argues that memoir details may be allegorical without necessarily having been designed as allegory. This caution and the proposed meanings are the student's own analysis.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"But since we couldn’t afford to pay the town’s trash-collection fee, our garbage was really piling up. One day Dad told us to dump it in the hole. ‘But that’s for the Glass Castle,’ I said.","workOrSource":"The Glass Castle","speakerOrContext":"Student's Glass Castle allegory evidence; student notes that garbage remains in the foundation pit.","bookCitationAsSupplied":"","verificationStatus":"not_independently_verified","uncertainty":"No book-page citation is supplied with this quotation in the packet; do not add one."},
+      {"classification":"literary_evidence_or_quotation","exactWording":"You can’t live in fear of something as basic as fire.’ I didn’t. Instead, I became fascinated with it.","workOrSource":"The Glass Castle","speakerOrContext":"Student's fire-as-allegory evidence.","bookCitationAsSupplied":"","verificationStatus":"not_independently_verified","uncertainty":"No book-page citation supplied."},
+      {"classification":"literary_evidence_or_quotation","exactWording":"It’s the Joshua tree’s struggle that gives it its beauty","workOrSource":"The Glass Castle","speakerOrContext":"Student's Joshua-tree-as-resilience evidence.","bookCitationAsSupplied":"","verificationStatus":"not_independently_verified","uncertainty":"No book-page citation supplied."}
+    ],
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-glass-castle-themes",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"theme-and-message-analysis",
+    "topic":"Student central themes and universal messages for The Glass Castle",
+    "novels":["glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[112,116],"assignmentName":"Notes 3: Introduction to Themes"},
+    "content":"Student examples connect the children's unstable home and Jeannette's move to New York to survival, resilience, self-definition, hope, memory, and parental control. The student's universal messages include that individuals should build a self outside family influence, confront the past, adapt selectively to hardship, and avoid using hope in place of evidence. Keep the student's wording and broad interpretations distinct from teacher-required themes.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-glass-castle-symbols",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"symbol-and-motif-notes",
+    "topic":"The Glass Castle symbol/motif table",
+    "novels":["glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[119,120],"assignmentName":"Notes 4: Symbols and Motifs"},
+    "content":"Student entries: Glass Castle—comfort/false hope; Joshua tree—resistance through hardship; stars—false promises; fire—destruction/fascination; Jeannette's rocks—beauty and parental control; yellow paint—hope for change; stick of margarine—poverty/struggle; Rose Mary's painting—avoiding responsibility; 'Mountain Goat' nickname—toughness/resilience; desert—adaptation to harsh conditions. The student also labels some objects as recurring motifs and suggests conceptual motifs such as hypocrisy, escapism, fear, and hope. Preserve all meanings and motif labels as student classifications.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"Some symbolic meanings and motif-frequency claims are student interpretations; source passage locations are not supplied for every entry."
+  },
+  {
+    "id":"glass-castle-plot-and-character-coverage-gap",
+    "classification":"unverified_or_ambiguous_information",
+    "itemType":"coverage-status",
+    "topic":"No complete Glass Castle plot and character-relationship outline in the packet",
+    "novels":["glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[1,27,34,35,37,38,39,49,50,112,114,115,119,120],"section":"Exam review and student assignments/notes"},
+    "content":"The exam review requires basic plot, main characters and conflicts, settings, themes, symbols/motifs, and literary elements. Packet entries include selected settings and events, student interpretations of Jeannette, Rex, Rose Mary, and the siblings, and student theme/allegory/symbol work, but not a complete plot sequence or systematic character-relationship/evidence inventory.",
+    "verificationStatus":"needs_review",
+    "uncertainty":"Treat the existing material as selected student/class work, not complete teacher-approved novel coverage."
+  }
+]

@@ -1,0 +1,353 @@
+[
+  {
+    "id":"term-def-archetype",
+    "classification":"teacher_provided_explanation_or_example",
+    "itemType":"term-definition",
+    "topic":"Archetype",
+    "novels":[],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[27],"assignmentName":"Assignment 4: Archetype"},
+    "content":"Assignment handout definition: archetypes include a character, setting, theme, or symbol with a common or recognizable meaning across a culture; they may include colors, themes, familiar characteristics, or recurring images. The handout says archetypes add meaning by drawing on emotions and ideas associated with them.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-antihero",
+    "classification":"teacher_provided_explanation_or_example",
+    "itemType":"term-definition",
+    "topic":"Antihero",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[24,25],"assignmentName":"Assignment 3: Winston: The Anti-Hero"},
+    "content":"Assignment directions distinguish traditional heroes from antiheroes: an antihero is human, has faults and makes mistakes, puzzles over difficult decisions, and usually does what readers hope they would do in similar circumstances. The assignment asks students to support each trait with specific examples.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-allegory",
+    "classification":"teacher_provided_explanation_or_example",
+    "itemType":"term-definition",
+    "topic":"Allegory",
+    "novels":["1984","glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[49],"assignmentName":"Assignment 6: Exploring Allegory"},
+    "content":"Assignment definition: a literary device in which abstract ideas or principles are represented through characters, events, or settings, often making complex or controversial ideas more accessible.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-symbol",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Symbol",
+    "novels":["1984","glass-castle","metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[116],"assignmentName":"Notes 4: Define Symbol"},
+    "content":"Student-entered definition: something that represents or stands for something else; it usually appears once or perhaps twice, with a specific meaning in the story's context.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"This is a student's class-note definition, not an authoritative teacher definition. The frequency distinction is the student's wording."
+  },
+  {
+    "id":"term-def-motif",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Motif",
+    "novels":["1984","glass-castle","metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[116,120],"assignmentName":"Notes 4: Define Motif"},
+    "content":"Student-entered definition: a recurring element that reinforces a central theme; it may be an image, sound, action, idea, or words. Notes distinguish symbolic motifs (recurring objects/symbols) from conceptual motifs (recurring concepts expressed through different symbols/settings). The student's rule says a symbol must occur at least three times across multiple parts to count as a motif.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"The student notes also define a symbol as usually appearing once or twice, then describe three or more occurrences as motif; preserve the distinction as written and seek teacher confirmation before turning it into a universal rule."
+  },
+  {
+    "id":"term-def-tone",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Tone",
+    "novels":["1984","glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[40,41],"assignmentName":"Assignment 5: Setting, tone, and mood"},
+    "content":"Student response defines tone as the attitude shown toward a subject and says it is characterized by word choice and syntax; another response says tone is characterized by diction, syntax, and details.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"Student-entered definition; do not attribute it as a teacher definition."
+  },
+  {
+    "id":"term-def-mood",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Mood",
+    "novels":["1984","glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[41],"assignmentName":"Assignment 5: Setting, tone, and mood"},
+    "content":"Student response defines mood as the emotional atmosphere elicited and says it is characterized through descriptive setting, imagery, and tone.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-atmosphere-description",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Description and atmosphere in setting",
+    "novels":["1984","glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[37],"assignmentName":"Assignment 5: Setting"},
+    "content":"Student-entered distinction: setting description represents sensory details; atmosphere is the feeling or emotion elicited by the author.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-kafkaesque",
+    "classification":"reference_information",
+    "itemType":"term-definition",
+    "topic":"Kafkaesque",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[51],"assignmentName":"Assignment 7: Kafka and existentialism notes"},
+    "content":"The packet defines Kafkaesque as relating to alienation, absurdity, anxiety, or isolation—themes associated in the notes with Kafka's life and works.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"The packet does not identify the author of this note; classified as reference information, not as a formal exam definition."
+  },
+  {
+    "id":"term-def-existentialism",
+    "classification":"reference_information",
+    "itemType":"term-definition",
+    "topic":"Existentialism",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[51,53],"assignmentName":"Kafka and existentialism notes; Encarta Concise Encyclopedia excerpt"},
+    "content":"The packet includes a philosophical overview attributed to Encarta Concise Encyclopedia: existentialism stresses individual existence, subjectivity, freedom, and choice; it discusses personal responsibility for choices and limits to rational certainty about life's most important questions. The class literary framework separately lists six concepts: existence precedes essence, the Look, beyond good and evil, existential angst, difficulties of communication, and an irrational world.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"The encyclopedia excerpt and class framework are distinct source layers. The packet's framework is not presented here as a comprehensive scholarly definition."
+  },
+  {
+    "id":"term-def-absurdism",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"term-definition",
+    "topic":"Absurdism",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[93,94],"assignmentName":"Assignment 12: Absurdism Purpose Chart"},
+    "content":"Student definition: the search for meaning conflicts with an actual lack of meaning; one should accept this and also rebel against it by embracing what life offers. The student adds that meaningless worlds and individual isolation recur in absurdist literature.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"Student definition; not a teacher-provided exam definition."
+  },
+  {
+    "id":"term-def-anti-utopian",
+    "classification":"teacher_provided_explanation_or_example",
+    "itemType":"term-definition",
+    "topic":"Anti-utopian literature",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[101,102],"section":"Book Chat: Notes over the novel"},
+    "content":"Class notes say anti-utopian literature presents society as it ought not be, criticizes existing societies, and implicitly warns about where they may be headed. Notes describe 1984 as anti-utopian and warn that its lesson is intended to reverse a trend toward hopelessness and totalitarianism.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-flashback",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition-or-use",
+    "topic":"Flashback",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[131],"assignmentName":"Notes 8: Salinger writing techniques"},
+    "content":"The Catcher notes list flashbacks as a narrative technique and say Holden presents memories of earlier events in the middle of his narrative. This is an example/use description, not a full definition.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-point-of-view",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition-or-use",
+    "topic":"Point of view",
+    "novels":["metamorphosis","catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[53,66,131],"assignmentName":"Kafka style notes / Assignment 10 / Catcher notes"},
+    "content":"Class notes describe The Metamorphosis as third person with perspective limited to Gregor's subjective experience. In the completed passage assignment, the student answers that the speaker is the narrator and the point of view is third person. Catcher notes say Holden tells his story in first person.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"The point-of-view entry appears twice in the exam review; these examples do not explain why."
+  },
+  {
+    "id":"term-def-stream-of-consciousness",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition-or-use",
+    "topic":"Stream of consciousness",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[130,131],"assignmentName":"Notes 8: Salinger writing style"},
+    "content":"The filled-in notes call Salinger's narration stream of consciousness and say the reader sees Holden's thoughts in random associations alongside physical actions. Preserve the wording and the author's attribution as packet notes; it has not been independently verified.",
+    "verificationStatus":"not_independently_verified"
+  },
+  {
+    "id":"term-def-frame-story",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition-or-use",
+    "topic":"Frame story",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[130,131],"assignmentName":"Notes 8: Salinger writing techniques"},
+    "content":"The notes describe an outside framework that establishes time, defines the narrator, sets mood, and prepares the reader, and an inside framework that introduces the narrative viewpoint. This is the filled-in class note; not independently checked against the novel.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-situational-irony",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Situational irony",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[96],"assignmentName":"Assignment 13: Forms of Comedy"},
+    "content":"Student definition describes a striking reversal of what is expected or intended. The same group entry includes student-selected Catcher examples; those excerpts are not reproduced in this record.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-antagonist",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Antagonist",
+    "novels":[],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[53,54],"assignmentName":"Literary Conventions and Plot Devices"},
+    "content":"Completed worksheet definition: a character, group, force, or institution that opposes the protagonist and creates the central conflict. The worksheet uses Voldemort as an example. The answer appears in a completed class-note task and is not marked as an official exam definition.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-conflict",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Conflict",
+    "novels":[],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[54],"assignmentName":"Literary Conventions and Plot Devices"},
+    "content":"Completed worksheet definition: the central struggle or tension between opposing forces that drives plot; the worksheet lists person versus person, self, society, or nature as examples.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-dystopia",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Dystopia",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[54,55],"assignmentName":"Literary Conventions and Plot Devices"},
+    "content":"Completed worksheet definition: an imagined society characterized by dehumanizing oppression, totalitarian rule, environmental ruin, or pervasive suffering, often used as a warning about societal trends. The worksheet uses Oceania as an example.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-dynamic-character",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Dynamic character",
+    "novels":[],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[55],"assignmentName":"Literary Conventions and Plot Devices"},
+    "content":"Completed worksheet definition: a character who undergoes significant internal change or growth in perspective, personality, or values. The worksheet uses Scrooge as an example.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-antihero-student",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Antihero: supplemental definition in literary conventions notes",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[55],"assignmentName":"Literary Conventions and Plot Devices"},
+    "content":"Completed worksheet defines an antihero as a central character lacking traditional heroic qualities but still holding the audience's interest or empathy. The worksheet gives Gregor as its example. This definition is retained separately from the teacher-provided Winston assignment directions.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-paradox",
+    "classification":"unverified_or_ambiguous_information",
+    "itemType":"term-definition-status",
+    "topic":"Paradox",
+    "novels":[],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[2,52,53],"section":"Exam review and existentialism excerpt"},
+    "content":"The exam review lists paradox. The existentialism excerpt discusses Pascal's view of life in terms of paradoxes, but the packet does not provide a standalone literary-term definition or an example identified as a literary paradox.",
+    "verificationStatus":"needs_review"
+  },
+  {
+    "id":"term-def-verbal-irony",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Verbal irony",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[96],"assignmentName":"Assignment 13: Forms of Comedy"},
+    "content":"Student definition describes a speaker saying something while meaning the opposite. This is recorded as the group's definition, not a teacher-approved distinction.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-parody",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Parody",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[94,95],"assignmentName":"Assignment 13: Forms of Comedy"},
+    "content":"Student definition says parody intentionally imitates a recognizable person, situation, or style in a way that highlights its qualities, typically humorously. The entry attributes its wording to Cambridge Dictionary; the cited wording is not adopted as a teacher definition.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-stereotype",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Stereotype",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[95],"assignmentName":"Assignment 13: Forms of Comedy"},
+    "content":"Student definition describes a stereotype as a fixed idea about what a person or thing is like, especially when the idea is wrong; entry attributes wording to Cambridge Dictionary.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-sarcasm",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Sarcasm",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[96],"assignmentName":"Assignment 13: Forms of Comedy"},
+    "content":"Student definition says sarcasm uses words opposite to the intended meaning to insult, show irritation, or amuse. It is a group assignment definition and has not been compared with teacher terminology.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-burlesque-tall-tale-slapstick",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition-set",
+    "topic":"Burlesque, tall tale, and slapstick",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[95,97],"assignmentName":"Assignment 13: Forms of Comedy"},
+    "content":"The student group defines burlesque through exaggerated/slapstick or vulgar humor used to ridicule serious/high-status topics; tall tale as folklore with far-fetched exaggeration told as true; and slapstick as physical comedy using exaggerated action, mishaps, and make-believe violence. These definitions are student work, not teacher-approved exam definitions.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-colloquial-language",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"term-definition",
+    "topic":"Colloquial language",
+    "novels":["catcher-in-the-rye"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[131],"assignmentName":"Notes 8: The author J.D. Salinger / Writing Style"},
+    "content":"The completed notes say Holden's colloquial language and slang make his speech sound real for the time period. This is the student's filled-in class note, not a teacher-supplied definition.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"term-def-central-universal-theme",
+    "classification":"unverified_or_ambiguous_information",
+    "itemType":"missing-term-definition",
+    "topic":"Central theme and universal theme",
+    "novels":[],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[2,112,127,132],"section":"Exam term list, theme prompts, and poetry analysis notes"},
+    "content":"The packet names central/universal theme and uses central theme, universal message, and purpose/theme in prompts, but does not provide a standalone definition distinguishing these terms.",
+    "definitionStatus":"missing_in_packet",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"The packet includes student-created theme claims and teacher prompts; do not infer a formal distinction or definition from those examples."
+  },
+  {
+    "id":"term-def-satire",
+    "classification":"unverified_or_ambiguous_information",
+    "itemType":"missing-term-definition",
+    "topic":"Satire",
+    "novels":[],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[2],"section":"Exam Review / Literary Terms"},
+    "content":"Satire appears in the exam-review term list, but no definition or class example for satire was located in the packet.",
+    "definitionStatus":"missing_in_packet",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"reference-writers-digest-details",
+    "classification":"reference_information",
+    "itemType":"supplementary-article",
+    "topic":"Importance of small details in fiction",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[18,19,20,21,22,23],"section":"Assignment 2 embedded Writer's Digest reading"},
+    "content":"The packet includes an excerpt from a Writer's Digest article by Mark Spencer about using concrete, sensuous, emotionally charged details to make fiction vivid, while avoiding gratuitous detail. Student responses apply the article's prompts to Orwell's descriptions. Do not treat the article as teacher exam requirements beyond the assigned questions.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"reference-graphic-novel-selection",
+    "classification":"reference_information",
+    "itemType":"visual-literary-source",
+    "topic":"Peter Kuper's graphic adaptation of The Metamorphosis",
+    "novels":["metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86],"assignmentName":"Assignment 11: graphic novel"},
+    "content":"The image-only selection was visually reviewed page by page. It adapts the opening of Kafka's novella: Gregor awakens transformed, struggles to move and meet work demands, worries about his family and employer, and delays opening the door as his mother and the chief clerk call to him. Kuper uses changing panel size, clock/alarm imagery, distorted scale and faces, and shifts between narration and thought balloons to render time pressure, anxiety, work routine, and Gregor's isolation. This is a concise source description, not a transcription of the adaptation.",
+    "verificationStatus":"checked_page_image",
+    "uncertainty":"The pages contain copyrighted graphic-novel lettering and artwork. No panel text is transcribed; compare directly with the retained PDF for exact wording and visual details."
+  },
+  {
+    "id":"reference-writer-sources-encarta-and-student-links",
+    "classification":"reference_information",
+    "itemType":"reference-source-register",
+    "topic":"Supplementary source attribution in packet",
+    "novels":[],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[52,53,100,104,105],"section":"Existentialism excerpt and student research links"},
+    "content":"The existentialism overview is attributed in the packet to Encarta Concise Encyclopedia. Student research sections include URLs for definitions and historical research. Those links and claims are listed as packet-provided references only; they have not been opened or independently verified.",
+    "verificationStatus":"not_independently_verified"
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "id": "req-novel-knowledge",
+    "classification": "teacher_instruction_or_exam_requirement",
+    "itemType": "exam_skill_scope",
+    "topic": "Novel knowledge",
+    "novels": ["1984", "catcher-in-the-rye", "metamorphosis", "glass-castle"],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [1], "section": "Honors English 10: 2026/2027 First Semester Exam Review"},
+    "content": "For each novel, know main characters, main conflicts, settings, themes/central ideas/universal messages, main symbols/motifs, basic plots, and literary elements.",
+    "verificationStatus": "checked_pdf_text"
+  },
+  {
+    "id": "req-novel-comparison-essay",
+    "classification": "teacher_instruction_or_exam_requirement",
+    "itemType": "exam_component",
+    "topic": "Novel comparison essay",
+    "summary": "Argue and prove a position comparing and contrasting novel characters, symbols, and central or universal ideas.",
+    "examPoints": 20,
+    "novels": ["1984", "catcher-in-the-rye", "metamorphosis", "glass-castle"],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [1], "section": "Exam Review"},
+    "content": "Students will receive an essay question requiring them to argue and prove a position comparing and contrasting characters, symbols, central/universal ideas, etc. of the novels. Stated value: 20 points.",
+    "verificationStatus": "checked_pdf_text"
+  },
+  {
+    "id": "req-argument-paragraph",
+    "classification": "teacher_instruction_or_exam_requirement",
+    "itemType": "exam_component",
+    "topic": "Argumentative writing",
+    "summary": "Write an argumentative paragraph with a strong three-part thesis and properly incorporated quotations from a provided Works Cited.",
+    "examPoints": 10,
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [1], "section": "Exam Review"},
+    "content": "Students receive a brief Works Cited with quotations from each source and write an argumentative paragraph with a strong three-part thesis and properly incorporated quotations. Stated value: 10 points.",
+    "verificationStatus": "checked_pdf_text"
+  },
+  {
+    "id": "req-poem-analysis",
+    "classification": "teacher_instruction_or_exam_requirement",
+    "itemType": "exam_component",
+    "topic": "Poem analysis",
+    "summary": "Identify form; paraphrase each stanza; analyze poetic devices; explain purpose or theme.",
+    "examPoints": 15,
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [1, 132, 133], "section": "Exam Review and Notes 9"},
+    "content": "A four-part poem analysis is required. The later class notes specify: identify form (type, rhyme scheme, stanza type, etc.); paraphrase/summarize each stanza; identify poetic devices; identify purpose/theme. The notes also say to read the whole poem, define words when needed, and explain how stanzas build the larger meaning. Stated value: 15 points.",
+    "verificationStatus": "checked_pdf_text"
+  },
+  {
+    "id": "req-passage-annotation",
+    "classification": "teacher_instruction_or_exam_requirement",
+    "itemType": "exam_component",
+    "topic": "Passage annotation",
+    "summary": "Annotate two different passages and explain how literary choices develop meaning and author purpose.",
+    "examPoints": 20,
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [1, 65], "section": "Exam Review; Assignment 10 directions"},
+    "content": "There will be two different passages. Annotate and explain why/how identified words, lines, literary elements, syntax, diction, color imagery, direct/indirect characterization, point of view, conflict, symbolism, and central-theme development enhance the passage and develop author purpose. Stated value: 20 points.",
+    "verificationStatus": "checked_pdf_text"
+  },
+  {
+    "id": "req-literary-terms-multiple-choice",
+    "classification": "teacher_instruction_or_exam_requirement",
+    "itemType": "exam_component",
+    "topic": "Literary terms",
+    "summary": "Identify the literary function in supplied examples; the review states 20 definitions/examples, one point each.",
+    "examPoints": 20,
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [2], "section": "Exam Review"},
+    "content": "Students will be provided examples and identify the literary function. The review says 20 definitions/examples, one point each, multiple-choice format. The exact term inventory is recorded in the literary-terms database; point of view appears twice in the printed list.",
+    "verificationStatus": "checked_pdf_text",
+    "uncertainty": "The duplicated point-of-view entry may be intentional or a source duplication; do not deduplicate the printed list without confirmation."
+  },
+  {
+    "id": "req-poetry-multiple-choice",
+    "classification": "teacher_instruction_or_exam_requirement",
+    "itemType": "exam_component",
+    "topic": "Poetry multiple choice",
+    "summary": "Practice identifying poetic form, rhyme scheme, and poetic terms used in a poem.",
+    "examPoints": 10,
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133], "section": "Exam Review and poetry notes"},
+    "content": "Prepare to analyze a poem and identify poetic form, rhyme scheme, and poetic terms used in it. The review names 'Nothing Gold Can Stay', 'Out, Out', 'The Tyger', 'Comin Thro the Rye', and 'War is Kind' for practice. Stated value: 10 points.",
+    "verificationStatus": "checked_pdf_text",
+    "uncertainty": "The packet does not say whether the exam poem will be an unfamiliar poem or one studied in class."
+  },
+  {
+    "id": "req-close-reading-portion",
+    "classification": "teacher_instruction_or_exam_requirement",
+    "itemType": "exam_component_notice",
+    "topic": "Close Reading and Response",
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [5], "section": "Close Reading and Response"},
+    "content": "On the Monday prior to exams, students will receive a passage from a persuasive essay, a poem, and a fiction passage, with questions over each. The notice says this counts as a portion of the exam grade and labels the section 17 points.",
+    "verificationStatus": "checked_pdf_text",
+    "uncertainty": "The notice does not reconcile these 17 points with the six listed components totaling 95 points, or state the calendar date."
+  },
+  {
+    "id": "req-test-taking-advice",
+    "classification": "teacher_provided_explanation_or_example",
+    "itemType": "test_taking_advice",
+    "topic": "Timed response strategy",
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [10], "section": "Suggestions / Pointers for Test Taking"},
+    "content": "Be prepared; create possible questions; bring examples; focus and write quickly; answer directly, to the point, and thoroughly; answer all parts; analyze each part of a quotation; avoid overgeneralizing; back up claims; use concrete, specific examples and explain how they support the point.",
+    "verificationStatus": "checked_pdf_text"
+  },
+  {
+    "id": "req-sceen-framework",
+    "classification": "teacher_provided_explanation_or_example",
+    "itemType": "response_framework",
+    "topic": "S-C-E-E-N paragraph strategy",
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [10], "section": "Suggestions / Pointers for Test Taking"},
+    "content": "S — state the main point. C — clarify what you mean. E — give concrete, specific examples. E — explain how the example applies to your point and links to your claim. N — wrap it up quickly and move on.",
+    "verificationStatus": "checked_pdf_text"
+  },
+  {
+    "id": "project-context-exam-date-and-future-catcher",
+    "classification": "unverified_or_ambiguous_information",
+    "itemType": "project_context",
+    "topic": "Exam date and anticipated uploads",
+    "novels": ["catcher-in-the-rye"],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [1], "section": "Project overview text before the teacher review"},
+    "content": "The project-context text says the exam date is December 15 and says more information about The Catcher in the Rye will arrive later.",
+    "verificationStatus": "needs_review",
+    "uncertainty": "This appears in project-context text, not the formal teacher exam review. Keep the date and expected upload attributed to that context rather than teacher-confirmed schedule information."
+  },
+  {
+    "id": "req-literary-term-count-ambiguity",
+    "classification": "unverified_or_ambiguous_information",
+    "itemType": "exam-scope-ambiguity",
+    "topic": "Literary-term list length versus multiple-choice count",
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [2], "section": "Exam Review / Literary Terms"},
+    "content": "The review says the test will provide 20 definitions/examples, one point each, but the printed term list contains 43 entries when the repeated point-of-view entry is retained. The packet does not say which terms will appear or how the list relates to the 20 questions.",
+    "verificationStatus": "checked_pdf_text",
+    "uncertainty": "Do not infer that every listed term will be tested or remove the repeated point-of-view entry."
+  },
+  {
+    "id": "teacher-poetry-skill-scope",
+    "classification": "teacher_instruction_or_exam_requirement",
+    "itemType": "poetry-skill-inventory",
+    "topic": "Poetry multiple-choice terms and forms",
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [2, 132, 133], "section": "Poetry review and Notes 9"},
+    "content": "The review names rhyme scheme, irony, simile, imagery, metaphor, alliteration, assonance, theme, onomatopoeia, allusion, symbol, and repetition. It lists open and closed form, stanza, free verse, couplet, and quatrain. Notes 9 also list line, tercet, quatrain, cinquain, sestet, septet (printed as 'Setet'), and octave as stanza lengths. These are source-listed terms and labels, not a claim that every term has a teacher-supplied definition.",
+    "verificationStatus": "checked_pdf_text",
+    "uncertainty": "The packet contains a spelling/transcription 'Setet' beside seven lines; preserve the source wording unless confirmed."
+  },
+  {
+    "id": "teacher-poetry-analysis-procedure",
+    "classification": "teacher_instruction_or_exam_requirement",
+    "itemType": "analysis-procedure",
+    "topic": "Four-part poem analysis",
+    "novels": [],
+    "source": {"documentId": "honors-english-10-midterm-packet", "pdfPages": [132, 133], "section": "Notes 9: Poetry Analysis"},
+    "content": "The four steps are identify form (type, rhyme scheme, stanza type, etc.); paraphrase or summarize each stanza; identify poetic devices; and identify purpose/theme. Test notes add: read the whole poem first, define words if needed, explain how stanzas build the larger meaning, know open versus closed form, label rhyme scheme, and treat poetic devices as intentional.",
+    "verificationStatus": "checked_pdf_text"
+  }
+]

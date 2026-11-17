@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "sourceDocumentId": "honors-english-10-midterm-packet",
+  "coverage": {
+    "pageCount": 133,
+    "firstPage": 1,
+    "lastPage": 133,
+    "pageRangesAreInclusive": true,
+    "allPagesReadInOrder": true,
+    "imageOnlyPagesVisuallyReviewed": [69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86],
+    "additionalEmbeddedImagePagesVisuallyReviewed": [18, 40, 68, 87, 89, 91]
+  },
+  "mappingNote": "Page-range groups partition all 133 pages and connect extracted records to their source context. A record may span several pages; this map does not claim that every sentence on each page has been transcribed as an independent record. Pages with no standalone educational record are still included in a reviewed range.",
+  "groups": [
+    {
+      "pages": [1, 4],
+      "content": "Formal exam review, Two Minutes Hate passage, Diane Glancy poem and questions.",
+      "recordIds": ["req-novel-knowledge", "req-novel-comparison-essay", "req-argument-paragraph", "req-poem-analysis", "req-passage-annotation", "practice-1984-two-minute-hate-annotation", "practice-without-title-poem"]
+    },
+    {
+      "pages": [5, 10],
+      "content": "Close-reading notice, Allen editorial, Brennan opinion excerpt, question sets, printed keys, test-taking advice, and S-C-E-E-N.",
+      "recordIds": ["req-close-reading-portion", "req-test-taking-advice", "req-sceen-framework", "practice-allen-editorial-and-brennan-opinion", "practice-close-reading-exercise-types"]
+    },
+    {
+      "pages": [11, 17],
+      "content": "Winston stages prompt and 1984 character/theme assignment with student responses and blank evidence slots.",
+      "recordIds": ["teacher-1984-theme-framework", "teacher-1984-character-theme-assignment", "1984-plot-coverage-gap", "student-1984-character-notes", "student-1984-charrington-interpretation", "student-1984-winston-stages"]
+    },
+    {
+      "pages": [18, 23],
+      "content": "Writer's Digest reading and student responses applying detail analysis to 1984.",
+      "recordIds": ["reference-writers-digest-details", "student-1984-detail-assignment"]
+    },
+    {
+      "pages": [24, 26],
+      "content": "Antihero assignment directions and Winston response.",
+      "recordIds": ["teacher-antihero-assignment-directions", "term-def-antihero", "student-antihero-assignment"]
+    },
+    {
+      "pages": [27, 36],
+      "content": "Archetype handout, example chart, and student applications to 1984 and The Glass Castle.",
+      "recordIds": ["teacher-archetype-assignment-directions", "term-def-archetype", "student-archetype-example-chart", "student-1984-archetypes", "student-glass-castle-archetypes", "student-glass-castle-rose-mary-shadow", "student-glass-castle-tyrant-comparison", "glass-castle-plot-and-character-coverage-gap"]
+    },
+    {
+      "pages": [37, 48],
+      "content": "Setting, description, atmosphere, tone, mood definitions/prompts, illustrated exercise, and student close-reading responses.",
+      "recordIds": ["teacher-setting-tone-mood-directions", "student-1984-settings-atmosphere", "student-glass-castle-settings", "student-setting-media-exercises", "term-def-tone", "term-def-mood", "term-def-atmosphere-description"]
+    },
+    {
+      "pages": [49, 50],
+      "content": "Allegory definition, directions, and student comparisons of 1984 and The Glass Castle.",
+      "recordIds": ["teacher-allegory-assignment-directions", "term-def-allegory", "student-1984-allegory", "student-glass-castle-allegory"]
+    },
+    {
+      "pages": [51, 55],
+      "content": "Kafka notes, existential framework/reference, literary conventions, and symbol list.",
+      "recordIds": ["metamorphosis-kafka-notes", "term-def-kafkaesque", "term-def-existentialism", "term-def-antagonist", "term-def-conflict", "term-def-dystopia", "term-def-dynamic-character", "reference-writer-sources-encarta-and-student-links"]
+    },
+    {
+      "pages": [56, 58],
+      "content": "Existentialism chart directions and completed student comparison.",
+      "recordIds": ["teacher-existentialism-chart-directions", "student-existentialism-chart"]
+    },
+    {
+      "pages": [59, 64],
+      "content": "Metamorphosis symbol and character-role charts, student development stages, and review flags.",
+      "recordIds": ["teacher-metamorphosis-symbol-character-directions", "student-metamorphosis-symbols", "student-metamorphosis-character-roles", "student-metamorphosis-stages", "metamorphosis-plot-coverage-status"]
+    },
+    {
+      "pages": [65, 68],
+      "content": "Kafka passage-analysis directions and student SOAPST/device responses; graphic-assignment introduction.",
+      "recordIds": ["teacher-metamorphosis-passage-analysis-directions", "student-metamorphosis-annotation"]
+    },
+    {
+      "pages": [69, 86],
+      "content": "Image-only Peter Kuper graphic adaptation, visually reviewed page by page.",
+      "recordIds": ["reference-graphic-novel-selection"]
+    },
+    {
+      "pages": [87, 91],
+      "content": "Graphic-versus-prose comparison prompts, completed student Venn diagram, critical vocabulary, and blank word-choice tasks.",
+      "recordIds": ["teacher-graphic-novel-assignment-instructions", "student-graphic-novel-venn-analysis", "teacher-critical-vocabulary-strategy", "reference-graphic-novel-selection"]
+    },
+    {
+      "pages": [92, 93],
+      "content": "Absurdism chart and student definitions/conclusions.",
+      "recordIds": ["teacher-absurdism-assignment-directions", "student-absurdism-chart"]
+    },
+    {
+      "pages": [94, 98],
+      "content": "Catcher comedy-forms assignment directions, student group work and examples, and rubric.",
+      "recordIds": ["teacher-catcher-comedy-assignment", "catcher-comedy-assignment", "catcher-example-citation-metadata", "catcher-plot-and-evidence-coverage-gap"]
+    },
+    {
+      "pages": [99, 105],
+      "content": "Orwell/class notes, Newspeak and Oceania, historical context, and student-completed research sections.",
+      "recordIds": ["teacher-1984-orwell-and-book-chat-notes", "teacher-1984-book-chat-notes", "student-1984-newsgpeak-research", "reference-writer-sources-encarta-and-student-links"]
+    },
+    {
+      "pages": [106, 112],
+      "content": "Repeated 1984 character/theme notes and student work; incomplete evidence slots remain blank.",
+      "recordIds": ["student-1984-character-notes", "student-1984-charrington-interpretation"]
+    },
+    {
+      "pages": [113, 120],
+      "content": "Cross-novel theme prompts/student messages and 1984/Glass Castle symbol and motif tables.",
+      "recordIds": ["teacher-cross-novel-theme-and-symbol-directions", "student-1984-theme-messages", "student-1984-symbols", "student-glass-castle-themes", "student-glass-castle-symbols", "term-def-symbol", "term-def-motif"]
+    },
+    {
+      "pages": [121, 125],
+      "content": "Repeated Kafka/existentialism notes, attributed encyclopedia reference, conventions, and symbol list.",
+      "recordIds": ["metamorphosis-kafka-notes", "term-def-existentialism", "term-def-antagonist", "term-def-conflict", "term-def-dystopia", "term-def-dynamic-character", "reference-writer-sources-encarta-and-student-links"]
+    },
+    {
+      "pages": [126, 129],
+      "content": "Annotation guidance and student theme-presentation work for The Metamorphosis.",
+      "recordIds": ["teacher-annotation-notes", "teacher-metamorphosis-theme-presentation-directions", "student-metamorphosis-themes"]
+    },
+    {
+      "pages": [130, 133],
+      "content": "Filled-in Catcher notes, writing-style/plot information, and poetry analysis instructions/forms.",
+      "recordIds": ["catcher-class-notes", "teacher-poetry-skill-scope", "teacher-poetry-analysis-procedure", "term-def-colloquial-language"]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+[
+  {
+    "id":"teacher-1984-theme-framework",
+    "classification":"teacher_provided_explanation_or_example",
+    "itemType":"theme_framework",
+    "topic":"1984 themes supplied on the character/theme worksheet",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[11,105],"assignmentName":"1984 Character & Theme Notes","section":"Themes listed for assigned character analysis"},
+    "content":"The worksheet lists: alienation and isolation; corrupting power of technology; struggle to define the individual in an amoral, mass industrialized world; fear of government power and corruption and belief all governments are essentially the same; awareness of mankind's fragility; fear that modern man cannot deal with history or future. These are teacher-provided worksheet themes, separate from student-written universal messages.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"teacher-1984-book-chat-notes",
+    "classification":"teacher_provided_explanation_or_example",
+    "itemType":"class_notes",
+    "topic":"1984 anti-utopian context, conflict, Oceania and propaganda",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[101,102,103,104],"section":"Book Chat: Notes over the novel"},
+    "content":"The class notes describe 1984 as anti-utopian: a warning about where societies may be headed. They identify the central conflict as individual consciousness versus collective consciousness (freedom versus totalitarianism); name the four ministries (Truth/propaganda, Peace/war, Love/internal police, Plenty/economy); describe Inner Party, Outer Party, and Proles; and discuss propaganda, the Two Minutes Hate, doublethink, Newspeak, and control of thought. These notes are recorded as class-provided material, not independently verified against the novel or history.",
+    "quotations":[{"classification":"literary_evidence_or_quotation","exactWording":"War is Peace / Freedom is Slavery / Ignorance is Strength","workOrSource":"1984 class notes","speakerOrContext":"Slogans of Oceania as reproduced in the packet.","verificationStatus":"checked_pdf_text"}],
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-1984-character-notes",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"character-analysis-assignment",
+    "topic":"Assigned character notes and development claims",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[11,17,105,112],"assignmentName":"1984 Character & Theme Notes","section":"Student responses; duplicated in later notes"},
+    "content":"Student responses describe Charrington as static and two-dimensional, an antique-shopkeeper/undercover Thought Police member who sells Winston a diary, paperweight, and room before betraying him. O'Brien is described as a flat, two-dimensional Party member who pretends to be a Brotherhood ally and uses torture to destroy Winston's individuality. Katharine is described as a flat, one-dimensional devoted Party member. Syme is described as static, highly intelligent, and devoted to Newspeak. Goldstein is described as a scapegoat/target for Party hate and as illustrating individual powerlessness. Parsons is described as loyal to the Party despite being reported by his children. Julia is described as initially giving Winston hope and later representing human frailty after torture. Several characters' requested evidence slots are blank. Preserve these as student claims, including interpretive labels.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"Student characterization terms and thematic readings are not teacher rulings. O'Brien, Katharine, Syme, Parsons, and Julia evidence slots are incomplete in the packet."
+  },
+  {
+    "id":"student-1984-charrington-interpretation",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"character-analysis",
+    "topic":"Charrington's deception and trust",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[11,12,106,107],"assignmentName":"1984 Character & Theme Notes"},
+    "content":"Student argument: Charrington's apparent helpfulness and later betrayal show how an authoritarian government makes people difficult to trust. The student reads Winston's perspective as part of Charrington's successful deception and says Charrington is physically recognizable but no longer the same person in Winston's understanding.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"You are the dead","workOrSource":"1984","speakerOrContext":"Charrington reveals the trap to Winston and Julia.","bookCitationAsSupplied":"(Orwell 221)","verificationStatus":"not_independently_verified","uncertainty":"Checked as supplied in the packet; not compared to an identified novel edition."},
+      {"classification":"literary_evidence_or_quotation","exactWording":"He was obviously glad of the few dollars that it would bring him. Nor did he seem shocked or become offensively knowing when it was made clear that Winston wanted the room for the purpose of a love-affair","workOrSource":"1984","speakerOrContext":"Student cites Winston's initial reading of Charrington's reaction.","bookCitationAsSupplied":"(Orwell 172)","verificationStatus":"not_independently_verified","uncertainty":"Quotation and page as supplied; source packet warns that some 1984 page numbers are inaccurate."},
+      {"classification":"literary_evidence_or_quotation","exactWording":"He was still recognizable, but he was not the same person any longer","workOrSource":"1984","speakerOrContext":"Student interpretation of Winston seeing Charrington after the reveal.","bookCitationAsSupplied":"(Orwell 222)","verificationStatus":"not_independently_verified","uncertainty":"Quotation and page as supplied; not checked against an identified edition."}
+    ],
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-1984-winston-stages",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"assignment-response",
+    "topic":"Winston's initial state, force of change, and final state",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[10,11],"assignmentName":"Assignment 1: Identify the Stages of Winston"},
+    "content":"The assignment prompt asks for Winston's initial state, force of change, and final state. The table is blank in the packet; no completed response is present.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-1984-detail-assignment",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"detail-analysis",
+    "topic":"Orwell's concrete details and purpose",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[17,24],"assignmentName":"Assignment 2: Why/how is detail important?"},
+    "content":"Student argues that sensory detail makes Oceania vivid, emphasizes impoverishment and decay, and makes surveillance feel present. The response reads the Victory Gin description as a symbol of how the Party normalizes poor conditions; reads Julia's Junior Anti-Sex League sash as ironic because she publicly appears to support the Party while rebelling; reads Winston's questions about London as uncertainty and hopelessness; and says the ending 'He loved Big Brother' creates a terrifying warning about totalitarian control. The student concludes Orwell's details made the story feel compelling and real.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"a bold-looking girl, of about twenty-seven, with thick hair, a freckled face, and swift, athletic movements. A narrow scarlet sash, emblem of the Junior Anti-Sex League, was wound several times round the waist of her overalls","workOrSource":"1984","speakerOrContext":"Student-selected descriptive detail about Julia.","bookCitationAsSupplied":"(Orwell 12)","verificationStatus":"not_independently_verified","uncertainty":"Wording and citation preserved as in student response; edition not identified."},
+      {"classification":"literary_evidence_or_quotation","exactWording":"The hallway smelt of boiled cabbage and old rag mats","workOrSource":"1984","speakerOrContext":"Student-selected detail about Victory Mansions.","bookCitationAsSupplied":"(Orwell 5)","verificationStatus":"not_independently_verified","uncertainty":"Wording/citation as supplied; some 1984 page references may be inaccurate."},
+      {"classification":"literary_evidence_or_quotation","exactWording":"He loved Big Brother","workOrSource":"1984","speakerOrContext":"Final line, used by the student to describe the effect of the ending.","bookCitationAsSupplied":"(Orwell 271)","verificationStatus":"not_independently_verified","uncertainty":"The student response gives this citation; page number not edition-verified."},
+      {"classification":"literary_evidence_or_quotation","exactWording":"one of those pictures which are so contrived that the eyes follow you about when you move","workOrSource":"1984","speakerOrContext":"Student-selected description of Big Brother's picture.","bookCitationAsSupplied":"(Orwell 5)","verificationStatus":"not_independently_verified","uncertainty":"Wording and page as supplied; edition not identified."}
+    ],
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"Student response contains a possible wording inconsistency around cloves/saccharine and a comparison written as 'similar to clover and saccharine'; preserve and review rather than correcting."
+  },
+  {
+    "id":"student-antihero-assignment",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"character-analysis",
+    "topic":"Winston as antihero",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[24,26],"assignmentName":"Assignment 3: 1984 Winston: The Anti-Hero"},
+    "content":"Student applies the worksheet's antihero categories: Winston has faults, makes mistakes, puzzles over difficult choices, and finally does what the student calls the 'right thing.' The final claim is based on Winston's statement that he had not stopped loving Julia. Preserve that conclusion as the student's interpretation; the assignment also notes that Winston eventually admits betrayal, and later packet material records the novel's ending as loving Big Brother.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"had a varicose ulcer above his right ankle, went slowly, resting several times on the way","workOrSource":"1984","speakerOrContext":"Student evidence for Winston's physical faults.","bookCitationAsSupplied":"(Orwell 5)","verificationStatus":"not_independently_verified","uncertainty":"Page number is as supplied and may be edition-dependent."},
+      {"classification":"literary_evidence_or_quotation","exactWording":"DOWN WITH BIG BROTHER","workOrSource":"1984","speakerOrContext":"Winston writes the words in his diary.","bookCitationAsSupplied":"(Orwell 19)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"at any rate there was no telescreen in the room","workOrSource":"1984","speakerOrContext":"Winston's mistaken belief about Charrington's room.","bookCitationAsSupplied":"(Orwell 83)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"That the choice for mankind lay between freedom and happiness, and that, for the great bulk of mankind, happiness was better","workOrSource":"1984","speakerOrContext":"Winston considers freedom and happiness while being tortured.","bookCitationAsSupplied":"(Orwell 239)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"perceived that if you want to keep a secret you must also hide it from yourself","workOrSource":"1984","speakerOrContext":"Student evidence for Winston's difficult choices.","bookCitationAsSupplied":"(Orwell 255)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"And yet, in the sense in which he intended the word, he had not betrayed her. He had not stopped loving her","workOrSource":"1984","speakerOrContext":"Student's evidence for the claim that Winston does the 'right thing' in the end.","bookCitationAsSupplied":"(Orwell 249)","verificationStatus":"not_independently_verified","uncertainty":"This is the student's selected criterion and interpretation, not a teacher-approved judgment."}
+    ],
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"The student labels Winston's love after torture as the 'right thing'; this is interpretive and should not be presented as an established answer key."
+  },
+  {
+    "id":"student-1984-archetypes",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"archetype-analysis",
+    "topic":"Archetype readings of characters and systems in 1984",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[31,33,36],"assignmentName":"Assignment 4: 1984 and The Glass Castle Archetype"},
+    "content":"Student reads O'Brien through a Christian-savior archetype (with an ironic reversal), the telescreen as surveillance, the Party as totalitarian control, Goldstein as scapegoat, and O'Brien as tyrant. The student links these archetypes to control, betrayal, and loss of freedom. Other-source comparisons in the same assignment are student-generated and should remain attributed as such.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"Don't worry, Winston; you are in my keeping. For seven years I have watched over you. Now the turning point has come. I shall save you, I shall make you perfect","workOrSource":"1984","speakerOrContext":"O'Brien speaks to Winston in the Ministry of Love; presented as a Christian-savior archetype passage.","bookCitationAsSupplied":"(Orwell 244)","verificationStatus":"not_independently_verified","uncertainty":"Packet notes elsewhere that some 1984 page numbers are inaccurate."},
+      {"classification":"literary_evidence_or_quotation","exactWording":"To cure you! To make you sane!","workOrSource":"1984","speakerOrContext":"O'Brien's statement as transcribed by the student.","bookCitationAsSupplied":"(Orwell 126)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"The Party seeks power entirely for its own sake","workOrSource":"1984","speakerOrContext":"Student uses this to characterize totalitarian control.","bookCitationAsSupplied":"(Orwell 131)","verificationStatus":"not_independently_verified"}
+    ],
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-1984-settings-atmosphere",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"setting-analysis",
+    "topic":"1984 settings and atmosphere",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[37,39,41,46],"assignmentName":"Assignment 5: Setting: Description and Atmosphere = Tone and Mood"},
+    "content":"The student describes Smith's apartment/city as bleak and unsettling; the room over Charrington's shop as safe and free; the Golden Country as peaceful and spacious; O'Brien's apartment as clean but intimidating/eerie; and Room 101 as frightening and suspenseful. In tone/mood responses, the student describes the childhood-memory passage as bleak, disturbing, and depressing, and O'Brien's apartment passage as tense and increasingly frightening. These are student descriptions and emotional readings.",
+    "quotations":[
+      {"classification":"literary_evidence_or_quotation","exactWording":"Outside, even through the shut window-pane, the world looked cold. Down in the street little eddies of wind were whirling dust and torn paper into spirals","workOrSource":"1984","speakerOrContext":"Setting description selected in the student's worksheet.","bookCitationAsSupplied":"(Orwell 2)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"The room was a world, a pocket of the past where extinct animals could walk","workOrSource":"1984","speakerOrContext":"Room above Charrington's shop.","bookCitationAsSupplied":"(Orwell 73)","verificationStatus":"not_independently_verified"},
+      {"classification":"literary_evidence_or_quotation","exactWording":"The whole atmosphere of the huge block of flats, the richness and spaciousness of everything, the unfamiliar smells of good food and good tobacco, the silent and incredibly rapid lifts sliding up and down, the white-jacketed servants hurrying to and fro—everything was intimidating","workOrSource":"1984","speakerOrContext":"O'Brien's apartment building.","bookCitationAsSupplied":"(Orwell 81)","verificationStatus":"not_independently_verified"}
+    ],
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-1984-theme-messages",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"theme-comparison",
+    "topic":"Student central themes and universal messages for 1984 and The Glass Castle",
+    "novels":["1984","glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[112,116],"assignmentName":"Notes 3: Introduction to Themes"},
+    "content":"Student adds themes beyond the initial worksheet list: government versus parental control; history and memory; survival and resilience; and hope. Student messages include: be inclusive rather than alienating others; isolation can sometimes protect identity; use technology in moderation; individuals should define themselves despite social pressure; be cautious of excessive authority; memory helps recognize distorted truth; people adapt selectively to hardship; and hope should not replace critical attention to evidence. Keep these as student-produced universal messages, including their wording and any claim that needs review.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"Some student theme pairings are broad or internally nuanced (for example, alienation versus beneficial isolation); do not convert them into teacher expectations without review."
+  },
+  {
+    "id":"student-1984-symbols",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"symbol-and-motif-notes",
+    "topic":"1984 symbol/motif table",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[116,118],"assignmentName":"Notes 4: Symbols and Motifs"},
+    "content":"The student table lists Big Brother, Newspeak, Proles, dust, Golden Country, telescreen, paperweight, Room 101/rats, and the four Ministries. Student meanings include authoritarian power, thought manipulation, hope/rebellion, fear/paranoia, freedom, history/memory, surveillance, and control of truth. The student marks some as recurring symbolic/conceptual motifs. The packet's definitions and recurrence criterion are student-entered notes, not verified teacher definitions.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"Several motif labels and symbolic meanings are student classifications and should not be treated as settled without textual review."
+  },
+  {
+    "id":"student-1984-allegory",
+    "classification":"student_interpretation_or_analytical_argument",
+    "itemType":"allegory-analysis",
+    "topic":"Allegorical readings of 1984",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[49,50],"assignmentName":"Assignment 6: Exploring Allegory in 1984 and The Glass Castle"},
+    "content":"Student interprets Big Brother as extreme authoritarian government control, Newspeak as control of thought, and Room 101 as destruction of individuality/humanity through fear. Student argues that 1984's allegorical elements are more deliberately political than those in the memoir The Glass Castle. Preserve this comparison as the student's hypothesis, not a teacher assertion.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"student-1984-newsgpeak-research",
+    "classification":"student_assignment_or_completed_response",
+    "itemType":"research-response",
+    "topic":"McCarthyism, Alien Registration Act, HUAC, and Newspeak",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[100,104,105],"assignmentName":"Notes 1: 1984 and George Orwell Notes / highlighted research"},
+    "content":"Student-completed research sections define capitalism, socialism, and communism and summarize McCarthyism, the Alien Registration Act, HUAC, and Joseph McCarthy. The packet supplies external URLs alongside the student's wording. These are student-supplied research responses, not teacher exam requirements; the separate Orwell, Newspeak, and Book Chat notes are recorded as class/reference notes.",
+    "verificationStatus":"not_independently_verified",
+    "uncertainty":"External links and historical claims have not been independently checked; the user has not authorized outside research to fill gaps."
+  },
+  {
+    "id":"teacher-1984-character-theme-assignment",
+    "classification":"teacher_instruction_or_exam_requirement",
+    "itemType":"assignment-directions",
+    "topic":"1984 character and theme analysis",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[10,11,105],"assignmentName":"Assignment 1 and 1984 Character & Theme Notes"},
+    "content":"The Winston stages page asks students to identify an initial state, force of change, and final state; the response table is blank. The character/theme worksheet asks each student to complete only their assigned character, identify characterization and relationship to Winston, connect the character to one of the listed central themes, explain the character's role/purpose, and give three cited pieces of evidence. Preserve blank evidence slots as incomplete rather than filling them.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"1984-plot-coverage-gap",
+    "classification":"unverified_or_ambiguous_information",
+    "itemType":"coverage-status",
+    "topic":"No complete 1984 plot summary in the packet's extracted notes",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[1,10,11,101,105,106,112],"section":"Exam review, Winston stages prompt, character/theme notes, and Book Chat"},
+    "content":"The exam review requires basic plot knowledge. The Winston stages response table is blank, and the packet's 1984 notes focus on character/theme assignments, excerpts, historical context, and selected class notes rather than a complete plot outline. Do not infer a complete plot guide from these partial records.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"The student has been asked to know the novel, but the packet does not supply a complete teacher-authored plot summary."
+  },
+  {
+    "id":"teacher-1984-orwell-and-book-chat-notes",
+    "classification":"teacher_provided_explanation_or_example",
+    "itemType":"class-notes",
+    "topic":"Orwell, historical context, Newspeak, and Oceania",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[99,101,102,103,104],"assignmentName":"Notes 1: 1984 and George Orwell / Book Chat"},
+    "content":"The notes cover Orwell's biography, writing and political views; a timeline; Newspeak and its A/B/C vocabularies; the anti-utopian warning and central conflict; the Ministries and Party classes; and propaganda through the Two Minutes Hate, slogans, doublethink, and Newspeak. The class-note statements are preserved as packet content, not independently verified historical or literary facts. Student-completed research responses on pp. 100 and 104-105 are kept separate.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"Some teacher/class notes and student research are adjacent on the same pages; page 104 contains both notes and the start of research."
+  },
+  {
+    "id":"teacher-antihero-assignment-directions",
+    "classification":"teacher_instruction_or_exam_requirement",
+    "itemType":"assignment-directions-and-criteria",
+    "topic":"Winston and a contemporary antihero",
+    "novels":["1984"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[24,25,26],"assignmentName":"Assignment 3: Winston: The Anti-Hero"},
+    "content":"The handout contrasts traditional heroes with human antiheroes who have faults, make mistakes, puzzle over difficult decisions, and usually do what readers hope they would do in similar circumstances. Students provide two cited examples for each of the first three traits and one quotation for Winston's final 'right thing'; Part 2 asks for one contemporary antihero and an explanation/example for each trait. This is an assignment description, not a separately stated exam rubric.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"teacher-archetype-assignment-directions",
+    "classification":"teacher_instruction_or_exam_requirement",
+    "itemType":"assignment-directions",
+    "topic":"Archetypes in 1984 and The Glass Castle",
+    "novels":["1984","glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[27,31,32,33,34,35,36],"assignmentName":"Assignment 4: Archetype"},
+    "content":"The handout defines archetypes and their literary purpose, then asks students to find three examples for each of nine archetype prompts and explain associated meanings/emotions. The novel-specific assessment asks students to locate cited passages for assigned archetypes in Part Three, explain the interpretation, find another example from another source, and explain the archetype's purpose/message. Student answers are stored separately and remain student interpretations.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"The assessment directions refer to an archetype example for Rex on p. 33; page 33 is student work rather than an independent teacher answer key."
+  },
+  {
+    "id":"teacher-setting-tone-mood-directions",
+    "classification":"teacher_instruction_or_exam_requirement",
+    "itemType":"assignment-directions-and-concepts",
+    "topic":"Setting, description, atmosphere, tone, and mood",
+    "novels":["1984","glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[37,38,39,40,41,42,43,44,45,46,47,48],"assignmentName":"Assignment 5: Setting, description, atmosphere, tone, and mood"},
+    "content":"The packet defines setting and asks students to distinguish literal sensory description from the atmosphere or emotion it elicits, then apply those ideas to passages and media. Later questions ask students to identify tone-producing words, explain how tone affects mood, and name the resulting mood. Answers on these pages are student work; the illustrated setting exercise on p. 40 is also a completed student response.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"The assignment heading conflates setting/description/atmosphere with tone and mood; keep the teacher's wording while preserving the student's definitions separately."
+  },
+  {
+    "id":"teacher-allegory-assignment-directions",
+    "classification":"teacher_instruction_or_exam_requirement",
+    "itemType":"assignment-directions",
+    "topic":"Allegory in 1984 and The Glass Castle",
+    "novels":["1984","glass-castle"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[49,50],"assignmentName":"Assignment 6: Exploring Allegory"},
+    "content":"The assignment provides a definition of allegory and asks students to identify and compare allegorical elements in both works using a table of element, representation, and textual evidence, then discuss similarities, differences, author purpose, and effectiveness. The listed grade is 'Unknown Grade'; do not infer mastery from it.",
+    "verificationStatus":"checked_pdf_text"
+  },
+  {
+    "id":"teacher-cross-novel-theme-and-symbol-directions",
+    "classification":"teacher_instruction_or_exam_requirement",
+    "itemType":"assignment-directions-and-concept-list",
+    "topic":"Cross-novel themes, symbols, and motifs",
+    "novels":["1984","glass-castle","metamorphosis"],
+    "source":{"documentId":"honors-english-10-midterm-packet","pdfPages":[112,116,117,118,119,120],"assignmentName":"Notes 3: Introduction to Themes; Notes 4: Symbols and Motifs"},
+    "content":"The notes list central themes and ask students to give novel examples, explain how the ideas appear, and state a universal message. Notes 4 ask students to complete literal description, symbolic meaning, central-theme development, and motif status for listed symbols. Student-completed theme claims, definitions, and motif labels are stored separately; they are not converted into teacher-approved interpretations.",
+    "verificationStatus":"checked_pdf_text",
+    "uncertainty":"The source pages interleave teacher-provided theme prompts/lists with student-entered responses and definitions."
+  }
+]
